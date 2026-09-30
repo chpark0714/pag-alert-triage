@@ -4,7 +4,7 @@ Code, payload corpus, harness, per-item model outputs, and paper build for:
 
 > A. L. Edwin Jose Jebaslin Vijila and C. H. Park, "Provenance Marking and Information Exclusion in LLM-Augmented Alert Triage: Security Effects and Operational Costs."
 
-Release: `[TAG]` · commit `[HASH]` · models and run dates in `MANIFEST.json`.
+Repository: https://github.com/chpark0714/pag-alert-triage · Release: `v1.0` · models and run dates in `MANIFEST.json`.
 
 ## What is here
 

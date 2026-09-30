@@ -1,0 +1,106 @@
+{
+ "models": {
+  "gpt-4o-mini": {
+   "records": "results_v2/gpt-4o-mini/records.json",
+   "decoding": "temperature=0, seed passed"
+  },
+  "gpt-6-astra": {
+   "records": "results_frontier/gpt-6-astra/records.json",
+   "decoding": "API default sampling (temperature/seed rejected by the endpoint)"
+  }
+ },
+ "run_dates": {
+  "gpt-4o-mini": "2026-09-11/12",
+  "gpt-6-astra": "2026-09-12"
+ },
+ "generator": {
+  "n_per_seed": 60,
+  "seeds": [
+   20260911,
+   20261911,
+   20262911
+  ],
+  "stratum_weights": [
+   0.34,
+   0.33,
+   0.33
+  ],
+  "pipeline": "parse"
+ },
+ "cache_key": "sha256(model, temperature, seed, system, user)[:40]",
+ "accounting": {
+  "gpt-4o-mini": {
+   "conditions": 12,
+   "logical_evaluations": 3456,
+   "p2_second_stage": 30,
+   "requests": 3486,
+   "distinct_stage1": 2349,
+   "distinct_gate": 180,
+   "api_calls": 2529,
+   "cache_reuse": 957
+  },
+  "gpt-6-astra": {
+   "conditions": 12,
+   "logical_evaluations": 3456,
+   "p2_second_stage": 10,
+   "requests": 3466,
+   "distinct_stage1": 2349,
+   "distinct_gate": 180,
+   "api_calls": 2529,
+   "cache_reuse": 937
+  }
+ },
+ "prespecified_comparisons": [
+  {
+   "a": "P1_pag_render",
+   "b": "P0_inline_prov",
+   "stratum": null,
+   "label": "malicious",
+   "why": "appendix relocation (D2)"
+  },
+  {
+   "a": "P0_inline_prov",
+   "b": "B1N_structured_norm",
+   "stratum": null,
+   "label": "malicious",
+   "why": "provenance framing"
+  },
+  {
+   "a": "B1N_structured_norm",
+   "b": "B1_structured",
+   "stratum": null,
+   "label": "malicious",
+   "why": "normalization"
+  },
+  {
+   "a": "P1_pag_render",
+   "b": "B1_structured",
+   "stratum": null,
+   "label": "malicious",
+   "why": "proposal vs. strongest prior"
+  },
+  {
+   "a": "P2_pag_full",
+   "b": "P1_pag_render",
+   "stratum": null,
+   "label": "malicious",
+   "why": "downgrade gate (D3), security"
+  },
+  {
+   "a": "P2_pag_full",
+   "b": "P1_pag_render",
+   "stratum": "B-ref",
+   "label": "benign",
+   "why": "gate cost, B-ref stratum"
+  }
+ ],
+ "post_hoc_conditions": [
+  "X1_note_minimal",
+  "X2_note_authority",
+  "X3_note_neutral",
+  "G_gate_only"
+ ],
+ "repository": "https://github.com/chpark0714/pag-alert-triage",
+ "release_tag": "v1.0",
+ "code_commit": "see the v1.0 release page; the tag is the citable identifier"
+}

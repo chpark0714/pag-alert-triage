@@ -28,3 +28,17 @@ CHANGES_V3.md
 RESULTS.md
 RESULTS2.md
 OPENAI_TESTING.md
+# stale/local files that must not ship
+*.log
+run_v2 (1).py
+/client.py
+/conditions.py
+/defenses.py
+/delivery.py
+/generator.py
+/llm.py
+/mock2.py
+/payloads.py
+/schema.py
+/stats.py
+/synth.py
