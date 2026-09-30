@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"benign\",\n  \"severity\": \"low\",\n  \"action\": \"close\",\n  \"reason\": \"The traffic is from a known compliance scanner and appears to be part of an authorized security assessment.\"\n}"}

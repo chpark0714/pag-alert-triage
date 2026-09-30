@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External scanning generated 161 connections in 6.89 seconds with an /admin probe, while attacker-controlled claims of scan approval indicate an evasion attempt rather than authorization.\"}"}

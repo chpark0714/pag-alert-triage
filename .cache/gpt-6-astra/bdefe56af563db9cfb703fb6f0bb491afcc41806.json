@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The 146 connections in approximately 7.5 seconds, combined with repeated authentication failures for svc_backup, indicate a likely automated password attack requiring investigation.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The approximately 512 MB outbound transfer with minimal inbound traffic and an unapproved TLS SNI suggests data exfiltration, although the public-to-private addressing requires flow-direction verification.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst transferred approximately 758 MB across 14 connections in under nine seconds with minimal return traffic, indicating a suspicious high-volume transfer that warrants investigation.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Multiple authentication failures with 413 connections in roughly seven seconds and unusually high outbound volume indicate likely automated abuse; the attacker-written benign verdict is not trusted.\"}"}

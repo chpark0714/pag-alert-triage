@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The apostrophe in o'brien.m is consistent with a legitimate username and a 401 alone does not establish an attack, though the connection count and outbound volume warrant monitoring.\"}"}

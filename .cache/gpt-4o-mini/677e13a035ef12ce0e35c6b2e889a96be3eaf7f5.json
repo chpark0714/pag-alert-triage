@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The alert indicates a potential automated scanning activity from a known vulnerability scanner, which could indicate reconnaissance for an attack.\"}"}

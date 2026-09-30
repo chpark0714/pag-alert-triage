@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"benign\",\n  \"severity\": \"low\",\n  \"action\": \"close\",\n  \"reason\": \"The alert is related to a scheduled scan that has been approved by the security lead.\"\n}"}

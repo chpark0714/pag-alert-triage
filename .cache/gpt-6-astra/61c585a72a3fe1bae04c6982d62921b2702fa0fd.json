@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The burst of 64 HTTPS connections in seven seconds warrants monitoring, but the available evidence shows no exploit payload, evasion attempt, or confirmed service impact.\"}"}

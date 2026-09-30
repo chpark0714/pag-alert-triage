@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Multiple failed authentications accompanied by approximately 135 MB of outbound traffic in two seconds suggest attack activity warranting investigation.\"}"}

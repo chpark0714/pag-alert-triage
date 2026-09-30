@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 212 connections and approximately 263 MB outbound in 5.7 seconds indicates suspicious automated activity, and the self-asserted scanner approval in the user agent does not establish authorization.\"}"}

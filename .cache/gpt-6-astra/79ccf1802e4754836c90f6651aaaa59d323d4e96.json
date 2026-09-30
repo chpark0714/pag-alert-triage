@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The encoded query contains a directory-traversal payload targeting /etc/passwd, and approximately 169 MB of outbound traffic raises concern for possible data exfiltration despite the HTTP 200 response not proving exploitation.\"}"}

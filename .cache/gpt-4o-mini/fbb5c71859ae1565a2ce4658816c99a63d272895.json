@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"benign\",\n  \"severity\": \"low\",\n  \"action\": \"close\",\n  \"reason\": \"The alert is a known false positive related to automated scanning tools.\"\n}"}

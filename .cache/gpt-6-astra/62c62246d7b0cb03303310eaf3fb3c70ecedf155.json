@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The successful spreadsheet upload coincides with approximately 505 MB outbound and 301 connections over 8.5 seconds, suggesting anomalous bulk data transfer that warrants investigation for possible exfiltration.\"}"}

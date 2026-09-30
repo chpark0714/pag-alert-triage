@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 666 MB transferred outbound across 288 connections with minimal return traffic and an SNI outside approved egress domains indicates suspected exfiltration, while the private destination IP and untrusted sanctioned-scanner claim require validation.\"}"}

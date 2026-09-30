@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload of q3_report.xlsx.php to /upload returned HTTP 200, indicating a likely attempt to disguise an executable PHP payload as a spreadsheet, with 220 connections adding concern.\"}"}

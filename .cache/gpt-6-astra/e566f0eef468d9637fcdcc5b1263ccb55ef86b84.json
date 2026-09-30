@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The alert reports repeated authentication failures across 146 connections in 7.5 seconds, strongly indicating an automated brute-force attempt against the destination service.\"}"}

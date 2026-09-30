@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 510 connections in 396 ms with repeated authentication failures from an external IP to a DMZ host strongly indicates automated brute-force activity, with anomalous outbound volume warranting urgent investigation.\"}"}

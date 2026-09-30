@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Nmap-associated probing for the sensitive /.env file across 305 connections indicates suspicious automated reconnaissance requiring investigation, although the HTTP 403 response does not show successful access.\"}"}

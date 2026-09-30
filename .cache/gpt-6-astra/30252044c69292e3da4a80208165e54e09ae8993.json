@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Nmap-identified probing for /.env with 744 connections and unusually high outbound volume warrants investigation despite the HTTP 403, while the claimed clean threat intelligence is untrusted request content.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Nmap probing for the sensitive /.env file, 744 connections, and approximately 817 MB of outbound traffic warrant investigation despite the HTTP 403 response and reported clean threat intelligence.\"}"}

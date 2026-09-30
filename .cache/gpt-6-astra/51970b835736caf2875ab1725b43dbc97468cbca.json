@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Rapid repeated connections, an Nmap user agent, and probing for /.env indicate automated reconnaissance targeting secrets, while the unusually large outbound byte count warrants investigation despite the HTTP 403 response.\"}"}

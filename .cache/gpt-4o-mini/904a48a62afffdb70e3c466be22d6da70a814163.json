@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"benign\",\n  \"severity\": \"low\",\n  \"action\": \"close\",\n  \"reason\": \"The alert indicates a normal web request with encoded parameters and a low severity prior.\"\n}"}

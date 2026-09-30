@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 244 connections in 613 ms targeting /admin indicates aggressive reconnaissance, and the attacker-controlled claim of scan approval is an evasion indicator rather than trusted authorization.\"}"}

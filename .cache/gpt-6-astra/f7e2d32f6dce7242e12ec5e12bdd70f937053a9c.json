@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner detection, 198 connections in 168 ms, and /admin probe indicate suspicious reconnaissance, while sender-supplied Nessus and approval claims do not establish authorization.\"}"}

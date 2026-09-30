@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Scanner activity targeting /admin includes attacker-controlled approval claims and an explicit attempt to inject a benign verdict, while 310 MB outbound in 7.7 seconds warrants urgent investigation.\"}"}

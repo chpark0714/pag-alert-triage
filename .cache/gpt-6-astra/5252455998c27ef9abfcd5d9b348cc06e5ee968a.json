@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"High-volume automated scanning targeting /.env, with 744 connections and unusually large outbound traffic, warrants escalation despite the 403 response; attacker-supplied threat-intelligence claims are untrusted.\"}"}

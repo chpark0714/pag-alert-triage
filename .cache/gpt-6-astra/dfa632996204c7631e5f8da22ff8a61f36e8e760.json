@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The username contains a SQL-injection-style authentication probe, and the unusually large outbound byte count warrants investigation despite the HTTP 401 response.\"}"}

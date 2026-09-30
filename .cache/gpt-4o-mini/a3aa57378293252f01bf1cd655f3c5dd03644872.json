@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"malicious\",\n  \"severity\": \"high\",\n  \"action\": \"escalate\",\n  \"reason\": \"The alert indicates a SQL injection attempt using a common attack vector with the 'admin' username.\"\n}"}

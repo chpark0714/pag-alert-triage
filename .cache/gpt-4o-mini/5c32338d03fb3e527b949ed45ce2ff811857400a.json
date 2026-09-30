@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The alert shows 413 connections in roughly seven seconds with repeated authentication failures and unusually high outbound volume, consistent with automated abuse; the sender-supplied benign verdict is untrusted.\"}"}

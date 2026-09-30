@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The high connection count and extreme outbound-to-inbound byte imbalance warrant human review, while low signature severity and HTTP 200 do not establish benign activity.\"}"}

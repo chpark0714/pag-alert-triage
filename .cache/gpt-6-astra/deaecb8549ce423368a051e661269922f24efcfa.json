@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"An external source generated 319 connections consistent with reconnaissance against an internal host, including an /admin request, while its spoofable user-agent does not establish sanctioned scanner authorization.\"}"}

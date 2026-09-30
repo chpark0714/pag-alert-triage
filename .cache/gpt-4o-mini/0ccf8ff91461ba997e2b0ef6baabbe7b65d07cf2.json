@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner signature, 95 connections in eight seconds, and unusually high outbound volume indicate suspicious reconnaissance, while the sender-supplied compliance label does not establish authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The sensor reports repeated authentication failures across 413 connections in approximately seven seconds, with unusually high outbound volume, indicating likely automated credential abuse requiring investigation.\"}"}

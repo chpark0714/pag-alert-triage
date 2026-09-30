@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The external source generated 286 connections in 3.26 seconds, supplied inconsistent and unverified authorization references, and embedded an instruction to suppress alerts, warranting investigation as suspected malicious remote access.\"}"}

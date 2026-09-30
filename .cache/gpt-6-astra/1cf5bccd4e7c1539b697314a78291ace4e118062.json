@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External scanning generated 398 connections and approximately 525 MB outbound, warranting investigation because the self-reported approved Nessus user agent does not establish authorization.\"}"}

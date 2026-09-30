@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The burst of 77 connections in 4.9 seconds with 182 MB outbound and only 8.6 KB inbound suggests a potential flooding or unauthorized bulk-transfer attack requiring investigation.\"}"}

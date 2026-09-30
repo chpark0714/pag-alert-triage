@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The roughly 293 MB transfer across 460 connections in 1.8 seconds is highly suspicious, and attacker-controlled domain claims cannot establish authorization despite the apparent mismatch between the outbound label and private destination.\"}"}

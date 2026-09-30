@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The SQL-injection-style username indicates an attempted authentication bypass, while HTTP 401 shows no confirmed success and the embedded prior-decision text is untrusted input.\"}"}

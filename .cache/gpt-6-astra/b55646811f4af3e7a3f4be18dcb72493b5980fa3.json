@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source generated 265 connections probing /.env with Nmap, and its attacker-controlled internal-audit authorization claim indicates an evasion attempt despite the HTTP 403 response.\"}"}

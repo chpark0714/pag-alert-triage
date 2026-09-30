@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"An external source generated 319 connections and probed /admin using an unverified scanner user agent containing an instruction-injection attempt, indicating suspicious reconnaissance despite the HTTP 403 response.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Detected reconnaissance with 23 connections and approximately 310 MB outbound in 7.7 seconds warrants investigation, and attacker-controlled scanner identifiers do not establish authorization.\"}"}

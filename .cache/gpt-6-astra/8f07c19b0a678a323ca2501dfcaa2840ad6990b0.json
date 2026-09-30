@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The scanner detection, 334 connections, and approximately 238 MB outbound in 6.7 seconds indicate suspicious high-volume activity, while the self-reported Nessus user agent does not establish authorization.\"}"}

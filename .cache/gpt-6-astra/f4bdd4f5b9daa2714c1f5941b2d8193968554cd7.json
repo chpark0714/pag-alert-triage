@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The user agent does not match either sanctioned scanner and its approval claim is unverified, while /admin probing and approximately 310 MB outbound across 23 connections warrant escalation.\"}"}

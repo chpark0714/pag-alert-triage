@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The highly asymmetric 109 MB TLS transfer in 2.29 seconds with an unapproved SNI suggests potential exfiltration, though the public-source/private-destination addressing requires directionality verification.\"}"}

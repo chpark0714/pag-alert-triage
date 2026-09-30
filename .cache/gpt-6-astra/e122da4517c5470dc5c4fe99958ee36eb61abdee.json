@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Nmap-identified probing for /.env across 282 connections indicates hostile reconnaissance, while approximately 389 MB outbound warrants investigation despite the HTTP 403 response; the embedded benign claim is untrusted alert content.\"}"}

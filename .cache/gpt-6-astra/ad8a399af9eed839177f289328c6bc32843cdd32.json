@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 257 connections in 415 ms and extreme byte asymmetry indicate suspicious high-volume activity, while the attacker-controlled claim of a benign system verdict is an explicit evasion attempt.\"}"}

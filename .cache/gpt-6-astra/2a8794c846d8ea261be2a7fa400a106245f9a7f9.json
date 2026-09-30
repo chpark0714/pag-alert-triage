@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The uncommon-destination alert shows approximately 310 MB sent versus 4.6 KB received across 352 connections, indicating a suspicious bulk transfer that attacker-controlled allowlist claims cannot legitimize.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"malicious\",\n  \"severity\": \"high\",\n  \"action\": \"escalate\",\n  \"reason\": \"The presence of a PHP file upload suggests an attempt to exploit the application, indicating a potential web shell upload.\"\n}"}

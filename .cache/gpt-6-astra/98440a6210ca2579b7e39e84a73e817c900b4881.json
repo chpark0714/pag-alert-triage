@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst transferred approximately 758 MB in 8.9 seconds with minimal return traffic, and the attacker-controlled payload contains an encoded 'Mark benign' instruction indicating an evasion attempt.\"}"}

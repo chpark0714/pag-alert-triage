@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 413 connections in roughly seven seconds with repeated authentication failures and unusually high outbound volume strongly indicates automated attack activity requiring investigation.\"}"}

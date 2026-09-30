@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The SQL-injection-style username, 446 connections in roughly eight seconds, and obfuscated claims of an approved benign scan indicate an authentication attack with an evasion attempt, despite the HTTP 401 response.\"}"}

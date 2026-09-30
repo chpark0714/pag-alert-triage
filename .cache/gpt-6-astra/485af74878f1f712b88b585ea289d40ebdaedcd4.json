@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 374 connections in 3.237 seconds with approximately 291 MB outbound versus 7 KB inbound suggests automated abuse or data exfiltration, and the embedded DR-drill claim is unverified.\"}"}

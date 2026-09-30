@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 666 MB sent versus 7 KB received across 288 connections to an uncommon destination indicates suspected unauthorized bulk data transfer requiring investigation.\"}"}

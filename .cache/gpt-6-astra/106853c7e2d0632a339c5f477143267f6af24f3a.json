@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The 266 connections to port 443 in 1.24 seconds and approximately 30 MB outbound versus 998 bytes inbound indicate suspected automated flooding requiring investigation.\"}"}

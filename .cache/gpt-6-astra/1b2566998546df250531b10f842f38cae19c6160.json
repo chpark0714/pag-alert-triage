@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 155 connections in 4.5 seconds combined with approximately 390 MB outbound versus 1.2 KB inbound indicates likely automated abuse or unauthorized data transfer requiring investigation.\"}"}

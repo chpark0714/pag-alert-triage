@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 168 connections and approximately 370 MB outbound in three seconds indicates aggressive scanning or abuse, while attacker-supplied scanner identifiers cannot establish authorization.\"}"}

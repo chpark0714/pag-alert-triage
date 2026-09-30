@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"An Nmap-identified probe for /.env, 282 connections, and unusually high outbound traffic warrant investigation despite the HTTP 403 response; the embedded benign claim is untrusted input.\"}"}

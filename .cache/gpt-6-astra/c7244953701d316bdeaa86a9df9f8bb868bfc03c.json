@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An Nmap-identified probe for /.env, 744 connections, and approximately 817 MB of outbound traffic indicate hostile reconnaissance with anomalous data volume requiring investigation despite the HTTP 403 response.\"}"}

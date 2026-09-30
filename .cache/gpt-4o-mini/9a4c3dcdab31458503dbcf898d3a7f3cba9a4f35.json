@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The scanner signature, Nmap user agent, attempt to access /.env, and 685 connections in roughly 5.5 seconds indicate hostile reconnaissance, while the unusually large outbound volume warrants investigation despite the HTTP 403 response.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Although the encoded search text is benign, 265 connections and approximately 291 MB outbound in 5.8 seconds suggest automated bulk data extraction requiring investigation.\"}"}

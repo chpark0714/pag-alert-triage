@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"close\",\"reason\":\"The URI contains ordinary percent-encoded Korean search text, with no exploit payload or other corroborating evidence of an attack.\"}"}

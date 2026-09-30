@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote session shows suspected data exfiltration with approximately 497 MB outbound versus 876 bytes inbound and 220 connections in eight seconds; the ticket reference in untrusted session data does not establish authorization.\"}"}

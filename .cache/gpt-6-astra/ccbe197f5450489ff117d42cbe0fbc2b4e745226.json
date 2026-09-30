@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External scanning generated 165 connections, probed /admin, and coincided with anomalous outbound volume of approximately 584 MB; the untrusted User-Agent does not establish scanner authorization.\"}"}

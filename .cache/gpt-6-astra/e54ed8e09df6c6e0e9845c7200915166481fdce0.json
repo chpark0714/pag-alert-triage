@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The admin credential contains a SQL-injection-style payload, and 193 connections within 7.8 seconds indicate aggressive authentication probing despite the observed HTTP 401 response.\"}"}

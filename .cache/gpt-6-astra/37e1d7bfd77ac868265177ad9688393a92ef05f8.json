@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"A roughly 512 MB transfer associated with an unapproved TLS destination suggests possible exfiltration, though the external-to-internal IP direction conflicts with the outbound signature and requires verification.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The low-severity signature and HTTP 200 do not establish benign activity, while 235 connections and approximately 343 MB outbound versus 2 KB inbound warrant human review.\"}"}

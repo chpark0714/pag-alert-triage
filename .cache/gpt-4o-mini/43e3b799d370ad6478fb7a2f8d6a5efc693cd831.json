@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"malicious\",\n  \"severity\": \"high\",\n  \"action\": \"escalate\",\n  \"reason\": \"The presence of a suspicious file extension and an attempt to manipulate severity indicates a potential attack.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The uncommon-destination alert shows approximately 17.5 MB outbound versus 4.6 KB inbound across 117 connections in 4.5 seconds, indicating suspected data exfiltration; attacker-controlled instructions and allowlist claims do not establish legitimacy.\"}"}

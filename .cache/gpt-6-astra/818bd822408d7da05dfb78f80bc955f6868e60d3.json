@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external-to-DMZ upload alert combines 190 connections with approximately 323 MB transferred over a reported 1.464-second duration, suggesting automated bulk-transfer abuse despite the innocuous filename.\"}"}

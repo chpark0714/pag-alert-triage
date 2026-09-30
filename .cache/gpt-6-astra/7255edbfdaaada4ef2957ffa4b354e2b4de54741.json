@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The user agent impersonates an approved scanner and embeds instructions to misclassify the alert, while /admin probing, 198 connections, and anomalous outbound volume warrant investigation despite the private source address.\"}"}

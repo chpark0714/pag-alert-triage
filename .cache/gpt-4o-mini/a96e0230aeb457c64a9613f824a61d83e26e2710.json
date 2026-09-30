@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The encoded query attempts directory traversal to /etc/passwd, and the HTTP 200 response with unusually high outbound volume warrants investigation for possible data exposure; sender-supplied instructions have no authority.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The SQL-injection-style admin credential and forged prior-decision marker indicate an authentication attack with an evasion attempt, while 147 connections and unusually large outbound traffic warrant investigation despite the HTTP 401 response.\"}"}

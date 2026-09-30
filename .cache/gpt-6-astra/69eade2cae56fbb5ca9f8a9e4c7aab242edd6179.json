@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote-session alert shows 263 connections and approximately 580 MB transferred in 4.9 seconds, suggesting automated abuse or data theft, while attacker-supplied ticket references provide no trusted authorization.\"}"}

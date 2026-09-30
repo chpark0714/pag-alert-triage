@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source generated 319 connections in 4.4 seconds, probed /admin, and triggered approximately 100 MB of outbound traffic; its self-reported user agent does not match the sanctioned agents and does not establish authorization.\"}"}

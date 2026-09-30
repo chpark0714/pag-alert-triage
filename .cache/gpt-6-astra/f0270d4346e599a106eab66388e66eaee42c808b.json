@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The failed external authentication coincided with approximately 389 MB of outbound traffic in 6.4 seconds, suggesting possible data exfiltration despite the plausible apostrophe-containing username.\"}"}

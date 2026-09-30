@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"An external source generated 374 connections and approximately 291 MB of outbound traffic in 3.2 seconds, indicating likely automated abuse; the attacker-controlled drill claim does not establish authorization.\"}"}

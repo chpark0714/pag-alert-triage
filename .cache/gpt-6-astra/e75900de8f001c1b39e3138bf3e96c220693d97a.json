@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Although the query contains ordinary URL-encoded Korean text, approximately 315 MB outbound versus 6.8 KB inbound and 284 connections in roughly six seconds suggest bulk data exfiltration requiring investigation.\"}"}

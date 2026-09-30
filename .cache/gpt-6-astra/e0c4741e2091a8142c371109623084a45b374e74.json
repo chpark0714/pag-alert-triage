@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The uncommon-destination transfer sent approximately 346 MB across 99 connections in 5.5 seconds with minimal return traffic, indicating suspected exfiltration, and the attacker-controlled domain fields provide no trustworthy authorization.\"}"}

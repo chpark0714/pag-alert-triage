@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The 244 connections in 613 ms and approximately 134 MB outbound indicate suspicious scanning activity, while the user-agent approval claim and benign-review text do not establish that the source is authorized.\"}"}

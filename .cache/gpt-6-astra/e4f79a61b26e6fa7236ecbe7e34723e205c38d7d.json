@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The scanner detection and approximately 448 MB outbound in 5.8 seconds warrant investigation despite the sensor-confirmed HTTP 403; attacker-supplied compliance labeling and a claimed 200 response do not establish legitimacy.\"}"}

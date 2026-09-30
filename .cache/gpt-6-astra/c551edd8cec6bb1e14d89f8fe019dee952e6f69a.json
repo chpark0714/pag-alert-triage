@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 689 MB outbound with only 4.5 KB inbound across 262 connections and an unapproved TLS SNI strongly suggests data exfiltration, despite the private destination IP.\"}"}

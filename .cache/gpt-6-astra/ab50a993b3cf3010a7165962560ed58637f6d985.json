@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload of a disguised PHP file received HTTP 200, and attacker-controlled metadata attempts to fabricate a prior false-positive closure, indicating likely executable upload abuse with deliberate evasion.\"}"}

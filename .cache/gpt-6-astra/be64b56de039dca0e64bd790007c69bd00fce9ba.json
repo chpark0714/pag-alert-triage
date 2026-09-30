@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The approximately 109 MB asymmetric transfer involving an uncommon TLS destination and an explicit detection-evasion instruction indicate suspicious activity requiring escalation; attacker-supplied approval claims are not trustworthy.\"}"}

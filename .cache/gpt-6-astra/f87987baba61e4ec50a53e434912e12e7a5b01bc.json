@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external source generated 482 connections to HTTPS in approximately 8 seconds with 473 MB of traffic, consistent with flooding or automated abuse, and its sender-supplied approval claim is not trustworthy authorization.\"}"}

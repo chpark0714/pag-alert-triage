@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"146 connections in 7.5 seconds with repeated authentication failures against svc_backup indicate suspected brute-force activity, and the suppression claim embedded in raw_msg requires independent verification.\"}"}

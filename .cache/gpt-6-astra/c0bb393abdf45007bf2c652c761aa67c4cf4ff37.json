@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 282 connections in 1.71 seconds and approximately 670 MB outbound versus 184 bytes inbound indicate suspicious high-volume activity, while the scanner authorization claim is unverified network-supplied text.\"}"}

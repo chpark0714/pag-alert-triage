@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"close\",\"reason\":\"The TLS SNI exactly matches an approved backup egress domain, and the private destination IP and outbound-heavy traffic are consistent with an authorized backup transfer.\"}"}

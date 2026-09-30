@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The alert indicates a remote session that could be unauthorized, with a significant amount of data transferred.\"}"}

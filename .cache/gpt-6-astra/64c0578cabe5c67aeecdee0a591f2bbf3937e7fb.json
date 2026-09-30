@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External scanner activity generated 115 connections in 5.4 seconds with approximately 410 MB outbound, warranting investigation because attacker-controlled scanner labels do not establish authorization.\"}"}

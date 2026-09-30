@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The 244 connections targeting an administrative endpoint and approximately 134 MB outbound suggest suspicious scanning activity, while the nonmatching user-agent approval claim does not establish authorization.\"}"}

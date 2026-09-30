@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The encoded-parameter alert, 177 connections, and roughly 28 MB outbound versus 1 KB inbound warrant investigation; low severity and HTTP 200 do not establish benign activity.\"}"}

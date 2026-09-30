@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"An external source generated 51 connections in approximately four seconds with repeated authentication failures, indicating a likely brute-force attack against the internal destination.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The alert indicates a login attempt with unusual credentials, which is a potential unauthorized access attempt.\"}"}

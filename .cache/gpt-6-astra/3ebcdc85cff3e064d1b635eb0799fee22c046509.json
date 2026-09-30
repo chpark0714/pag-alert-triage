@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 510 connections with failed authentication indicates brute-force activity, and the obfuscated instruction in the attacker-controlled payload is an evasion attempt.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"High-volume automated probing targeted the sensitive /.env path, and the payload attempted to spoof a benign triage verdict, indicating malicious reconnaissance and evasion despite the 403 response.\"}"}

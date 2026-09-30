@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source generated 685 connections in 5.5 seconds, with Nmap identification and a blocked request for /.env indicating automated reconnaissance, while approximately 1.4 GB of outbound traffic warrants urgent investigation.\"}"}

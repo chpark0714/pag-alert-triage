@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"A roughly 123 MB transfer in 7.2 seconds to an uncommon internal destination with minimal return traffic suggests unauthorized data movement, and the attacker-controlled domain list cannot establish approval.\"}"}

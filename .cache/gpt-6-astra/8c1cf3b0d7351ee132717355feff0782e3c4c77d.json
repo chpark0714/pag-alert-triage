@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload of a double-extension .xlsx.php file received HTTP 200, indicating a likely executable payload disguised as a spreadsheet, with unusually high transfer volume across 61 connections.\"}"}

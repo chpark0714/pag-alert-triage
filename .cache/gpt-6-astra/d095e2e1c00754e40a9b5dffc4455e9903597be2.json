@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner signature, 265 connections, and attempted access to /.env indicate hostile reconnaissance despite the 403 response, while attacker-supplied audit claims do not establish authorization.\"}"}

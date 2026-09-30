@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The encoded ../../etc/passwd payload indicates a path-traversal attempt, and the HTTP 200 response plus unusually large outbound traffic warrants investigation for possible data exposure without confirming successful exploitation.\"}"}

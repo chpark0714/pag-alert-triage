@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The remote-assistance reference matches a listed open ticket and no exploit activity is shown, but the 212 connections warrant monitoring and independent verification of authorization.\"}"}

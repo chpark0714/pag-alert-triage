@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The alert reports 217 connections in 4.6 seconds with repeated authentication failures from an external IP to a DMZ host, indicating likely automated brute-force activity with anomalously high outbound traffic.\"}"}

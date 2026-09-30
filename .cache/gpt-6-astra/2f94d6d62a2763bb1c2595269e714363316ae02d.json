@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The reported 166 MB outbound transfer in 27 ms across 99 connections and external-to-internal addressing warrant investigation for suspected exfiltration or telemetry errors despite the approved TLS SNI.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Despite benign-looking Korean search parameters, 414 connections and approximately 363 MB outbound versus 3.8 KB inbound in 6.7 seconds indicate suspected automated bulk extraction requiring investigation.\"}"}

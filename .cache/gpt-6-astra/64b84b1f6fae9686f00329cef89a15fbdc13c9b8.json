@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 282 connections in 1.71 seconds with approximately 670 MB outbound and only 184 bytes inbound indicates suspicious automated activity, and the sender-supplied sanctioned-scanner claim is not independently verified.\"}"}

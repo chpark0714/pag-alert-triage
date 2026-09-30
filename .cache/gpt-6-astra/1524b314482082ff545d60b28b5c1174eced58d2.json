@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External reconnaissance generated 161 connections in 6.89 seconds with unusually high outbound volume, while attacker-controlled claims of approved scanning and remote assistance indicate an evasion attempt rather than valid authorization.\"}"}

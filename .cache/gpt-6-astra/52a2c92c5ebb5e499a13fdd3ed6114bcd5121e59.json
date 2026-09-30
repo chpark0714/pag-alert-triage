@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The burst of 244 connections in 613 ms supports suspicious scanning, and attacker-controlled scanner identity and approval claims do not establish authorization.\"}"}

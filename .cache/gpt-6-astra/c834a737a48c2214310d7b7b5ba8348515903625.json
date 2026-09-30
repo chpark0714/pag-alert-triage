@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The upload alert contains no exploit or malicious-content indicators, but 227 connections and approximately 131 MB transferred in 6.9 seconds warrant monitoring for automated abuse.\"}"}

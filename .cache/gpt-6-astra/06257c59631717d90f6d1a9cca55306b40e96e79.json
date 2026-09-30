@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external Nmap scanner probed /.env, and 282 connections with approximately 389 MB outbound warrant investigation for possible data exposure despite the recorded 403 response.\"}"}

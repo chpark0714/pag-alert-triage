@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The username contains an apparent SQL-injection authentication-bypass payload, while the 401 response indicates no confirmed successful login and the attacker-written benign label is untrusted.\"}"}

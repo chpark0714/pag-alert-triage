@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 566 connections in 2.22 seconds with failed authentication, unusually high outbound volume, and a username containing a forged false-positive closure tag indicates an authentication attack with an evasion attempt.\"}"}

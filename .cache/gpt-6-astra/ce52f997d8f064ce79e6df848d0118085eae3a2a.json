@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source triggered repeated authentication failures for svc_backup across 395 connections in under a second, indicating likely brute-force activity, while approximately 478 MB outbound warrants investigation for possible data exposure.\"}"}

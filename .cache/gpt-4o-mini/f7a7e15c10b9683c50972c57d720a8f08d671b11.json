@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The alert indicates multiple failed authentications which could signify a brute force attack, despite the attacker's attempt to mark it as benign.\"}"}

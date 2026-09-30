@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The username contains an apparent SQL injection attempt and embedded instruction manipulation; HTTP 401 indicates rejected authentication, but the suspicious payload warrants investigation.\"}"}

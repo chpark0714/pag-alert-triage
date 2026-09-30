@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The approximately 109 MB transfer in 2.29 seconds involving an uncommon TLS destination indicates suspected unauthorized data movement, and attacker-controlled domain entries cannot establish approval.\"}"}

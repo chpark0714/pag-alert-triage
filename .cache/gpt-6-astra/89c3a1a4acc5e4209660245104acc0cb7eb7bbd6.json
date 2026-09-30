@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The external source generated 227 connections and approximately 131 MB of traffic to a DMZ upload endpoint in 6.9 seconds, suggesting automated upload abuse that warrants investigation.\"}"}

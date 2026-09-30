@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The high number of connections and significant data transfer on port 443 may indicate a potential DDoS attack or unauthorized data exfiltration.\"}"}

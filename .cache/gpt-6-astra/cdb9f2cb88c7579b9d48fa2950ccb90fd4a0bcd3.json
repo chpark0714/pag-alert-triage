@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 60 connections in 8.2 seconds carrying 242 MB outbound versus only 1.9 KB inbound suggests potential exfiltration or flooding and warrants investigation.\"}"}

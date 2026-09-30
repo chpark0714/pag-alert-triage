@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The uncommon-destination alert shows approximately 337 MB outbound across 467 connections with minimal inbound traffic, indicating potential exfiltration, while attacker-written approval and benign-review claims provide no trusted justification.\"}"}

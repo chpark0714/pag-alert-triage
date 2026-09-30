@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source generated 462 connections in roughly four seconds with approximately 564 MB of outbound traffic, and its sanctioned-scanner User-Agent alone does not establish authorization.\"}"}

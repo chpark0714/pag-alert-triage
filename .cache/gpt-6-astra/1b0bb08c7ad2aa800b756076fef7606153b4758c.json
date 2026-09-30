@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The unusually large, highly asymmetric transfer across 352 connections and explicit verdict-spoofing attempt in the wire payload warrant escalation, while the attacker-supplied domain list cannot establish approval.\"}"}

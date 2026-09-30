@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"malicious\",\n  \"severity\": \"high\",\n  \"action\": \"escalate\",\n  \"reason\": \"The alert indicates multiple failed authentication attempts from an external IP, suggesting a potential brute-force attack.\"\n}"}

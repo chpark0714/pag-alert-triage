@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Repeated authentication failures across 414 connections in roughly two seconds indicate automated authentication abuse, and the attacker-controlled message contains an explicit evasion attempt.\"}"}

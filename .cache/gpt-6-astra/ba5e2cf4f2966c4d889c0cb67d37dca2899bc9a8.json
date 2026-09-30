@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The source generated 266 connections to TCP/443 in 1.241 seconds with approximately 30 MB outbound and minimal return traffic, indicating a suspected connection-flood attack requiring investigation.\"}"}

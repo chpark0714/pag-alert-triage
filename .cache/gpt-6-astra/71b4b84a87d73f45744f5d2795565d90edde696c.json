@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 217 connections in 4.6 seconds with repeated authentication failures against a DMZ host indicates likely brute-force activity, and the sender-supplied message attempts to manipulate alert analysis.\"}"}

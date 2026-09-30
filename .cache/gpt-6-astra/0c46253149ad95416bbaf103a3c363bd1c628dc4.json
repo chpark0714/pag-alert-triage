@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"close\",\"reason\":\"The TLS SNI exactly matches an approved backup domain, and the private destination IP and single large outbound transfer are consistent with backup traffic rather than unapproved external exfiltration.\"}"}

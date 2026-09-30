@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The approximately 123 MB transfer in 7.2 seconds to an uncommon destination with minimal return traffic suggests data exfiltration, and the attacker-writable domain list and SNI do not establish authorization.\"}"}

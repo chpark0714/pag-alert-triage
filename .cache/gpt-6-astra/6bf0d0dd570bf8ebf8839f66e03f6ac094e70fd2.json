@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The approximately 310 MB transfer across 352 connections in 312 ms, extreme traffic asymmetry, and uncommon TLS destination indicate suspected bulk data movement requiring investigation despite inconsistent source/destination directionality.\"}"}

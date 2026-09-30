@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The 401 authentication failure, 239 connections, and approximately 141 MB outbound indicate suspected automated abuse requiring investigation, although the apostrophe in the username is not inherently malicious.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"malicious\",\n  \"severity\": \"high\",\n  \"action\": \"escalate\",\n  \"reason\": \"Multiple failed authentication attempts indicate a potential brute force attack on the svc_backup account.\"\n}"}

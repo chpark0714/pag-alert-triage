@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The upload alert, HTTP 200 response, and connection metrics do not establish authorization or benign content, so these signals alone do not justify closing without human review.\"}"}

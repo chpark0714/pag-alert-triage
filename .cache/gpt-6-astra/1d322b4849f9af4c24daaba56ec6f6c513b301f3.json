@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote session generated 140 connections and approximately 269 MB outbound versus 6 KB inbound in 2.5 seconds, suggesting bulk data transfer that warrants investigation despite the matching service-ticket reference.\"}"}

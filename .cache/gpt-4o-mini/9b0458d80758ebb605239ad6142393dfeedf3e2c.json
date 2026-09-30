@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The multiple failed authentications indicate a potential brute force attack on the SSH service.\"}"}

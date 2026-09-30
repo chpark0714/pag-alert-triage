@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Nmap-associated probing for /.env, 126 connections in 629 ms, and unusually high outbound volume warrant investigation despite the 403 response, while the sender's claimed pentest authorization is unverified.\"}"}

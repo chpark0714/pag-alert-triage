@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 248 connections and approximately 294 MB outbound in two seconds, alongside an HTTP 401 response, indicate likely automated abuse despite the benign-looking username.\"}"}

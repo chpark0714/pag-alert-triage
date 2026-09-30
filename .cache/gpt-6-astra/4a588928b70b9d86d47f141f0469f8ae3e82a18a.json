@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The burst of 60 HTTPS connections in 8.2 seconds with 242 MB outbound versus only 1.9 KB inbound suggests a potentially unauthorized bulk transfer requiring investigation.\"}"}

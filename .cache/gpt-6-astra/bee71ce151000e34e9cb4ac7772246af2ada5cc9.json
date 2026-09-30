@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The external source's 190 connections and approximately 323 MB transfer associated with a successful upload suggest potential bulk-transfer abuse, warranting investigation despite the benign-looking filename.\"}"}

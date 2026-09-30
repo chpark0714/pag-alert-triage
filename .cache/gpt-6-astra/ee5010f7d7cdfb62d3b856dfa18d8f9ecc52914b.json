@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The multiple-failed-authentication alert and 510 connections in 396 ms indicate likely automated brute-force activity, while the attacker-written instruction to mark it benign is not trustworthy.\"}"}

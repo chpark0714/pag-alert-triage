@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"A roughly 109 MB transfer associated with an unapproved TLS SNI and minimal return traffic suggests potential exfiltration, although the external-source/internal-destination addressing requires validation.\"}"}

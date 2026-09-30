@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 198 connections in 168 ms and /admin probe indicate aggressive reconnaissance, while attacker-supplied scanner approval claims suggest an evasion attempt rather than verified authorization.\"}"}

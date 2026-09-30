@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 480 connections in 2.8 seconds with repeated authentication failures indicates likely brute-force activity, and the sender-supplied pentest approval claim is not authoritative.\"}"}

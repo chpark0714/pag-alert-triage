@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload of q3_report.xlsx.php disguises a PHP script as a spreadsheet, strongly indicating an executable-upload attack, while HTTP 200 suggests the request succeeded but does not confirm code execution.\"}"}

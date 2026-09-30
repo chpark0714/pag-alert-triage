@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External scanning of /admin with 65 connections and approximately 456 MB outbound in 1.7 seconds warrants investigation, and a matching sanctioned-scanner User-Agent alone does not establish authorization.\"}"}

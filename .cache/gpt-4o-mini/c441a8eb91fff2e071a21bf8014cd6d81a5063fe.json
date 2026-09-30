@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"close\",\"reason\":\"The alert is related to an approved pentest window and the user agent indicates a sanctioned scanner.\"}"}

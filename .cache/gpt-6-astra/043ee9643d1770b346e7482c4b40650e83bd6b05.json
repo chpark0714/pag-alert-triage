@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 619 MB sent in 3.9 seconds across 15 connections to an uncommon destination indicates potential data exfiltration, and the sender-supplied domain list and matching SNI do not establish authorization.\"}"}

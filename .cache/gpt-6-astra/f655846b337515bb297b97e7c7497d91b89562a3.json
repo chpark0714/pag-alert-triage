@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"Internal traffic to /healthz with a Nessus compliance user agent suggests routine scanning, but scanner authorization, unusually high outbound volume, and conflicting HTTP statuses warrant verification.\"}"}

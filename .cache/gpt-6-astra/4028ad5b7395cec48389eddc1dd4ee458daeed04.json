@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner detection and anomalous 112 MB outbound volume warrant investigation as suspected unauthorized activity; the attacker-controlled Nessus label and HTTP 200 claim do not establish benignness or override the sensor's HTTP 403.\"}"}

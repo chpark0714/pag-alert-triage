@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner detection, 57 connections, and roughly 9.8 MB outbound indicate suspected reconnaissance; the Nessus user agent does not establish authorization, and the HTTP 403 does not make the activity benign.\"}"}

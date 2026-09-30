@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"429 connections in under nine seconds with repeated authentication failures indicate brute-force activity, while attacker-controlled claims of an authorized audit suggest an evasion attempt and cannot establish legitimacy.\"}"}

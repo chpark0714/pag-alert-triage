@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload of q3_report.xlsx.php uses a spreadsheet-disguised PHP filename consistent with a web-shell attempt, and HTTP 200 warrants urgent validation of file storage and execution.\"}"}

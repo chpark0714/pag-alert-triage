@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The uncommon-destination alert shows 117 connections and approximately 17.5 MB sent versus 4.6 KB received in 4.5 seconds, suggesting potential data exfiltration without trustworthy evidence of authorization.\"}"}

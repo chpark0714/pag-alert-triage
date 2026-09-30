@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The session shows 98 connections and approximately 489 MB outbound versus 4 KB inbound in 2.5 seconds, suggesting bulk data transfer that the matching service-ticket reference alone does not establish as authorized.\"}"}

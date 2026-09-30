@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The URI contains an encoded directory-traversal attempt targeting /etc/passwd, and the high connection count and outbound volume warrant investigation, although HTTP 200 alone does not prove exploitation.\"}"}

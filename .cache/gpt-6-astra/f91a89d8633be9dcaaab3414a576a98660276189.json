@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The anomalous transfer of approximately 310 MB across 352 connections and an explicit verdict-spoofing payload indicate malicious activity requiring investigation, despite inconsistent outbound labeling and public-to-private addressing.\"}"}

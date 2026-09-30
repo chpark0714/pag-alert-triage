@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The presence of sanctioned scanner agents indicates a compliance scan, but the unusual traffic volume and connection count suggest potential reconnaissance activity.\"}"}

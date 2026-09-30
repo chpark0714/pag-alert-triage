@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"benign\",\n  \"severity\": \"low\",\n  \"action\": \"close\",\n  \"reason\": \"The alert indicates a file upload to an application endpoint with a benign verdict from analysis.\"\n}"}

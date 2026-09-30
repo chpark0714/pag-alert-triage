@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The alert records approximately 820 MB transferred in 2.1 seconds across 156 connections involving an uncommon endpoint, indicating suspicious bulk data movement without trustworthy authorization.\"}"}

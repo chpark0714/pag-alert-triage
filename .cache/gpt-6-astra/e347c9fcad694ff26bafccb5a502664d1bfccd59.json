@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The apostrophe in a plausible username and a single HTTP 401 suggest a false-positive authentication alert, but the unusually large outbound byte count warrants monitoring.\"}"}

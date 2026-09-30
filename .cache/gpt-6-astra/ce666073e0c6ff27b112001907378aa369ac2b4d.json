@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner detection, 244 connections in 613 ms, and large outbound volume indicate suspicious reconnaissance, while sender-supplied approval and benign-review claims do not establish authorization.\"}"}

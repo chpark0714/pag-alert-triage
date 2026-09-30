@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The burst of 244 connections in 613 ms and attempted /admin access support reconnaissance, while sender-supplied scanner approval claims do not establish authorization.\"}"}

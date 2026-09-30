@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 346 MB sent to an uncommon destination in 5.5 seconds across 99 connections with minimal return traffic suggests data exfiltration, and sender-supplied domain approval claims do not establish authorization.\"}"}

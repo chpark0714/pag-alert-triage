@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The burst of 266 connections to port 443 in 1.241 seconds with approximately 30 MB sent and only 998 bytes received suggests automated flooding and warrants investigation.\"}"}

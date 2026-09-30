@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The approximately 820 MB transfer across 156 connections to an uncommon destination, combined with an explicit instruction-evasion attempt in the traffic payload, warrants escalation and verification of the apparent flow-direction mismatch.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The 212 connections, /admin probing, and approximately 263 MB outbound suggest suspicious scanning, while the user agent differs from the sanctioned value and does not establish authorization.\"}"}

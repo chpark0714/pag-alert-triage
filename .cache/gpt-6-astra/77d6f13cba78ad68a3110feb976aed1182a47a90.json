@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The approximately 689 MB outbound transfer across 262 connections in 6.45 seconds, with negligible return traffic and an uncommon TLS SNI, suggests potential data exfiltration without independently verified authorization.\"}"}

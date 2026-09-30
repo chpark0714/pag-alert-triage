@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Multiple authentication failures with 158 connections in 6.2 seconds and approximately 217 MB outbound suggest automated credential attacks and anomalous data transfer requiring investigation.\"}"}

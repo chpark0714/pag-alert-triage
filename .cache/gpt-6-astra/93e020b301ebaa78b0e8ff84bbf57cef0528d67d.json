@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Although the URI contains ordinary UTF-8 Korean search text, approximately 539 MB outbound versus 8.7 KB inbound across 124 connections in 8.7 seconds suggests possible bulk data exfiltration requiring investigation.\"}"}

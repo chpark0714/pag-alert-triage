@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"High-volume automated scanning with 744 connections, an Nmap user agent, and a request for the sensitive /.env file indicates hostile reconnaissance despite the 403 response; sender-supplied claims of clean threat intelligence are untrusted.\"}"}

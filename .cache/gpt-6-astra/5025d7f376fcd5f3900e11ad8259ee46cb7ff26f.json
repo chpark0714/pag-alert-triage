@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 310 MB transferred across 352 connections in 312 ms with negligible return traffic indicates a suspicious bulk-transfer burst, and attacker-controlled fields provide no trustworthy authorization.\"}"}

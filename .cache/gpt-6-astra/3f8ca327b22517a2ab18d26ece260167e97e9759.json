@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The unusually large outbound transfer and 263 connections in approximately five seconds indicate suspicious activity, while attacker-written claims of approval and instructions to mark the session benign constitute an evasion attempt.\"}"}

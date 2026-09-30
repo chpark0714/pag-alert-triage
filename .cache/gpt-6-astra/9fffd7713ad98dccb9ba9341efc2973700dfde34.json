@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Rapid automated scanning with 305 connections, a probe for the sensitive /.env file, and unusually high outbound volume warrants investigation despite the HTTP 403 response; the attacker-written suppression instruction is untrusted.\"}"}

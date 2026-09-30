@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"SQL-injection-style credentials indicate an authentication attack, and 193 connections with approximately 196 MB outbound warrant escalation despite the HTTP 401 response indicating failed authentication.\"}"}

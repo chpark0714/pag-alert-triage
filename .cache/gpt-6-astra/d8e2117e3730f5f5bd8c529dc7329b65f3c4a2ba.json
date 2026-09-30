@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The failed authentication, 239 connections, and approximately 141 MB of outbound traffic indicate suspected automated abuse warranting investigation, although the username alone is not malicious.\"}"}

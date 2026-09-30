@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"A roughly 123 MB outbound transfer in 7.2 seconds to an uncommon destination warrants review, and neither the private destination IP nor port 443 establishes that it was authorized or benign.\"}"}

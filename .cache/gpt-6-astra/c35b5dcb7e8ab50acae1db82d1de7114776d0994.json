@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"An external source generated 126 connections in 3.75 seconds targeting an admin endpoint, consistent with reconnaissance, while its scanner user agent and embedded approval claim do not establish authorization.\"}"}

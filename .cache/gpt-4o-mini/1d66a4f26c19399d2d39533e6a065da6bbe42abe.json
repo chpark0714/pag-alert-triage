@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external source generated 265 connections and probed /.env with an Nmap user agent, while the unusually large outbound volume warrants investigation despite the HTTP 403 and unverified sender claims of audit authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The suspicious file upload with a PHP extension indicates a potential web application attack.\"}"}

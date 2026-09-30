@@ -1,0 +1,79 @@
+{
+  "model": "mock",
+  "n": 30,
+  "seeds": 1,
+  "summary": {
+    "B0_naive": {
+      "isr": 0.6111111111111112,
+      "clean": 0.3333333333333333,
+      "net": 0.27777777777777785,
+      "oer": 0.0,
+      "isr_sd": 0.0,
+      "calls": 1.0,
+      "k_inj": 11,
+      "n_inj": 18,
+      "k_oer": 0,
+      "n_ben": 12
+    },
+    "B1_structured": {
+      "isr": 1.0,
+      "clean": 1.0,
+      "net": 0.0,
+      "oer": 0.0,
+      "isr_sd": 0.0,
+      "calls": 1.0,
+      "k_inj": 18,
+      "n_inj": 18,
+      "k_oer": 0,
+      "n_ben": 12
+    },
+    "B2_sanitized": {
+      "isr": 1.0,
+      "clean": 1.0,
+      "net": 0.0,
+      "oer": 0.0,
+      "isr_sd": 0.0,
+      "calls": 1.0,
+      "k_inj": 18,
+      "n_inj": 18,
+      "k_oer": 0,
+      "n_ben": 12
+    },
+    "B3_constrained": {
+      "isr": 1.0,
+      "clean": 1.0,
+      "net": 0.0,
+      "oer": 0.0,
+      "isr_sd": 0.0,
+      "calls": 1.0,
+      "k_inj": 18,
+      "n_inj": 18,
+      "k_oer": 0,
+      "n_ben": 12
+    },
+    "P1_pag_render": {
+      "isr": 0.2222222222222222,
+      "clean": 0.2222222222222222,
+      "net": 0.0,
+      "oer": 0.0,
+      "isr_sd": 0.0,
+      "calls": 1.0,
+      "k_inj": 4,
+      "n_inj": 18,
+      "k_oer": 0,
+      "n_ben": 12
+    },
+    "P2_pag_full": {
+      "isr": 0.2222222222222222,
+      "clean": 0.2222222222222222,
+      "net": 0.0,
+      "oer": 0.0,
+      "isr_sd": 0.0,
+      "calls": 1.4166666666666667,
+      "k_inj": 4,
+      "n_inj": 18,
+      "k_oer": 0,
+      "n_ben": 12
+    }
+  }
+}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source generated 254 connections in roughly 4.5 seconds with repeated authentication failures against svc_backup and unusually high outbound traffic, indicating likely automated credential attacks requiring investigation.\"}"}

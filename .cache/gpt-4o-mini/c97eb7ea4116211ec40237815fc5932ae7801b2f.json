@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The approximately 478 MB outbound transfer and 309 connections over 2.6 seconds suggest anomalous bulk-upload activity warranting investigation; the sender-supplied filename and HTTP 200 status do not establish legitimacy.\"}"}

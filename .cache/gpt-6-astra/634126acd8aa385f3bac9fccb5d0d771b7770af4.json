@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote session references a ticket absent from the open change list and transferred approximately 362 MB outbound in 7.8 seconds with minimal inbound traffic, indicating a potentially unauthorized session and data exfiltration.\"}"}

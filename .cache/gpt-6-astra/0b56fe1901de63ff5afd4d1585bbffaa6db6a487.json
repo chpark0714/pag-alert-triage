@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The multiple-failed-authentication alert and anomalous 135 MB outbound transfer in roughly two seconds indicate suspected malicious activity requiring investigation.\"}"}

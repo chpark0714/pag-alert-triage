@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"High-volume automated scanning from an internal source targeted the sensitive /.env path with an Nmap user agent, warranting investigation despite the HTTP 403 response.\"}"}

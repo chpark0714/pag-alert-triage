@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"malicious\",\n  \"severity\": \"high\",\n  \"action\": \"escalate\",\n  \"reason\": \"The high connection count and burst of traffic to a sensitive port indicate a potential DoS attack or scanning activity.\"\n}"}

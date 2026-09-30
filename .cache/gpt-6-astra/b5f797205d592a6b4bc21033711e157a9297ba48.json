@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The external source's high-volume administrative probing warrants investigation as unauthorized reconnaissance because a matching, spoofable scanner User-Agent does not establish authorization.\"}"}

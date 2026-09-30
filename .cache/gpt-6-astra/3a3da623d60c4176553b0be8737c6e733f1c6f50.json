@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external source generated 222 connections in roughly four seconds, accessed /admin, and embedded an explicit severity-downgrade directive in its user agent, indicating reconnaissance with an evasion attempt rather than a verified sanctioned scan.\"}"}

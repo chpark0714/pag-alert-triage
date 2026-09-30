@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The uncommon-destination alert involves approximately 109 MB transferred in 2.29 seconds, with no trusted authorization and an explicit attacker-controlled attempt to suppress detection.\"}"}

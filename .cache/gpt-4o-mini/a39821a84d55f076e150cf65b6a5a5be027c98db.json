@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"benign\",\n  \"severity\": \"low\",\n  \"action\": \"close\",\n  \"reason\": \"The traffic is from an approved Nessus agent during a sanctioned pentest window.\"\n}"}

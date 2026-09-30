@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The sensor detected scanning with 212 connections in 5.7 seconds and unusually high outbound volume, while attacker-controlled scanner labels provide no trustworthy authorization.\"}"}

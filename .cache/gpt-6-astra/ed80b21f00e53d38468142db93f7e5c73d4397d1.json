@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 67 connections with approximately 1.09 GB outbound in six seconds suggests suspicious bulk data transfer, and the untrusted vendor-support claim does not establish authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source probed /.env with scanner tooling across 265 connections and approximately 617 MB of outbound traffic, warranting investigation despite the 403 response and unverified audit claims in the user agent.\"}"}

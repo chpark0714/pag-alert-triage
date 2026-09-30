@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote session references no matching open change ticket and shows 238 connections with approximately 347 MB outbound versus 2.9 KB inbound, indicating suspected unauthorized access and data exfiltration despite untrusted claims of approval.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The encoded URI attempts traversal to /etc/passwd, the raw message contains an instruction-based evasion attempt, and 169 MB of outbound traffic warrants investigation for possible data exfiltration.\"}"}

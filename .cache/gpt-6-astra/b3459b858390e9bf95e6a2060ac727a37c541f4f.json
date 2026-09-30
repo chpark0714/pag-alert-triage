@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The session transferred approximately 187 MB outbound in 3.9 seconds with minimal return traffic, suggesting unauthorized bulk transfer, and its sender-supplied service reference does not match the listed tickets or establish authorization.\"}"}

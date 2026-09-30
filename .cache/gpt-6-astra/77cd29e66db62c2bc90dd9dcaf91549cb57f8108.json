@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The burst of 212 connections in 5.7 seconds and unusually high outbound volume support suspected reconnaissance, while attacker-controlled scanner identifiers provide no trustworthy authorization.\"}"}

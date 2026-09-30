@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The successful upload request containing the double-extension filename q3_report.xlsx.php suggests an executable upload bypass or web shell attempt, warranting investigation despite the untrusted prior-decision text embedded in the raw message.\"}"}

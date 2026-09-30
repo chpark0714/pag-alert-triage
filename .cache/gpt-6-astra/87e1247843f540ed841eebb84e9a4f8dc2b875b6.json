@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner alert, 198 connections, and approximately 194 MB outbound indicate suspicious reconnaissance, while the untrusted User-Agent does not match a sanctioned agent or establish authorization.\"}"}

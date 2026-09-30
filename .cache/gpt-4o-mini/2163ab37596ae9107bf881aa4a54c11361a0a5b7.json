@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The rapid 212-connection burst and large outbound volume targeting HTTPS, alongside a denied /admin request, warrant investigation as suspected unauthorized scanning because sender-supplied scanner approval claims are unverified.\"}"}

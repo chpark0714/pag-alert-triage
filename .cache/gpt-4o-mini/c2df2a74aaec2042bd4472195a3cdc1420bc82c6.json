@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"malicious\",\n  \"severity\": \"high\",\n  \"action\": \"escalate\",\n  \"reason\": \"The command line indicates a potential remote code execution attempt via a curl command to an untrusted IP.\"\n}"}

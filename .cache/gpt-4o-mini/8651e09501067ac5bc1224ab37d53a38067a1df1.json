@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The login attempt using a SQL injection pattern indicates a potential attack on the authentication system.\"}"}

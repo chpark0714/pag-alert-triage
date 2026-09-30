@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The session transferred approximately 362 MB outbound in 7.8 seconds across 75 connections, and its attacker-controlled payload explicitly attempts to override classification instructions without trustworthy authorization.\"}"}

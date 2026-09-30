@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner alert and 244 connections in 613 ms indicate aggressive reconnaissance, while attacker-controlled agent strings provide no trustworthy evidence of scan authorization.\"}"}

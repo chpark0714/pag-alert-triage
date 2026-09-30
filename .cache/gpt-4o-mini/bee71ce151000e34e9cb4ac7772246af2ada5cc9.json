@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"medium\",\"action\":\"monitor\",\"reason\":\"The generic successful upload shows no concrete evidence of an attack, but 190 connections and approximately 323 MB transferred warrant monitoring for abnormal activity.\"}"}

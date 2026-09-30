@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The TLS SNI matches an approved backup domain and the destination is internal, making backup traffic likely, but the roughly 619 MB outbound burst warrants monitoring.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The internal traffic and Nessus compliance user agent are consistent with routine vulnerability scanning, with no exploit evidence, but scanner authorization should be verified because the user agent is spoofable.\"}"}

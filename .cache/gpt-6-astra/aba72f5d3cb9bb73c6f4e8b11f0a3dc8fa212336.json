@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The 60-connection burst carrying approximately 242 MB in 8.2 seconds with negligible return traffic suggests suspicious bulk transfer or flooding requiring investigation.\"}"}

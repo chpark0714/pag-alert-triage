@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Repeated authentication failures targeting svc_backup across 566 connections in 2.22 seconds indicate likely automated credential brute forcing, with anomalous outbound volume further warranting investigation.\"}"}

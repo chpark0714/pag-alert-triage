@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The request attempts to access sensitive system files, indicating a potential directory traversal attack.\"}"}

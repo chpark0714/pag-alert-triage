@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"An external source generated 126 connections targeting /admin with unusually high outbound traffic, and its self-declared approval in a nonmatching scanner User-Agent does not establish authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"Multiple failed authentications and 616 connections over roughly 5.5 seconds are consistent with automated authentication abuse, and these signals provide no benign explanation sufficient to close without human review.\"}"}

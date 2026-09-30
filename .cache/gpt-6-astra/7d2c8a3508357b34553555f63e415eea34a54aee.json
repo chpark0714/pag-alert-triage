@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Although the encoded query is ordinary Korean text, 187 connections and approximately 277 MB outbound in 4.69 seconds indicate suspected automated bulk extraction requiring investigation.\"}"}

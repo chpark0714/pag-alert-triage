@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The burst of 172 connections and approximately 20 MB outbound versus 4 KB inbound in 3.5 seconds suggests suspicious bulk transfer, and the network-supplied ticket reference does not independently establish authorization.\"}"}

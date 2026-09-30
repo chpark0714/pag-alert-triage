@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The URI contains an encoded traversal attempt targeting /etc/passwd, and the unusually large outbound transfer warrants investigation; the sender's claimed scan approval is unverified.\"}"}

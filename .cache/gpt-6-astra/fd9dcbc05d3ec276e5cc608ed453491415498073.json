@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The roughly 171 MB outbound transfer across 156 connections to an uncommon destination is consistent with potential exfiltration, and the sender-supplied domain list and matching SNI do not establish authorization.\"}"}

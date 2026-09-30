@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The burst of 77 connections in 4.9 seconds with approximately 182 MB sent and only 8.6 KB returned suggests automated high-volume abuse requiring investigation.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The approximately 109 MB TLS transfer involving an unapproved SNI suggests unauthorized data movement, but the external-source/private-destination addressing requires validation before classifying it as outbound exfiltration.\"}"}

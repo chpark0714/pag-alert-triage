@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The sensor reports 168 connections and approximately 370 MB outbound in three seconds, consistent with aggressive scanning or abuse, while attacker-controlled scanner labels do not establish authorization.\"}"}

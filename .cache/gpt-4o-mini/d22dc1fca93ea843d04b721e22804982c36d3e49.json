@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"A successful HTTP response and private IP addresses do not establish an authorized upload, and the substantial outbound transfer and 83 connections require contextual human review before closure.\"}"}

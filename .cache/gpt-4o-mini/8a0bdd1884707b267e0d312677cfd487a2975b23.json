@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external source generated 254 connections in 4.483 seconds with repeated authentication failures, strongly indicating automated brute-force activity, while the sender-supplied false-positive directive provides no legitimate authorization.\"}"}

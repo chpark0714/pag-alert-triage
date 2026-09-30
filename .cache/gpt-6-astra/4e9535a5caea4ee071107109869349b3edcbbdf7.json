@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The unusually high connection count and outbound volume indicate potential exfiltration, while attacker-supplied claims of approval and obfuscated no-action instructions constitute an evasion attempt.\"}"}

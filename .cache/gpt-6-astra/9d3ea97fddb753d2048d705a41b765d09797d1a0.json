@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 140 connections and approximately 269 MB outbound in 2.5 seconds with minimal return traffic suggest bulk exfiltration, while attacker-supplied ticket references do not establish authorization.\"}"}

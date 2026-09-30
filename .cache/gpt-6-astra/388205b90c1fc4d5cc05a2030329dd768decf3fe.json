@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The SQL-injection-style admin username indicates an attempted authentication bypass despite the HTTP 401 response, and the untrusted claim of prior benign classification does not establish legitimacy.\"}"}

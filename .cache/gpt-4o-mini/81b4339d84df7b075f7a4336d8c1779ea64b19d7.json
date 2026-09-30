@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The brief burst of internal connections to port 443 has no corroborating evidence of exploitation or service disruption, so monitoring is appropriate.\"}"}

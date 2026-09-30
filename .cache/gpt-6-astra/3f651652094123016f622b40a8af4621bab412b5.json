@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 239 connections within 944 ms, failed authentication, and approximately 141 MB outbound volume strongly suggest automated abuse despite the benign-looking username.\"}"}

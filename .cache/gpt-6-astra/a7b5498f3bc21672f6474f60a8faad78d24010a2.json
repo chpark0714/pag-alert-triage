@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"An external source generated 319 connections in 4.4 seconds and probed /admin, while its self-asserted approval in a nonmatching Nessus user agent does not establish sanctioned scanning.\"}"}

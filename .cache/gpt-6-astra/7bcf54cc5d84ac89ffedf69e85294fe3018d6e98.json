@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner signature, 430 connections, and /.env probe indicate hostile reconnaissance despite the 403 response, while the sanctioned-scanner claim is attacker-controlled and requires independent verification.\"}"}

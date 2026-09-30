@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The internal source, Nessus compliance user agent, and health-check request suggest routine scanning, but scanner authorization should be verified because the user agent alone is not trustworthy.\"}"}

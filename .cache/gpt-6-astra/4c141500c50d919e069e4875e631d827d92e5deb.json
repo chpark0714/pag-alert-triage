@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The multiple-failed-authentication detection and anomalous 135 MB outbound transfer in roughly two seconds warrant investigation for attempted unauthorized access.\"}"}

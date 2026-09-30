@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"Multiple failed authentications with HTTP 401 responses and 146 connections may indicate credential attacks or misconfiguration, and these signals provide no benign explanation sufficient to close without human review.\"}"}

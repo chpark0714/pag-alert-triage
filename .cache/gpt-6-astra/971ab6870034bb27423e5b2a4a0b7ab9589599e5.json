@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote session references an unlisted service ticket and shows 188 connections with roughly 290 MB sent versus 4 KB received, suggesting unauthorized remote access and possible data exfiltration.\"}"}

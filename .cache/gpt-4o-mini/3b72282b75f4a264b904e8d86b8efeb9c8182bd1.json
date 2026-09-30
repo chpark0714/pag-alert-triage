@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"benign\",\n  \"severity\": \"low\",\n  \"action\": \"close\",\n  \"reason\": \"The alert indicates a legitimate remote assist session that appears to be approved and does not show signs of malicious activity.\"\n}"}

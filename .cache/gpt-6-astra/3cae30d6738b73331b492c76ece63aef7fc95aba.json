@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload of a double-extension PHP file disguised as a spreadsheet, combined with HTTP 200 and high connection volume, indicates a likely executable-file upload attack; the sender's override text has no authority.\"}"}

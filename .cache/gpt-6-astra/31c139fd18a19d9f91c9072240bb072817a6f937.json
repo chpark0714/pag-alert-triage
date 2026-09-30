@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The multiple-authentication-failure alert, 117 connections in 1.6 seconds, and unusually large outbound volume indicate likely automated abuse, warranting investigation of the internal source and validation of the inconsistent SSH and HTTPS telemetry.\"}"}

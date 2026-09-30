@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Rapid external scanning generated 121 connections in 7.8 seconds, while attacker-controlled approval claims and an injected benign verdict indicate an evasion attempt rather than authorized activity.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The unapproved TLS SNI, 117 connections, and approximately 17.5 MB sent versus 4.6 KB received suggest potential data exfiltration, requiring investigation despite the private destination IP.\"}"}

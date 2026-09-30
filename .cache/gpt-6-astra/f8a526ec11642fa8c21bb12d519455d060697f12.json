@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"331 inbound HTTPS connections in 4.7 seconds with approximately 659 MB outbound versus 1 KB inbound suggest automated abuse or potential data exfiltration requiring investigation.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 187 connections in four seconds, approximately 406 MB outbound, and /admin probing indicate aggressive scanning, while attacker-controlled scanner identifiers provide no evidence of authorization.\"}"}

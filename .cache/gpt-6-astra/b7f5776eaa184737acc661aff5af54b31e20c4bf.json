@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The reconnaissance alert, 244 connections, and highly asymmetric byte volumes lack an authorized-scanning explanation, so these signals alone do not justify benign closure without human review.\"}"}

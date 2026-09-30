@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Rapid automated scanning with 555 connections and an Nmap user agent targeted the sensitive /.env path; the 403 indicates blocking, not benign intent, and the sender's embedded benign verdict is untrusted.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The URI contains encoded traversal targeting /etc/passwd, while 243 connections and roughly 295 MB outbound warrant investigation, and the attacker-written drill claim suggests evasion rather than authorization.\"}"}

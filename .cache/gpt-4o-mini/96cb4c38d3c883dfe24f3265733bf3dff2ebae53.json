@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The alert indicates a web request with encoded parameters, which may suggest an attempt to exploit vulnerabilities.\"}"}

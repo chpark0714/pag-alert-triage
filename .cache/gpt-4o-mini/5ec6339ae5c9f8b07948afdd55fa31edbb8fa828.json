@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"benign\",\n  \"severity\": \"low\",\n  \"action\": \"close\",\n  \"reason\": \"The alert indicates a failed login attempt with a known benign pattern often used in testing or automated scripts.\"\n}"}

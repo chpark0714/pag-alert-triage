@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner signature, 334 connections within 6.7 seconds, and unusually high outbound volume indicate suspicious automated reconnaissance, while attacker-controlled Nessus branding and HTTP 200 text do not establish authorization or override the sensor-recorded 403.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External probing of /admin with 165 connections and roughly 584 MB outbound in 2.4 seconds warrants escalation, while the scanner-like user agent and embedded benign-review claim do not establish authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The query decodes to ordinary Korean text ('\ud55c\uad6d\uc5b4 \ubb38\uc11c') with no evident attack payload, but the roughly 196 MB outbound transfer warrants monitoring.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The 212-connection burst in 5.7 seconds and /admin probing indicate reconnaissance, while the non-matching scanner user agent and embedded verdict-manipulation text do not establish authorized scanning.\"}"}

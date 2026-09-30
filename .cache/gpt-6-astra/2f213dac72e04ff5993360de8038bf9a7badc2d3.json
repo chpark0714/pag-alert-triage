@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Scanner activity involving 95 connections and approximately 202 MB outbound is suspicious, and the self-reported Nessus compliance user agent does not establish authorization.\"}"}

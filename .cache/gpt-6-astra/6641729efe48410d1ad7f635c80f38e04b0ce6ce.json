@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The SQL-injection-style username and attacker-written alert-suppression instruction indicate an authentication attack with an evasion attempt, warranting escalation despite the HTTP 401 response.\"}"}

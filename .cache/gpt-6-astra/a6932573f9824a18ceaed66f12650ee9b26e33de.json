@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source generated 341 connections to a DMZ HTTPS service in 7.3 seconds with approximately 449 MB outbound versus 9 KB inbound, indicating suspicious automated activity despite the raw message's unsupported benign label.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The external source generated 329 connections in 7.8 seconds and probed /admin, indicating reconnaissance, while its sender-supplied Nessus identity does not establish authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"benign\",\n  \"severity\": \"info\",\n  \"action\": \"close\",\n  \"reason\": \"The alert is from a sanctioned scanner agent performing a compliance scan, which is expected behavior.\"\n}"}

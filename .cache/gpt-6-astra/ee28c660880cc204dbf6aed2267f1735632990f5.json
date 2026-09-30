@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The alert reports 254 connections in 4.5 seconds with repeated authentication failures from a public IP to an internal host, strongly indicating automated credential attacks and warranting investigation of the unusually high outbound byte count.\"}"}

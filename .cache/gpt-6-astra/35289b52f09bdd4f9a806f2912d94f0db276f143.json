@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Despite matching a sanctioned scanner's user agent, 187 connections and approximately 406 MB outbound in four seconds indicate suspicious activity requiring investigation, since the user agent alone does not authenticate an authorized scanner.\"}"}

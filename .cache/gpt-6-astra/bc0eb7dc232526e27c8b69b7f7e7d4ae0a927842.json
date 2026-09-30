@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The remote-assistance session references open ticket SVC-2026-118, suggesting legitimate activity, but its 172 connections and approximately 20 MB outbound in 3.5 seconds warrant monitoring.\"}"}

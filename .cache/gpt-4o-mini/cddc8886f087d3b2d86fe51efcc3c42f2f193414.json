@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner detection and anomalous 196 MB outbound transfer in roughly eight seconds indicate suspicious activity, while the sender-supplied Nessus identifier does not establish authorization and its claimed 200 response contradicts the sensor-observed 403.\"}"}

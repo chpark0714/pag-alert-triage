@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The authentication-failure alert coincides with approximately 135 MB of outbound traffic and inconsistent SSH/HTTPS indicators, warranting investigation for suspected abuse or data transfer.\"}"}

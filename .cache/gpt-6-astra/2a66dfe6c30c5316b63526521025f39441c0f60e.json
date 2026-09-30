@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external sender uploaded a suspicious double-extension PHP file to an application endpoint with HTTP 200, suggesting executable upload abuse, while the sender-supplied benign claim provides no authorization.\"}"}

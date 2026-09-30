@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Scanner activity involving 244 connections and approximately 134 MB outbound warrants investigation, while the user agent and embedded benign-review claim do not establish authorization.\"}"}

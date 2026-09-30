@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The scan includes verdict-manipulation text and anomalous outbound traffic of approximately 310 MB, while its self-reported Nessus user agent does not establish authorization.\"}"}

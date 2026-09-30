@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The purported vendor session transferred approximately 523 MB outbound across 85 connections in 2.61 seconds, suggesting exfiltration, while sender-supplied ticket references do not establish authorization.\"}"}

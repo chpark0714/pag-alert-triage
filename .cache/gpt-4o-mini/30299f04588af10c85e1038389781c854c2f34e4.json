@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"Repeated authentication failures, 254 connections, and approximately 235 MB outbound versus 4 KB inbound do not establish benign activity and warrant human review before closure.\"}"}

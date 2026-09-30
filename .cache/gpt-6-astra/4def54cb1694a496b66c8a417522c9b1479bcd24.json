@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The roughly 109 MB transfer in 2.29 seconds involving a TLS domain outside the approved egress list suggests exfiltration, though the external-source/internal-destination direction requires verification.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external connection burst of 185 connections in 356 ms with approximately 872 MB outbound versus 6 KB inbound suggests automated abuse or possible exfiltration, and the embedded approval claim is unverified.\"}"}

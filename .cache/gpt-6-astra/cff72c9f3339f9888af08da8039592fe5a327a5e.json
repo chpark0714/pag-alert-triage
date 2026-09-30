@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"close\",\"reason\":\"The user agent matches the explicitly sanctioned Nessus compliance scanner, and the observed /admin request was denied with HTTP 403.\"}"}

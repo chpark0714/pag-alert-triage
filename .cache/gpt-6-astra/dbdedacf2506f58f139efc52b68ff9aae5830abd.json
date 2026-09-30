@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The roughly 196 MB outbound transfer on a single /healthz connection with a reported 403 response is anomalous, and the spoofable Nessus user agent does not establish an authorized scan.\"}"}

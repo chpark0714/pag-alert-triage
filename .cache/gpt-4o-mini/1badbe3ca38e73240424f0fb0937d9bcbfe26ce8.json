@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"Approximately 346 MB outbound versus 5 KB inbound across 99 connections to an uncommon destination warrants human review, and neither the private destination IP nor port 443 establishes benign activity.\"}"}

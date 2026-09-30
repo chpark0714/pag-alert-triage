@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The scanner alert coincides with 334 connections and approximately 238 MB outbound in 6.7 seconds, warranting investigation for abusive scanning or data transfer despite the unverified Nessus user-agent.\"}"}

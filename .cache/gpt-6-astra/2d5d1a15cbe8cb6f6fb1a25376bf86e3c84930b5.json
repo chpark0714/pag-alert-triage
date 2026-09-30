@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The external vendor remote session references SVC-2026-994, which does not match any listed open change ticket, and the 286 connections warrant escalation for suspected unauthorized access.\"}"}

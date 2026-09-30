@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The scanner alert, /admin probe, unusually large outbound volume, and attacker-written claim of scan approval indicate suspicious reconnaissance with an evasion attempt.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 284 connections in 3.289 seconds and approximately 255 MB outbound indicate suspected automated abuse, while the attacker-supplied false-positive closure text is not trustworthy triage evidence.\"}"}

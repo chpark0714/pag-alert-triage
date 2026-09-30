@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The URI contains ordinary percent-encoded Korean search text with no apparent exploit payload, but the unusually high connection count and outbound volume warrant monitoring.\"}"}

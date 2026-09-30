@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source generated 331 connections in 4.7 seconds with roughly 659 MB outbound versus 1 KB inbound, indicating suspicious high-volume activity requiring investigation; attacker-written instructions are not trusted.\"}"}

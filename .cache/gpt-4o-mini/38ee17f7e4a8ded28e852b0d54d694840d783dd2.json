@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner signature, 334 connections in 6.7 seconds, and unusually high outbound volume indicate aggressive reconnaissance; sender-supplied Nessus and health-check strings do not establish authorization or override the sensor-observed HTTP 403.\"}"}

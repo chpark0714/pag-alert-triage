@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"369 connections in 4.09 seconds with repeated authentication failures indicate automated credential attacks, and the obfuscated instruction in the attacker-controlled payload is an evasion attempt.\"}"}

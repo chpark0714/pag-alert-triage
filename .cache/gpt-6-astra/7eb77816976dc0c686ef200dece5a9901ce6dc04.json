@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The external source generated 430 connections and probed /.env with an Nmap user agent; the 403 indicates blocking, but the sanctioned-scanner claim in untrusted input requires independent verification.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External scanning produced 65 connections in 1.744 seconds and anomalously high outbound volume, while attacker-controlled Nessus identifiers provide no trustworthy evidence of authorization.\"}"}

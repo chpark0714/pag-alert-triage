@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The unusually high connection count for a short remote session warrants investigation, and sender-supplied ticket references do not independently establish authorization.\"}"}

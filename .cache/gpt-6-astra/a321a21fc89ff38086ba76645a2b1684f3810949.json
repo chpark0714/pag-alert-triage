@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The username contains an apparent SQL-injection authentication-bypass payload, and 234 connections in 5.8 seconds indicate automated attack activity despite the HTTP 401 response.\"}"}

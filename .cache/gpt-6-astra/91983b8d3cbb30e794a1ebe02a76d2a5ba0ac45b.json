@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote-access alert shows 269 connections and approximately 192 MB outbound in 5.3 seconds, while inconsistent sender-supplied service references and a severity-downgrade directive provide no trustworthy authorization.\"}"}

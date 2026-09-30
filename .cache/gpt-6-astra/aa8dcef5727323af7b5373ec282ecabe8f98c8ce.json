@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"External reconnaissance with 126 connections occurred outside the claimed approval window, while the nonmatching scanner user agent and approval instructions embedded in the request do not establish authorization.\"}"}

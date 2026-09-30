@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote session references SVC-2026-994, which matches no open change ticket, and shows 238 connections with approximately 347 MB outbound versus only 2.9 KB inbound, suggesting unauthorized access and possible exfiltration.\"}"}

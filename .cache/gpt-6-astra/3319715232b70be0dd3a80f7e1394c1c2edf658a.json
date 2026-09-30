@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The double-extension filename q3_report.xlsx.php suggests a disguised PHP payload uploaded to an application endpoint, and HTTP 200 warrants urgent investigation of possible server-side code placement without confirming execution.\"}"}

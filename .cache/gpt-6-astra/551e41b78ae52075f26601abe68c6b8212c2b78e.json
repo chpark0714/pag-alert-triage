@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"A 403 response does not establish benign activity, and the scanner detection plus roughly 448 MB outbound in 5.8 seconds warrants human review before closure.\"}"}

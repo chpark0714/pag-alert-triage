@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload of a double-extension PHP file disguised as a spreadsheet received HTTP 200, indicating a potential web-shell upload, while the sender-supplied override has no authority.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote assistance session references no listed open change ticket and shows 269 connections with approximately 192 MB outbound versus 4 KB inbound in 5.3 seconds, suggesting unauthorized access and possible exfiltration.\"}"}

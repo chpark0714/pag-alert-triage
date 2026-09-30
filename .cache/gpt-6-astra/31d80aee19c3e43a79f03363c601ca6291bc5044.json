@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external remote-access activity involved 122 connections and approximately 388 MB outbound in seven seconds, suggesting bulk data exfiltration without independently verified authorization.\"}"}

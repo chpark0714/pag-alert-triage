@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An Nmap-identified request targeting /.env, 430 connections, and approximately 581 MB of outbound traffic indicate hostile scanning with anomalous data transfer requiring investigation despite the HTTP 403 response.\"}"}

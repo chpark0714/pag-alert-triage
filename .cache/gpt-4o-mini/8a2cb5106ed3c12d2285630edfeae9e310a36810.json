@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Fourteen HTTPS connections transferred approximately 758 MB outbound in under nine seconds with minimal return traffic, suggesting suspicious bulk data movement requiring investigation.\"}"}

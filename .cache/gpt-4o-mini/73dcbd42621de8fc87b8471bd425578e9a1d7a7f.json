@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The reconnaissance detection, 324 connections, and roughly 669 MB outbound volume warrant human review, while an HTTP 403 alone does not establish benign activity or successful containment.\"}"}

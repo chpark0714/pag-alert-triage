@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner signature and 57 connections in 1.8 seconds indicate automated reconnaissance, while the attacker-controlled Nessus identifier does not establish authorization and the sensor reports HTTP 403.\"}"}

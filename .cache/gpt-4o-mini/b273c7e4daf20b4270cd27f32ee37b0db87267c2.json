@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The sender supplied a SQL-injection-style credential targeting the admin account, indicating an attack attempt despite the HTTP 401 response, with anomalous outbound volume warranting investigation.\"}"}

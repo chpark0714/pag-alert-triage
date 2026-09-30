@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"benign\",\n  \"severity\": \"info\",\n  \"action\": \"close\",\n  \"reason\": \"The detection engine marked this event as benign despite the high connection count.\"\n}"}

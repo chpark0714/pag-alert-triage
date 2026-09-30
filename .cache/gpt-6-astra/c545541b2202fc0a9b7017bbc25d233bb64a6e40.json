@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Multiple authentication failures across 532 connections in 5.93 seconds indicate likely automated credential attacks, with anomalous outbound volume and instruction-like text in the username warranting investigation.\"}"}

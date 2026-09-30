@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The approximately 533 MB transfer in 4.2 seconds across 277 connections and external-to-private addressing inconsistent with the outbound alert warrant escalation despite the approved-domain SNI.\"}"}

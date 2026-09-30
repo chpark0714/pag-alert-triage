@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The roughly 17.5 MB outbound transfer across 117 connections to an uncommon destination, combined with an explicit attempt to force false-positive classification in attacker-controlled traffic, warrants escalation for suspected data exfiltration and evasion.\"}"}

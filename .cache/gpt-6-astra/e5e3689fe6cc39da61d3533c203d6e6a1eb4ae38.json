@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external Nmap-style request for /.env indicates hostile reconnaissance, while 430 connections and approximately 581 MB outbound warrant investigation for possible data exposure despite the observed 403 response.\"}"}

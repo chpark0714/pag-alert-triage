@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"133 connections in approximately eight seconds with repeated authentication failures indicate likely brute-force activity, while the unusually large outbound byte count warrants urgent investigation.\"}"}

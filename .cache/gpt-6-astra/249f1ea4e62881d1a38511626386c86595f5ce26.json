@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Nmap-style probing for /.env, 324 connections, and approximately 669 MB outbound warrant investigation for malicious reconnaissance and possible data exposure despite the HTTP 403 response.\"}"}

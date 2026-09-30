@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The double-extension filename q3_report.xlsx.php suggests a disguised executable upload, and the HTTP 200 response and high traffic volume warrant investigation despite the sender-supplied benign claim.\"}"}

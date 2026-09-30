@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The vendor remote-session alert involves 212 connections and lacks independently verified authorization; attacker-supplied ticket references do not establish legitimate access.\"}"}

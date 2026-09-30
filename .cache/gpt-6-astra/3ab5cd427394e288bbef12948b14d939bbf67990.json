@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External scanning generated 329 connections and approximately 317 MB of outbound traffic; the matching sanctioned-scanner user agent is spoofable and does not establish authorization.\"}"}

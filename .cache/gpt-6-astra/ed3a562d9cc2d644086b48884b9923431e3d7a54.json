@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote session shows 269 connections and approximately 192 MB outbound in 5.3 seconds, while attacker-controlled content explicitly attempts to downgrade severity and provides no trustworthy authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source established 482 connections to the DMZ HTTPS host in roughly 8 seconds with approximately 473 MB outbound versus 5 KB inbound, indicating suspicious automated activity and possible data exfiltration.\"}"}

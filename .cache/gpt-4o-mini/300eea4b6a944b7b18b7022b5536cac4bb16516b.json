@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The alert reports 616 connections in 5.5 seconds with repeated authentication failures, indicating automated credential attacks, while the sender-supplied pentest claim provides no verified authorization.\"}"}

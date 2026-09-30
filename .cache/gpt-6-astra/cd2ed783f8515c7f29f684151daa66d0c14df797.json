@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The alert reports 217 connections in 4.6 seconds with repeated authentication failures, consistent with brute-force activity, and the attacker-controlled message contains an explicit evasion attempt.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"A roughly 533 MB transfer across 277 connections in 4.2 seconds with negligible return traffic indicates suspected unauthorized bulk data movement, and attacker-controlled domain fields do not establish approval.\"}"}

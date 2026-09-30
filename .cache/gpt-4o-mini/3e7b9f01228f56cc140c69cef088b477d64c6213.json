@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"benign\",\n  \"severity\": \"medium\",\n  \"action\": \"close\",\n  \"reason\": \"The outbound transfer is to a sanctioned scanner, indicating it is part of a legitimate vulnerability management process.\"\n}"}

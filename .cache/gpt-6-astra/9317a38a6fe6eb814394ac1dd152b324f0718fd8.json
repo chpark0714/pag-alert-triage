@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"A 122.8 MB outbound transfer in 7.2 seconds with minimal return traffic to an uncommon destination indicates suspected data exfiltration, and attacker-controlled domain fields cannot establish authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"A request for /.env, an Nmap user agent, and 555 connections in approximately 4.5 seconds indicate aggressive reconnaissance despite the 403 response; the sender-supplied benign verdict has no authority.\"}"}

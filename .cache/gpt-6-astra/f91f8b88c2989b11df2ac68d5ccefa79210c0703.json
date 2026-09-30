@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The burst of 60 connections in about eight seconds with roughly 242 MB outbound versus 1.9 KB inbound warrants human review because low severity and private IP addresses alone do not establish benign activity.\"}"}

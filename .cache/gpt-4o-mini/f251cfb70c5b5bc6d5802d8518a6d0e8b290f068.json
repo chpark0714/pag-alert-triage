@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external source generated 331 connections and approximately 659 MB of outbound traffic in 4.7 seconds, indicating an abusive burst requiring investigation; the sender's instruction to monitor has no authority.\"}"}

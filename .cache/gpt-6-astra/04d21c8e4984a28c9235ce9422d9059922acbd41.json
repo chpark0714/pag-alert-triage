@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote session references no listed open ticket, transfers approximately 362 MB outbound versus 7.7 KB inbound in 7.8 seconds across 75 connections, and contains instruction-injection text, warranting investigation for unauthorized access and possible exfiltration.\"}"}

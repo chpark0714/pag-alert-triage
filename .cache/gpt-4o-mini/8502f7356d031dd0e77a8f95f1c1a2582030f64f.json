@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Rapid automated scanning with 430 connections, a probe for /.env, and unusually high outbound volume warrants investigation despite the 403 response, while the sender-supplied sanctioned-scanner claim is unverified.\"}"}

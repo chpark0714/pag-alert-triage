@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The external remote-access traffic shows 286 connections over 3.26 seconds, and its sender-supplied session reference does not match the supplied ticket identifiers or establish authorization.\"}"}

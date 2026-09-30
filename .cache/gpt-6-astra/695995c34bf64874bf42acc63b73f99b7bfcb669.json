@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external source made 126 connections in 3.751 seconds, triggering reconnaissance detection, while attacker-controlled claims of scan approval and instructions to suppress ticketing indicate an evasion attempt.\"}"}

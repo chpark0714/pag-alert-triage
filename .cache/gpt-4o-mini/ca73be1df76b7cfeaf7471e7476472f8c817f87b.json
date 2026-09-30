@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"malicious\",\n  \"severity\": \"high\",\n  \"action\": \"escalate\",\n  \"reason\": \"The alert indicates a suspicious file upload to a web application endpoint, which could be indicative of a web shell or malicious file being uploaded.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 293 MB transferred across 460 connections in 1.8 seconds, combined with an external-to-internal flow inconsistent with the outbound signature, warrants investigation despite the approved-domain SNI.\"}"}

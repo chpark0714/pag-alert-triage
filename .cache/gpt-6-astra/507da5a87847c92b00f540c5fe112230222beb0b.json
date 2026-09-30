@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The approximately 689 MB outbound transfer across 262 connections in 6.45 seconds with minimal return traffic suggests potential exfiltration or unauthorized staging, and attacker-controlled approval claims and embedded instructions cannot establish legitimacy.\"}"}

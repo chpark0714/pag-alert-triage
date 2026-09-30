@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"External reconnaissance involving 54 connections and an /admin probe is not established as authorized by the mismatched scanner user agent or the embedded claims of benign status.\"}"}

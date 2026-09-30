@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External reconnaissance generated 115 connections and approximately 410 MB outbound in 5.4 seconds, while the spoofable user-agent does not match a sanctioned scanner entry and cannot establish authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The username contains a SQL-injection-style authentication bypass payload, and unusually large outbound traffic warrants investigation despite the HTTP 401 indicating authentication failure.\"}"}

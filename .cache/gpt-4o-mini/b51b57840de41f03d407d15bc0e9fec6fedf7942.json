@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The approximately 157 MB outbound transfer across 228 connections with minimal inbound traffic and an uncommon TLS SNI suggests data exfiltration, while sender-supplied approval claims provide no trusted authorization.\"}"}

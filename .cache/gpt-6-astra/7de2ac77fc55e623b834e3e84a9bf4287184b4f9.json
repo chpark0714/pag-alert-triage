@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"A roughly 512 MB transfer in 1.754 seconds with minimal return traffic indicates suspected unauthorized bulk data movement, and attacker-controlled claims cannot establish approval or a benign verdict.\"}"}

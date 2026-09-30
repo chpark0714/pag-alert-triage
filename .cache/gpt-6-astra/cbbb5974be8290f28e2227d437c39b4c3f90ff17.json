@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 117 connections in 1.6 seconds with repeated authentication failures and approximately 346 MB outbound strongly suggests automated authentication abuse and warrants investigation of the internal source.\"}"}

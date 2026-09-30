@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The use of SQL injection syntax in the username indicates a potential attack attempt.\"}"}

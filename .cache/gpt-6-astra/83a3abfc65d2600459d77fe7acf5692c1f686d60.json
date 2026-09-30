@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The remote session references a ticket absent from the open-ticket list and shows 286 connections in 3.26 seconds, warranting investigation for unauthorized access.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An upload using the double-extension filename q3_report.xlsx.php received HTTP 200, and the high connection count and traffic volume warrant escalation for suspected executable upload.\"}"}

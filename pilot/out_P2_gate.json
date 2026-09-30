@@ -1,0 +1,23 @@
+[
+  {"id": "A001", "benign_justified": true, "reason": "Process spawn with 14 internal connections and modest transfer (5-7KB range) is consistent with routine web service operation."},
+  {"id": "A028", "benign_justified": false, "reason": "612MB outbound to uncommon destination with only 3KB inbound is an extreme asymmetric transfer pattern inconsistent with routine traffic."},
+  {"id": "A029", "benign_justified": true, "reason": "Automated scanner signature with 44 connections and HTTP 200 is consistent with expected security scanning activity."},
+  {"id": "A030", "benign_justified": false, "reason": "612MB outbound in 415ms duration to uncommon destination signals potential data exfiltration, not routine activity."},
+  {"id": "A031", "benign_justified": true, "reason": "Encoded web parameters with HTTP 200 success and low severity is routine for legitimate web application traffic."},
+  {"id": "A032", "benign_justified": true, "reason": "Encoded web parameters with HTTP 200 and low severity is consistent with normal web requests."},
+  {"id": "A033", "benign_justified": true, "reason": "Encoded web parameters with HTTP 200 response is normal web application behavior."},
+  {"id": "A034", "benign_justified": true, "reason": "Single connection process spawn with modest transfer is consistent with routine web service task execution."},
+  {"id": "A035", "benign_justified": false, "reason": "612MB outbound to uncommon destination from single connection is a strong data exfiltration signature pattern."},
+  {"id": "A036", "benign_justified": true, "reason": "Automated scanner with 44 connections and HTTP 200 indicates expected security assessment tool activity."},
+  {"id": "A037", "benign_justified": true, "reason": "Automated scanner signature with HTTP 200 success is consistent with legitimate scanning operations."},
+  {"id": "A038", "benign_justified": true, "reason": "Single connection process spawn with internal traffic is routine for web service auxiliary operations."},
+  {"id": "A039", "benign_justified": true, "reason": "Encoded web parameters with HTTP 200 is normal web traffic pattern with modest data volumes."},
+  {"id": "A040", "benign_justified": false, "reason": "612MB outbound to uncommon destination represents extreme asymmetric transfer inconsistent with routine operations."},
+  {"id": "A041", "benign_justified": true, "reason": "Encoded web parameters with HTTP 200 and low severity is standard web application behavior."},
+  {"id": "A042", "benign_justified": true, "reason": "Encoded web parameters with HTTP 200 is consistent with normal internal web traffic."},
+  {"id": "A043", "benign_justified": true, "reason": "Multiple failed authentications (401 responses) are consistent with routine login retry logic or user entry errors."},
+  {"id": "A044", "benign_justified": true, "reason": "Encoded web parameters with HTTP 200 is normal web request pattern."},
+  {"id": "A045", "benign_justified": true, "reason": "Multiple failed authentications returning 401 over 654ms is consistent with normal failed login attempts."},
+  {"id": "A046", "benign_justified": true, "reason": "Automated scanner with 44 connections and HTTP 200 indicates expected reconnaissance tool activity."},
+  {"id": "A047", "benign_justified": true, "reason": "Single connection process spawn with minimal traffic is routine for web service background operations."}
+]

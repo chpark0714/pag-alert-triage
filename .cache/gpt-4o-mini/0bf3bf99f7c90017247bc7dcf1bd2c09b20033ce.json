@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 374 connections in 3.237 seconds and approximately 291 MB of outbound traffic indicate likely automated abuse, while the sender-supplied DR drill claim provides no trustworthy authorization.\"}"}

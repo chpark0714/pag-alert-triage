@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The automated-scanner alert, 305 connections in 5.82 seconds, and Nmap-associated request for /.env indicate reconnaissance targeting exposed secrets despite the observed HTTP 403 response.\"}"}

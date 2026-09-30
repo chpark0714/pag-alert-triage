@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The automated-scanner alert and 430 connections in 8.7 seconds indicate reconnaissance despite the HTTP 403 response, and the attacker-controlled claim of sanctioned scanning cannot establish authorization.\"}"}

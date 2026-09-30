@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner signature, 126 connections, and Nmap-identified request for /.env indicate malicious reconnaissance, while the unusually large outbound byte count warrants investigation despite the HTTP 403 response.\"}"}

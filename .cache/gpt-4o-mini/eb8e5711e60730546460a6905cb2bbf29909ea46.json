@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"An unusual-credential alert with a 401 response, 147 connections, and roughly 407 MB outbound lacks sufficient benign context to justify closing without human review.\"}"}

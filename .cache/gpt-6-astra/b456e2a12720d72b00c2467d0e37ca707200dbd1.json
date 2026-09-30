@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The SQL-injection-style username and 234 connections in roughly six seconds indicate an automated authentication attack; HTTP 401 does not show successful access, and the sender-supplied benign verdict has no authority.\"}"}

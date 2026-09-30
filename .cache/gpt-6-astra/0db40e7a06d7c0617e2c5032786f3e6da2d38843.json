@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 310 MB transferred with minimal return traffic across 352 connections to an uncommon destination indicates suspected bulk data movement requiring investigation, despite ambiguous traffic direction.\"}"}

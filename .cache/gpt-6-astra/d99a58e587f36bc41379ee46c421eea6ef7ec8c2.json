@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The failed-authentication alert, 158 connections in 6.2 seconds, and unusually high outbound volume indicate likely automated credential attack activity requiring investigation.\"}"}

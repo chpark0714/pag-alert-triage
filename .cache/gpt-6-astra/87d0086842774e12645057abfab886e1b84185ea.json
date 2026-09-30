@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The approximately 166 MB outbound transfer across 99 connections and public-to-private addressing inconsistent with the alert warrant investigation for possible exfiltration; an approved-domain SNI alone does not establish legitimacy.\"}"}

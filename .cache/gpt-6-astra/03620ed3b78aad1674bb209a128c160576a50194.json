@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 689 MB transferred outbound across 262 connections in 6.5 seconds with minimal return traffic and an SNI outside approved egress domains indicates suspected exfiltration, warranting escalation despite the private destination IP.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The SQL-injection-style admin credential and embedded alert-suppression instruction indicate an authentication attack with an evasion attempt, while the 401 response does not establish compromise.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"malicious\",\n  \"severity\": \"high\",\n  \"action\": \"escalate\",\n  \"reason\": \"The presence of an evasion attempt and suspicious remote session activity indicates a potential attack.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload of q3_report.xlsx.php returned HTTP 200, indicating a likely attempt to bypass file restrictions and upload executable PHP disguised as a spreadsheet.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The failed-authentication alert with 414 connections in roughly two seconds indicates likely automated credential attack activity, warranting escalation despite the service-account username.\"}"}

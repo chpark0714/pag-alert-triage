@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"info\",\"action\":\"close\",\"reason\":\"The alert indicates multiple failed authentication attempts which are common for service accounts and do not indicate a real attack.\"}"}

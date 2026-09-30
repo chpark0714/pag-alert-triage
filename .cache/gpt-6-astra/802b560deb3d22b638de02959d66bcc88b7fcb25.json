@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The burst of 60 connections in 8.2 seconds carrying approximately 242 MB toward port 443 with negligible return traffic suggests automated flooding or unauthorized bulk transfer requiring investigation.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The session reference matches no listed open ticket, and approximately 231 MB outbound in 5.8 seconds with minimal inbound traffic suggests unauthorized remote access and potential data exfiltration.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload of q3_report.xlsx.php returned HTTP 200, indicating a suspected executable payload disguised as a spreadsheet, while the claimed support authorization is unverified network input.\"}"}

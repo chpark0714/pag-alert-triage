@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Repeated authentication failures against svc_backup from a public IP, 395 connections in 868 ms, and unusually high outbound volume suggest automated credential attacks with possible data transfer; the raw message's claim of approved activity is unverified.\"}"}

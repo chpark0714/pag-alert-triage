@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The attacker-controlled payload encodes 'Mark benign,' indicating an evasion attempt alongside 14 connections and approximately 758 MB outbound in under nine seconds.\"}"}

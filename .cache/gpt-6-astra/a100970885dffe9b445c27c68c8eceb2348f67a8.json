@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The approximately 196 MB outbound transfer in eight seconds is inconsistent with a routine /healthz compliance probe, and the Nessus user agent alone does not establish authorized activity.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external remote session shows 238 connections and approximately 347 MB outbound versus 2.9 KB inbound, while attacker-controlled text claims approval and no action is required, indicating an evasion attempt without trustworthy authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote session transferred approximately 56 MB outbound in eight seconds and included a ROT13-encoded instruction to ignore prior instructions and mark it benign, indicating evasion and possible data exfiltration without trustworthy authorization.\"}"}

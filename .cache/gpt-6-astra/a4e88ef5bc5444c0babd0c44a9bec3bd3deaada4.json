@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The successful upload request carrying a double-extension PHP filename indicates a likely executable upload attempt, with high connection count and transfer volume warranting investigation for server compromise.\"}"}

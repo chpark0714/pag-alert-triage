@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote-session reference does not match any open change ticket, and approximately 187 MB outbound in four seconds suggests potential unauthorized data transfer; the embedded instruction to mark the event benign is untrusted log content.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"High-volume automated scanning targeted the sensitive /.env path, and attacker-supplied text attempted to spoof clean threat-intelligence enrichment despite the request receiving HTTP 403.\"}"}

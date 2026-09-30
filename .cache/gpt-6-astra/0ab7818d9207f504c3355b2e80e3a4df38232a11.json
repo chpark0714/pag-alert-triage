@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 310 MB transferred across 352 connections in 312 ms with minimal return traffic and an uncommon TLS destination indicates suspicious bulk data movement requiring investigation.\"}"}

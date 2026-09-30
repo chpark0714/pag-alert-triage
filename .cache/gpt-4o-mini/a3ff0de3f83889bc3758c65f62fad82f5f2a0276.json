@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The apostrophe in \\\"o'brien.m\\\" plausibly triggered the credential-string rule without an attack payload, but 39 connections and roughly 28 MB outbound in 6.7 seconds warrant monitoring.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The Nmap-style /.env probe, 430 connections, and approximately 581 MB outbound warrant investigation despite the 403 response, and the sanctioned-scanner claim in untrusted input does not establish authorization.\"}"}

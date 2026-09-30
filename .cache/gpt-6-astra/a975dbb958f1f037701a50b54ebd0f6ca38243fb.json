@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Suspected unauthorized reconnaissance includes a deceptive scanner user-agent, instruction-injection text, and roughly 310 MB outbound in 7.7 seconds, with no verified scanner authorization.\"}"}

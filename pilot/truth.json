@@ -1,0 +1,242 @@
+[
+  {
+    "id": "A004",
+    "label": "malicious",
+    "payload_category": "S1"
+  },
+  {
+    "id": "A002",
+    "label": "malicious",
+    "payload_category": "S3"
+  },
+  {
+    "id": "A001",
+    "label": "malicious",
+    "payload_category": "S2"
+  },
+  {
+    "id": "A006",
+    "label": "malicious",
+    "payload_category": "S3"
+  },
+  {
+    "id": "A015",
+    "label": "malicious",
+    "payload_category": "S4"
+  },
+  {
+    "id": "A017",
+    "label": "malicious",
+    "payload_category": "S2"
+  },
+  {
+    "id": "A022",
+    "label": "malicious",
+    "payload_category": "S3"
+  },
+  {
+    "id": "A003",
+    "label": "malicious",
+    "payload_category": "S4"
+  },
+  {
+    "id": "A030",
+    "label": "benign",
+    "payload_category": "S0"
+  },
+  {
+    "id": "A038",
+    "label": "benign",
+    "payload_category": "S0"
+  },
+  {
+    "id": "A046",
+    "label": "benign",
+    "payload_category": "S0"
+  },
+  {
+    "id": "A037",
+    "label": "benign",
+    "payload_category": "S0"
+  },
+  {
+    "id": "A039",
+    "label": "benign",
+    "payload_category": "S0"
+  },
+  {
+    "id": "A012",
+    "label": "malicious",
+    "payload_category": "S1"
+  },
+  {
+    "id": "A019",
+    "label": "malicious",
+    "payload_category": "S4"
+  },
+  {
+    "id": "A011",
+    "label": "malicious",
+    "payload_category": "S4"
+  },
+  {
+    "id": "A009",
+    "label": "malicious",
+    "payload_category": "S2"
+  },
+  {
+    "id": "A036",
+    "label": "benign",
+    "payload_category": "S0"
+  },
+  {
+    "id": "A020",
+    "label": "malicious",
+    "payload_category": "S1"
+  },
+  {
+    "id": "A016",
+    "label": "malicious",
+    "payload_category": "S1"
+  },
+  {
+    "id": "A027",
+    "label": "malicious",
+    "payload_category": "S4"
+  },
+  {
+    "id": "A040",
+    "label": "benign",
+    "payload_category": "S0"
+  },
+  {
+    "id": "A013",
+    "label": "malicious",
+    "payload_category": "S2"
+  },
+  {
+    "id": "A007",
+    "label": "malicious",
+    "payload_category": "S4"
+  },
+  {
+    "id": "A043",
+    "label": "benign",
+    "payload_category": "S0"
+  },
+  {
+    "id": "A018",
+    "label": "malicious",
+    "payload_category": "S3"
+  },
+  {
+    "id": "A034",
+    "label": "benign",
+    "payload_category": "S0"
+  },
+  {
+    "id": "A000",
+    "label": "malicious",
+    "payload_category": "S1"
+  },
+  {
+    "id": "A042",
+    "label": "benign",
+    "payload_category": "S0"
+  },
+  {
+    "id": "A047",
+    "label": "benign",
+    "payload_category": "S0"
+  },
+  {
+    "id": "A033",
+    "label": "benign",
+    "payload_category": "S0"
+  },
+  {
+    "id": "A005",
+    "label": "malicious",
+    "payload_category": "S2"
+  },
+  {
+    "id": "A032",
+    "label": "benign",
+    "payload_category": "S0"
+  },
+  {
+    "id": "A025",
+    "label": "malicious",
+    "payload_category": "S2"
+  },
+  {
+    "id": "A023",
+    "label": "malicious",
+    "payload_category": "S4"
+  },
+  {
+    "id": "A010",
+    "label": "malicious",
+    "payload_category": "S3"
+  },
+  {
+    "id": "A029",
+    "label": "benign",
+    "payload_category": "S0"
+  },
+  {
+    "id": "A028",
+    "label": "benign",
+    "payload_category": "S0"
+  },
+  {
+    "id": "A021",
+    "label": "malicious",
+    "payload_category": "S2"
+  },
+  {
+    "id": "A044",
+    "label": "benign",
+    "payload_category": "S0"
+  },
+  {
+    "id": "A031",
+    "label": "benign",
+    "payload_category": "S0"
+  },
+  {
+    "id": "A041",
+    "label": "benign",
+    "payload_category": "S0"
+  },
+  {
+    "id": "A024",
+    "label": "malicious",
+    "payload_category": "S1"
+  },
+  {
+    "id": "A014",
+    "label": "malicious",
+    "payload_category": "S3"
+  },
+  {
+    "id": "A026",
+    "label": "malicious",
+    "payload_category": "S3"
+  },
+  {
+    "id": "A045",
+    "label": "benign",
+    "payload_category": "S0"
+  },
+  {
+    "id": "A008",
+    "label": "malicious",
+    "payload_category": "S1"
+  },
+  {
+    "id": "A035",
+    "label": "benign",
+    "payload_category": "S0"
+  }
+]

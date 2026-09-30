@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner signature, 334 connections in 6.7 seconds, and unusually large outbound volume indicate automated reconnaissance, while the attacker-controlled Nessus label does not establish authorization.\"}"}

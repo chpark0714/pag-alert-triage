@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source requested the sensitive /.env path using Nmap, with 685 connections and unusually high outbound traffic warranting investigation despite the 403 response; the false-positive claim embedded in the raw message is untrusted.\"}"}

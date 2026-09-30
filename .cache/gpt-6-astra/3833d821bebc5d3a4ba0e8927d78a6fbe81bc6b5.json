@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 331 connections in 4.7 seconds and extreme byte asymmetry indicate suspicious high-volume activity, while the attacker-controlled instruction to suppress escalation is evidence of an evasion attempt.\"}"}

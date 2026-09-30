@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The source generated 282 connections and approximately 670 MB of traffic in 1.71 seconds, while its attacker-controlled sanctioned-scanner claim indicates an evasion attempt rather than verified authorization.\"}"}

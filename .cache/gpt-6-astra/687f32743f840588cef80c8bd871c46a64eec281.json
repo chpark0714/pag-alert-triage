@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external automated-scanner alert and approximately 448 MB of outbound traffic in 5.8 seconds warrant investigation despite the 403 response; attacker-controlled compliance and 200-status strings do not establish legitimacy.\"}"}

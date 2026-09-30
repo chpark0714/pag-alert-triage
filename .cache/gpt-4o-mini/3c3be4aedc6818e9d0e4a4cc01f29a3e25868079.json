@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The 265 connections in 6.8 seconds and approximately 78 MB outbound accompanying failed authentication suggest automated abuse, although the apostrophe in the username is not inherently malicious.\"}"}

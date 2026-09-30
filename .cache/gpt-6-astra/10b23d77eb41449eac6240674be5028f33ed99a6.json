@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Detected external automated reconnaissance and approximately 448 MB of outbound traffic warrant escalation despite the sensor-observed 403; sender-supplied compliance and 200-status claims do not establish authorization or success.\"}"}

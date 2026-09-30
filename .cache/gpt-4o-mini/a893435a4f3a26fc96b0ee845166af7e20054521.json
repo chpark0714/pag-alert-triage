@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external sender uploaded a PHP file disguised as an Excel report to /upload with an HTTP 200 response, indicating a likely executable-upload attack that warrants investigation for server-side execution.\"}"}

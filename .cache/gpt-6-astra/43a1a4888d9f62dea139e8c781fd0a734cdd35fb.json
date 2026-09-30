@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The upload alert, 227 connections, and approximately 131 MB of outbound traffic warrant human review because HTTP 200 indicates request success, not benign activity.\"}"}

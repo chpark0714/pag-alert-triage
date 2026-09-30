@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Failed authentication combined with approximately 135 MB of outbound traffic in two seconds suggests suspicious data transfer, warranting investigation of possible credential abuse and the conflicting SSH/HTTPS indicators.\"}"}

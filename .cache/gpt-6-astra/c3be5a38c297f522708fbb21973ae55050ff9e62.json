@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The scanner signature, probe for the sensitive /.env file, 305 connections in 5.82 seconds, and unusually large outbound volume indicate hostile reconnaissance requiring investigation despite the HTTP 403 response.\"}"}

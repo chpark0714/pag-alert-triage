@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The burst of 155 connections in 4.5 seconds and extreme imbalance of 390 MB outbound versus 1.2 KB inbound suggest automated abuse requiring investigation.\"}"}

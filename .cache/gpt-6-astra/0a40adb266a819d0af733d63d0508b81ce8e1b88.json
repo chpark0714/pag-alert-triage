@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"A successful HTTP response does not establish benign activity, and the upload alert, 81 connections, and large asymmetric byte volume require contextual validation and human review before closure.\"}"}

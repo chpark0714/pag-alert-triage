@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 269 connections and approximately 192 MB outbound in 5.3 seconds, combined with an attacker-controlled directive to downgrade severity, indicates suspected data exfiltration and an evasion attempt without trustworthy authorization.\"}"}

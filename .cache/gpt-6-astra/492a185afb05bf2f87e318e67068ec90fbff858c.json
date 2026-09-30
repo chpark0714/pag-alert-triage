@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The roughly 166 MB transfer across 99 connections with only 3 KB returned indicates suspected bulk data exfiltration, and attacker-controlled domain fields provide no trusted authorization.\"}"}

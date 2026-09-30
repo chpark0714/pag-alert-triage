@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The uncommon destination, 156 connections, and approximately 171 MB outbound versus 9 KB inbound indicate suspected data exfiltration, while attacker-controlled allowlist and SNI values cannot establish authorization.\"}"}

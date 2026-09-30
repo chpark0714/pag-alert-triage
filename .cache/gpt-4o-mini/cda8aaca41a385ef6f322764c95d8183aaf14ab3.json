@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The reconnaissance signature, 126 connections, and unusually large outbound byte count warrant human review, while HTTP 403 alone does not establish benign activity.\"}"}

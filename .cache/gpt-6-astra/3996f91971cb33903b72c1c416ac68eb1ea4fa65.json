@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The rapid 198-connection burst and /admin probing indicate suspicious reconnaissance, while sender-controlled scanner approval claims and embedded instructions provide no trusted evidence of authorization.\"}"}

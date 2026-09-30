@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The external source generated 222 connections in roughly four seconds consistent with reconnaissance, while attacker-controlled scanner claims and downgrade instructions provide no trustworthy authorization.\"}"}

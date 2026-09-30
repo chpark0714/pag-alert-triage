@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The external source generated 227 connections and approximately 131 MB of traffic in 6.9 seconds against an upload endpoint, indicating suspected automated abuse despite the ordinary filename and HTTP 200 response.\"}"}

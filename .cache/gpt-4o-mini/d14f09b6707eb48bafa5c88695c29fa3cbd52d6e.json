@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The SQL-injection-style username, 446 connections, and unusually large outbound volume indicate a likely attack despite the 401 response, while sender-supplied claims of an approved scan are unverified.\"}"}

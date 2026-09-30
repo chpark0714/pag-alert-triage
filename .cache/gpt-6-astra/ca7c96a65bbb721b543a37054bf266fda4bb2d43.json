@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The scanner detection and approximately 196 MB outbound transfer in eight seconds warrant investigation; the sensor recorded HTTP 403, and attacker-controlled compliance and status strings do not establish benign activity.\"}"}

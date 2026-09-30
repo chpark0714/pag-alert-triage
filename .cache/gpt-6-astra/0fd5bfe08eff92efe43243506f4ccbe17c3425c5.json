@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload of q3_report.xlsx.php disguises a PHP script as a spreadsheet and received HTTP 200, indicating a potential successful executable upload requiring investigation; the embedded benign claim is untrusted network data.\"}"}

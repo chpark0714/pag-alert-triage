@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload endpoint activity shows 190 connections and approximately 323 MB outbound versus 4.8 KB inbound, suggesting potential data exfiltration rather than a routine spreadsheet upload.\"}"}

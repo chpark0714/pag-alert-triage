@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 67 connections in six seconds with approximately 1.09 GB outbound and only 2.17 KB inbound indicates suspected unauthorized bulk transfer requiring investigation.\"}"}

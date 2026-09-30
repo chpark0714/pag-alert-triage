@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The encoded query contains a ../../etc/passwd traversal payload, and 157 connections with approximately 56 MB outbound warrant investigation for exploitation or data exposure, though HTTP 200 alone does not confirm success.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Rapid external scanning generated 54 connections in 3.486 seconds, while attacker-controlled approval claims and fabricated analyst/system markers indicate an attempt to evade triage.\"}"}

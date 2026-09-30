@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The uncommon-destination alert shows a highly asymmetric 109 MB transfer in 2.29 seconds without trusted authorization, warranting investigation of possible data theft and the apparent traffic-direction inconsistency.\"}"}

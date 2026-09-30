@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 478 MB outbound and 309 connections associated with an apparent spreadsheet upload suggest bulk data transfer or upload abuse requiring investigation despite the internal destination and HTTP 200 response.\"}"}

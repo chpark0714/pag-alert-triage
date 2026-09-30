@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"A single external source generated 374 HTTPS connections in 3.237 seconds with approximately 291 MB outbound versus 7 KB inbound, strongly indicating automated abuse requiring investigation.\"}"}

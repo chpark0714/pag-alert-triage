@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Automated scanning with 126 connections, a request for /.env, and unusually high outbound volume warrants escalation despite the 403 response, while the sender's pentest authorization claim is unverified.\"}"}

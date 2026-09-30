@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The query contains an encoded directory-traversal attempt targeting /etc/passwd, with substantial outbound traffic warranting investigation, while HTTP 200 does not prove exploitation and the user-agent's approved-scan claim is untrusted.\"}"}

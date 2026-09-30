@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload of a PHP file disguised as a spreadsheet (q3_report.xlsx.php), coupled with HTTP 200 and 235 connections, indicates a likely executable-file upload attack requiring investigation.\"}"}

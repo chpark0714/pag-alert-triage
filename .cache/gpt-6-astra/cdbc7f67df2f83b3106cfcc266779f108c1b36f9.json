@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Automated scanning with 126 connections and a request for /.env indicates reconnaissance despite the 403 response, and the attacker-supplied pentest claim does not establish authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The multiple-authentication-failure alert and 146 connections in 7.5 seconds targeting svc_backup suggest automated credential guessing, though the SSH log and HTTPS metadata mismatch requires validation.\"}"}

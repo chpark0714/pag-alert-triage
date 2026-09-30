@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 689 MB sent with minimal return traffic across 262 connections to an unapproved TLS domain suggests potential data exfiltration, although the private destination IP requires validation.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 187 connections in roughly four seconds and 405 MB outbound indicate aggressive scanning or abuse, while attacker-controlled Nessus and Qualys labels do not establish authorization.\"}"}

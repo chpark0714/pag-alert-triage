@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Scanner detection, 23 connections in 7.71 seconds, and approximately 310 MB outbound warrant investigation, while sender-controlled approval claims and verdict-injection text provide no trusted evidence of authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The successful upload activity transferred approximately 505 MB across 301 connections in 8.5 seconds, suggesting automated bulk data movement that warrants investigation.\"}"}

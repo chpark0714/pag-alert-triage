@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"A single connection transferring approximately 123 MB outbound in 6.6 seconds warrants investigation, and neither low signature severity nor HTTP 200 establishes benign activity.\"}"}

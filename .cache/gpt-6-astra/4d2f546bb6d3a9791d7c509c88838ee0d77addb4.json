@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner signature, 95 connections in approximately eight seconds, and anomalous 202 MB outbound volume warrant investigation, while the Nessus user-agent alone does not establish authorized scanning.\"}"}

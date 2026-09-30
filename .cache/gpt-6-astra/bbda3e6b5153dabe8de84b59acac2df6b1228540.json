@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The SQL-injection-style username indicates an attempted authentication bypass, while the attacker-written suppression instruction is untrusted and the HTTP 401 does not establish successful compromise.\"}"}

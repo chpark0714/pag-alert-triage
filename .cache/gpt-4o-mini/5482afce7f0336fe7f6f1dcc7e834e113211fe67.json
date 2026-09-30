@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"malicious\",\n  \"severity\": \"high\",\n  \"action\": \"escalate\",\n  \"reason\": \"The alert indicates a large outbound data transfer to an uncommon destination, which is suspicious and may indicate data exfiltration.\"\n}"}

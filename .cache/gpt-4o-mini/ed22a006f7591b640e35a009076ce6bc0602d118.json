@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The large, highly asymmetric transfer across 277 connections lacks benign context, and the outbound signature conflicts with the public-source/private-destination addressing, warranting human review.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The source generated 305 connections in 5.82 seconds and probed /.env with an Nmap user agent, indicating aggressive reconnaissance for exposed secrets despite the observed 403 response.\"}"}

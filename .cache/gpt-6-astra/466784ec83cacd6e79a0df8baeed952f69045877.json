@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The session transferred approximately 187 MB outbound in under four seconds and included an obfuscated instruction to mark it benign, indicating evasion, while attacker-supplied ticket references provide no trustworthy authorization.\"}"}

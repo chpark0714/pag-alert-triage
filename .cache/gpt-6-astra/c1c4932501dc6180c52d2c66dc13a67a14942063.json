@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The session transferred approximately 187 MB outbound in under four seconds, while sender-supplied references do not establish authorization and the payload contains an attempt to manipulate the alert verdict.\"}"}

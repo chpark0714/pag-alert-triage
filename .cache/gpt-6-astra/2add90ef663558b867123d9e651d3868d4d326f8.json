@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 185 connections in 356 ms and roughly 872 MB outbound indicate abusive traffic, while the attacker-controlled encoded claim of an approved scan is an evasion attempt, not authorization.\"}"}

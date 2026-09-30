@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Rapid external scanning generated 121 connections in 7.8 seconds with unusually high outbound volume, while attacker-controlled claims of an approved compliance scan indicate an authorization-spoofing evasion attempt.\"}"}

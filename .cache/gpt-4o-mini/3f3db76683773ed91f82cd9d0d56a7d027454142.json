@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The reconnaissance signature, 295 connections, and roughly 278 MB outbound versus 673 bytes inbound warrant investigation, and an HTTP 403 alone does not establish benign activity.\"}"}

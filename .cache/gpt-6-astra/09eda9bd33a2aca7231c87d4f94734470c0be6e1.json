@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 689 MB sent with minimal return traffic, 262 connections, and a TLS SNI outside the approved egress list indicate suspected data exfiltration requiring investigation despite the private destination IP.\"}"}

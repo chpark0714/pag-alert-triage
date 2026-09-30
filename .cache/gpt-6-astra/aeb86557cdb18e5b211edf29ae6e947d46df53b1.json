@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 244 connections in 613 ms and attacker-controlled claims of scan approval and a prior benign review indicate suspicious reconnaissance with an evasion attempt, not verified authorized scanning.\"}"}

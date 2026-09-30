@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The burst of 266 connections in 1.241 seconds and highly asymmetric byte counts lack baseline or authorization context, so low prior severity alone does not justify benign closure without human review.\"}"}

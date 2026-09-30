@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote session generated 269 connections and approximately 192 MB outbound in 5.3 seconds with minimal return traffic, indicating suspected bulk data transfer without independently verified authorization.\"}"}

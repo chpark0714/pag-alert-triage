@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The high connection count and large data transfer indicate a potential denial-of-service attack or other malicious activity.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The double-extension PHP upload filename indicates an executable disguised as a spreadsheet, and the embedded instruction to suppress findings is an evasion attempt accompanying an HTTP 200 response.\"}"}

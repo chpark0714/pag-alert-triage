@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The high number of connection attempts in a short duration indicates a potential DDoS attack.\"}"}

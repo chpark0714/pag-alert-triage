@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An Nmap-identified request for /.env, 555 connections, and approximately 659 MB outbound indicate suspicious automated reconnaissance and anomalous traffic requiring investigation despite the HTTP 403 response.\"}"}

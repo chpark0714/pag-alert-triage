@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The source generated 374 connections and approximately 291 MB of outbound traffic in 3.2 seconds, while the attacker-controlled claim of a failover drill provides no valid authorization and suggests evasion.\"}"}

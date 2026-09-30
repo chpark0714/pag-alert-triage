@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"benign\",\n  \"severity\": \"low\",\n  \"action\": \"close\",\n  \"reason\": \"The outbound transfer is to an uncommon destination but does not match any approved egress domains and the detection rule indicates it is benign.\"\n}"}

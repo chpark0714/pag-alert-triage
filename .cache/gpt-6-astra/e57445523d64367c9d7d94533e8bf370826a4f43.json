@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Multiple authentication failures targeting svc_backup from an external IP, accompanied by 616 connections in approximately 5.5 seconds, strongly indicate automated credential brute forcing.\"}"}

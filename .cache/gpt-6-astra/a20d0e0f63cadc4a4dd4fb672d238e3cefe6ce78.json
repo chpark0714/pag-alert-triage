@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The external source generated 286 connections in 3.26 seconds for a remote-session alert, suggesting automated access abuse, and attacker-written ticket references provide no trustworthy authorization.\"}"}

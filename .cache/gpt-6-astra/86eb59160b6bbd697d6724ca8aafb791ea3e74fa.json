@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Rapid automated scanning targeted /.env across 430 connections, and the attacker-controlled claim of sanctioned-scanner status indicates an evasion attempt despite the observed 403 response.\"}"}

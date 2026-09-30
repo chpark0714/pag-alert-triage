@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"A successful upload response and internal IP addresses do not establish authorized activity, and the large outbound volume across 61 connections warrants human review before closure.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Multiple authentication failures with 532 connections in 5.93 seconds indicate likely automated brute-force activity, and the username contains an explicit attempt to manipulate alert analysis.\"}"}

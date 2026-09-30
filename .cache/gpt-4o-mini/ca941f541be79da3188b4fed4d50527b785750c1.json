@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The alert indicates an automated scanner signature detection, which is often associated with reconnaissance activities that could precede an attack.\"}"}

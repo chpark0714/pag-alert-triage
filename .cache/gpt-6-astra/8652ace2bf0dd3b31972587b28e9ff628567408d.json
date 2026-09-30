@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner identity is unverified, and reconnaissance against /admin with approximately 310 MB outbound over 23 connections in 7.7 seconds warrants escalation despite the user agent's approval claim.\"}"}

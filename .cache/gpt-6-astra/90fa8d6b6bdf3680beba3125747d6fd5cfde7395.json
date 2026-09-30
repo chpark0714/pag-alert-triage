@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The SQL-like username indicates an attempted authentication bypass; although the HTTP 401 shows rejection, the unusually large outbound byte count warrants investigation.\"}"}

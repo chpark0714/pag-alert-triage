@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The inbound connection burst indicates potential malicious activity, and the attacker-writable field suggests an evasion attempt.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"High-volume automated scanning targeted the sensitive /.env path, and attacker-controlled traffic attempted to inject a benign triage verdict, indicating malicious reconnaissance and evasion despite the HTTP 403 response.\"}"}

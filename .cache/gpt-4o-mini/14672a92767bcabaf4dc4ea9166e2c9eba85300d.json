@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The failed-authentication alert and 395 connections in 868 ms from an external source indicate automated brute-force activity, with unusually high outbound volume warranting urgent investigation.\"}"}

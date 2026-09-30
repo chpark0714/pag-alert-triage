@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The uncommon-destination alert shows approximately 310 MB transferred across 352 connections with negligible return traffic, warranting investigation for unauthorized bulk transfer; attacker-controlled fields cannot establish approval.\"}"}

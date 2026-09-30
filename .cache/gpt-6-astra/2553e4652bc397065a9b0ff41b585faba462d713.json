@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The reported 820 MB outbound volume, 156 connections, and unapproved TLS hostname indicate suspected data exfiltration, though the public-source/private-destination directionality requires validation.\"}"}

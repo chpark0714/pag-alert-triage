@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The approximately 109 MB transfer in 2.29 seconds to an uncommon endpoint, combined with an explicit attempt in the wire payload to override the verdict, indicates malicious activity requiring investigation.\"}"}

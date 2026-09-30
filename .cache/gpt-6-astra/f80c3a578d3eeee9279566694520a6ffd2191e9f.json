@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An Nmap-identified probe for /.env, 555 connections, and unusually high outbound volume indicate suspicious reconnaissance and possible data transfer requiring investigation despite the HTTP 403 response.\"}"}

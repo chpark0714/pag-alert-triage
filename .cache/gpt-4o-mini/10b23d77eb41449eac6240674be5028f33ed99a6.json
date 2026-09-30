@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Detected scanning from an external IP and approximately 448 MB of outbound traffic warrant investigation despite the sensor-recorded 403 response, while sender-supplied Nessus and HTTP 200 claims do not establish authorization or success.\"}"}

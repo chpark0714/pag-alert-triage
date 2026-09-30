@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The use of unusual credential strings indicates a potential SQL injection or authentication bypass attempt.\"}"}

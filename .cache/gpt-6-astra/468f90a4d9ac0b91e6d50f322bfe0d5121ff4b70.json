@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The approximately 85 MB outbound transfer associated with a 1.26-second failed authentication suggests potential data exfiltration, although the apostrophe-containing username alone is not evidence of an attack.\"}"}

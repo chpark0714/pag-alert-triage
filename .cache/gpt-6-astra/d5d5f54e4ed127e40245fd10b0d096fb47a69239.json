@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 331 connections in 3.879 seconds with repeated authentication failures and HTTP 401 responses strongly indicates automated credential attacks against the destination.\"}"}

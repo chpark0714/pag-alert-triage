@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 77 HTTPS connections in 4.9 seconds with approximately 182 MB outbound versus 8.6 KB inbound suggests automated bulk data transfer requiring investigation for compromise or unauthorized movement.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An unapproved TLS hostname and approximately 310 MB of highly asymmetric traffic across 352 connections suggest data exfiltration, although the public-to-private flow direction requires verification.\"}"}

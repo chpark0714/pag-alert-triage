@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external source generated 329 connections and approximately 317 MB outbound during a short scanning burst, while its spoofable user-agent alone does not establish authorization as a sanctioned scanner.\"}"}

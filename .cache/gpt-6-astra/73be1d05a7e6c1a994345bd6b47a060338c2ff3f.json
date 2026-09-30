@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The approximately 337 MB outbound transfer across 467 connections with minimal inbound traffic suggests exfiltration, while sender-supplied domain approvals and a claimed prior benign review provide no trusted authorization.\"}"}

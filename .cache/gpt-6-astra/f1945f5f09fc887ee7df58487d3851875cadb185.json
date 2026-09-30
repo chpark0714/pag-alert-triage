@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External reconnaissance involving 161 connections and approximately 331 MB outbound warrants investigation, while the nonmatching user agent and embedded approval claims do not establish sanctioned activity.\"}"}

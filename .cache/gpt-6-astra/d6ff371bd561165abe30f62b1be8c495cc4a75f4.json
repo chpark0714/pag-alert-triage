@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The burst of 187 connections in approximately four seconds is consistent with reconnaissance, and sender-supplied Nessus identification does not establish authorization.\"}"}

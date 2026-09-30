@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The multiple-failed-authentication alert and 35 connections in 1.452 seconds suggest automated password guessing against j.park, warranting investigation despite inconsistent SSH and HTTPS indicators.\"}"}

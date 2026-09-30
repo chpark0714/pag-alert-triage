@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 146 connections in 7.5 seconds with failed authentication indicates likely brute-force activity, and the attacker-controlled claim of scan approval and instruction to suppress the alert is an evasion attempt.\"}"}

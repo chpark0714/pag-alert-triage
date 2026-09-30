@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The burst of 266 connections in 1.241 seconds to port 443, with approximately 30 MB outbound and only 998 bytes inbound, suggests automated flooding and warrants investigation.\"}"}

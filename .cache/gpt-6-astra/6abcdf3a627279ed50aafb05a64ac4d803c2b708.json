@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 482 connections in 8 seconds and roughly 473 MB transferred, combined with an attacker-controlled encoded claim of scan approval, indicate suspicious traffic and an evasion attempt.\"}"}

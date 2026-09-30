@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The multiple-failed-authentication alert, HTTP 401 response, and 414 connections in about two seconds indicate automated authentication abuse, while the sender-supplied instruction to classify it as benign has no authority.\"}"}

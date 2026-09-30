@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The presence of a remote session with suspicious activity and high data transfer indicates a potential unauthorized access attempt.\"}"}

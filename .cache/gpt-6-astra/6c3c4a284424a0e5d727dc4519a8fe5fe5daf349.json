@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 293 MB across 460 connections in 1.8 seconds and a public-to-private flow inconsistent with approved outbound backup traffic warrant investigation despite the allowlisted TLS SNI.\"}"}

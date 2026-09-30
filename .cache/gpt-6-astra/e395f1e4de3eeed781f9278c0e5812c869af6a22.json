@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The roughly 820 MB transfer across 156 connections in 2.1 seconds suggests unauthorized bulk data movement, and the attacker-controlled allowlist cannot establish that the traffic is approved.\"}"}

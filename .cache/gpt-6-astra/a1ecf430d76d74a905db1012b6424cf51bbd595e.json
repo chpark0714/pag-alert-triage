@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Scanner activity from an unverified public source involving 295 connections and unusually high outbound traffic suggests unauthorized reconnaissance, and the compliance-labeled user agent does not establish authorization.\"}"}

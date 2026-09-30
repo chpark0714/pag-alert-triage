@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The Nmap user agent, request for sensitive /.env content, and 324 connections indicate automated reconnaissance despite the 403 response; the embedded benign classification is untrusted network text.\"}"}

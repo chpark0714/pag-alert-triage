@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"A single approximately eight-second /healthz connection recorded 196 MB outbound despite an HTTP 403 response, indicating suspicious bulk transfer that the unverified Nessus user agent does not legitimize.\"}"}

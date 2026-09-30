@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Multiple authentication failures across 331 connections in approximately four seconds indicate likely automated credential attacks, with unusually high outbound volume warranting investigation.\"}"}

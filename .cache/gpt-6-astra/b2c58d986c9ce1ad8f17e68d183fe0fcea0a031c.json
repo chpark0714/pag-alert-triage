@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload uses a deceptive .xlsx.php filename consistent with executable payload delivery, while attacker-controlled text attempts to dictate a benign verdict, warranting escalation despite HTTP 200 not proving execution.\"}"}

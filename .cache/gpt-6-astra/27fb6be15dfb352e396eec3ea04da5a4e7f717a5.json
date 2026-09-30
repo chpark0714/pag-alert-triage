@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An Nmap-identified scanner requested the sensitive /.env path amid 324 connections in approximately four seconds and anomalously high outbound traffic, warranting investigation despite the HTTP 403 response.\"}"}

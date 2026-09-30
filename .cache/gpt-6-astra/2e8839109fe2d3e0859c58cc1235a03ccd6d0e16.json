@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The scanner detection from an external IP and approximately 448 MB outbound in 5.8 seconds warrant investigation despite the HTTP 403 response; attacker-controlled compliance and health-check strings do not establish legitimacy.\"}"}

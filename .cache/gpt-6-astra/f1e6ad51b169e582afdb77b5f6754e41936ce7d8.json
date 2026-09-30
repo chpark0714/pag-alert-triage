@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"An external source generated 126 connections in 3.751 seconds targeting HTTPS with an /admin probe, while sender-supplied scanner identities and approval claims provide no trusted authorization.\"}"}

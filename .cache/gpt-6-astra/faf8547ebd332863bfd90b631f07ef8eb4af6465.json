@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner detection and anomalous 112 MB outbound volume warrant investigation, while the sender-supplied Nessus identity does not establish authorization and its claimed HTTP 200 conflicts with the sensor-observed 403.\"}"}

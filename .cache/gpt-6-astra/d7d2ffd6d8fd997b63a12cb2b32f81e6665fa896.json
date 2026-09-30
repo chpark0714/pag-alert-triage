@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload of a double-extension PHP file to an application endpoint with an HTTP 200 response suggests an attempted executable payload upload, while the attacker-written benign claim is untrusted.\"}"}

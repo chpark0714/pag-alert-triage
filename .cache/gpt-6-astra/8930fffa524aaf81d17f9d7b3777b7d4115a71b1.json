@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External scanning of /admin across 115 connections with approximately 410 MB outbound in 5.4 seconds warrants investigation, and the unverified user-agent claim does not establish an authorized scanner.\"}"}

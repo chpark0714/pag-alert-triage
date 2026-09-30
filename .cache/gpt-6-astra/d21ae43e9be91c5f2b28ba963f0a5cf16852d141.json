@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"An external source generated 319 connections and probed /admin using an instruction-bearing user agent that does not match the sanctioned scanner agents, indicating unauthorized reconnaissance despite the observed 403 response.\"}"}

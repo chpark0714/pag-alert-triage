@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External scanning of /admin with 121 connections and approximately 645 MB outbound warrants escalation, while the self-asserted scanner approval and embedded benign verdict do not establish authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Multiple authentication failures with 616 connections in roughly 5.5 seconds indicate likely automated credential guessing, and the pentest claim embedded in the untrusted username does not establish authorization.\"}"}

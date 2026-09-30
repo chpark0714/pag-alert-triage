@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external remote-assistance session references a ticket absent from the open-ticket list, shows 286 connections, and contains an embedded attempt to manipulate alert classification, warranting investigation as suspected unauthorized access.\"}"}

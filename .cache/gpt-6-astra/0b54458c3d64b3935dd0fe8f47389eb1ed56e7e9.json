@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The transfer of approximately 346 MB with only 5 KB received across 99 connections in 5.5 seconds indicates suspected bulk exfiltration, and attacker-controlled domain and SNI values cannot establish authorization.\"}"}

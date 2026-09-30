@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 374 inbound connections in 3.2 seconds with approximately 291 MB transferred suggests automated abuse, and the sender-supplied drill claim provides no trusted authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The admin credential contains SQL-injection syntax indicating an authentication attack, and the anomalous 201 MB outbound volume warrants investigation despite the HTTP 401 response.\"}"}

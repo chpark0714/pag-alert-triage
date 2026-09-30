@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The inbound burst of 312 connections in 780 ms to a DMZ HTTPS host, with approximately 199 MB outbound versus 2.7 KB inbound, indicates likely automated abuse requiring immediate investigation.\"}"}

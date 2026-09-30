@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"383 connections in 5.94 seconds with repeated authentication failures indicate automated brute-force activity, while the sender-supplied claim of benignity provides no trusted justification.\"}"}

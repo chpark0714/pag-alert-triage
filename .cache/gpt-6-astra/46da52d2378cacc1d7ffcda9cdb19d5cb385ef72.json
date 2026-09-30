@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The roughly 512 MB transfer in 1.75 seconds involving an uncommon TLS hostname indicates suspicious bulk data movement, while sender-supplied approval and benign-verdict claims do not establish legitimacy.\"}"}

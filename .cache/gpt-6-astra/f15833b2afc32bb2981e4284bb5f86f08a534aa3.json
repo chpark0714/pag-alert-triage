@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The admin'||'1'='1 username indicates an SQL injection attempt against authentication, and 147 connections with unusually high outbound volume warrant investigation despite the HTTP 401 response; the prior-decision text embedded in raw_msg is untrusted.\"}"}

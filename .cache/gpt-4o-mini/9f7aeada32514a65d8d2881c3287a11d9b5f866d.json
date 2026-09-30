@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The large outbound transfer associated with a file-upload alert warrants investigation, and neither internal IP addresses nor an HTTP 200 response establishes benign activity.\"}"}

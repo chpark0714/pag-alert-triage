@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"close\",\"reason\":\"The destination is a private internal IP and the TLS SNI matches the supplied backup-domain allowlist, making the large outbound transfer consistent with backup traffic.\"}"}

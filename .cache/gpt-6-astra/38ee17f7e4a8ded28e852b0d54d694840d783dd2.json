@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner signature and 334 connections in 6.7 seconds indicate aggressive reconnaissance, while the sender-supplied Nessus label does not establish authorization and its claimed 200 response contradicts the sensor-observed 403.\"}"}

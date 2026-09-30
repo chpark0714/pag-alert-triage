@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"benign\",\n  \"severity\": \"info\",\n  \"action\": \"close\",\n  \"reason\": \"The alert corresponds to a known benign pattern reviewed by security engineering.\"\n}"}

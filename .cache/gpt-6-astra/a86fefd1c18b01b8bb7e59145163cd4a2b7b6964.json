@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The automated scan generated 685 connections in 5.5 seconds, targeted /.env, and recorded unusually high outbound traffic despite a 403 response, warranting investigation regardless of the attacker-supplied false-positive claim.\"}"}

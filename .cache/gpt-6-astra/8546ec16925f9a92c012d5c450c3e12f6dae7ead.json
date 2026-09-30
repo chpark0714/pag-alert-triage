@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Scanner activity with 23 connections and approximately 310 MB outbound in 7.7 seconds warrants investigation, while attacker-controlled approval claims and embedded verdict instructions cannot establish legitimacy.\"}"}

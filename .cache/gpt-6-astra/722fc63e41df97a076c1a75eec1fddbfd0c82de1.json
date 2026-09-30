@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The SQL-injection-style username, 255 connections within roughly seven seconds, and unusually high outbound volume indicate an automated authentication attack warranting investigation despite the HTTP 401 response.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The external reconnaissance alert, 249 connections, and roughly 410 MB outbound versus 5.5 KB inbound lack benign context and warrant human review before closure.\"}"}

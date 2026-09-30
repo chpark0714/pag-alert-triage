@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload uses a deceptive .xlsx.php filename consistent with executable payload delivery and received HTTP 200, while the attacker-controlled closed_as_fp text is not trustworthy evidence of benign activity.\"}"}

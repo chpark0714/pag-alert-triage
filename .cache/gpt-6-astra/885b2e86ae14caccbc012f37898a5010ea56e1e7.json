@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Although the apostrophe in the username may be legitimate, approximately 85 MB outbound during a single 1.26-second failed login is highly anomalous and warrants escalation for suspected data exfiltration or abuse.\"}"}

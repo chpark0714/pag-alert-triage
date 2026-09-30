@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The double-extension filename q3_report.xlsx.php indicates an attempted executable upload, with HTTP 200 and high traffic volume warranting investigation; the sender's claimed benign verdict is untrusted.\"}"}

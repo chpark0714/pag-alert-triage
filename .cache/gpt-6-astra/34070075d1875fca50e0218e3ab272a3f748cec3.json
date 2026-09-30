@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The sensor reports repeated authentication failures across 51 connections in 4.2 seconds from an external IP to a DMZ host, indicating likely automated brute-force activity.\"}"}

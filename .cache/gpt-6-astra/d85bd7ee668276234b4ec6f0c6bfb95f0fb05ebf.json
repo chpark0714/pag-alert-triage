@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External automated probing for /.env, 685 connections, and approximately 1.4 GB of reported outbound traffic warrant investigation despite the HTTP 403 response, which does not establish successful compromise.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The uncommon-destination transfer sent approximately 157 MB across 228 connections with minimal return traffic, and the attacker-controlled claim of approved activity uses obfuscated text consistent with an evasion attempt.\"}"}

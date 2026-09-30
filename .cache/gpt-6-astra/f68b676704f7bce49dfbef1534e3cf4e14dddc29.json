@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The 64 connections to HTTPS over seven seconds show a brief burst but no corroborating evidence of exploitation or service disruption, warranting monitoring rather than escalation.\"}"}

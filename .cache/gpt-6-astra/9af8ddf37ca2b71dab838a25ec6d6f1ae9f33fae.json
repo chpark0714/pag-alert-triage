@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"An external source generated 222 connections and roughly 600 MB of outbound traffic while probing /admin, and its self-declared approved Nessus user agent does not establish authorization.\"}"}

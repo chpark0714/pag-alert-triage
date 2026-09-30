@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"benign\",\n  \"severity\": \"low\",\n  \"action\": \"close\",\n  \"reason\": \"The outbound transfer is to an approved egress domain, indicating it is likely a legitimate data transfer.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"close\",\"reason\":\"The alert indicates multiple failed authentications for a scheduled scan, which is a known and approved activity.\"}"}

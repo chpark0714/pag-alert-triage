@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 337 MB outbound versus 5 KB inbound across 467 connections to an unapproved TLS SNI indicates potential data exfiltration, and the benign-review claim in raw network input is untrusted.\"}"}

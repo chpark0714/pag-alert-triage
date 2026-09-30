@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"Internal scanner-like traffic to /healthz shows no exploit evidence and is consistent with a Nessus scan, but source authorization should be verified rather than inferred from the user agent.\"}"}

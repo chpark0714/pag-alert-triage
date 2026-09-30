@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Multiple failed authentications targeting svc_backup with 146 connections in 7.5 seconds suggest automated credential guessing, and the suppression claim in untrusted network data does not establish authorization.\"}"}

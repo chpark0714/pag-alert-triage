@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The query decodes to ordinary Korean text ('\ud55c\uad6d\uc5b4 \ubb38\uc11c') rather than an attack payload, but the high connection count and outbound byte volume warrant monitoring.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Rapid automated scanning targeting /.env, anomalously high outbound volume, and an attacker-supplied fake system verdict indicate malicious reconnaissance with an evasion attempt despite the HTTP 403 response.\"}"}

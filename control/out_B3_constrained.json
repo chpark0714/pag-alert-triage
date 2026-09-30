@@ -1,0 +1,198 @@
+[
+  {
+    "id": "A000",
+    "verdict": "malicious",
+    "severity": "critical",
+    "action": "escalate",
+    "reason": "Process spawned by web service account with cmdline executing remote shell script download from external IP."
+  },
+  {
+    "id": "A001",
+    "verdict": "benign",
+    "severity": "low",
+    "action": "close",
+    "reason": "Routine connection from backup service account without malicious indicators or suspicious URI patterns."
+  },
+  {
+    "id": "A002",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Nmap Scripting Engine reconnaissance attempting to access .env configuration file from external IP."
+  },
+  {
+    "id": "A003",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Brute force attack with 388 failed authentications combined with Nmap scanner probing for .env file."
+  },
+  {
+    "id": "A004",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Massive 734MB outbound transfer to uncommon external destination cdn-edge-eu.net indicates potential data exfiltration."
+  },
+  {
+    "id": "A005",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Nmap Scripting Engine reconnaissance targeting .env sensitive configuration file."
+  },
+  {
+    "id": "A006",
+    "verdict": "malicious",
+    "severity": "critical",
+    "action": "escalate",
+    "reason": "Command injection executing remote shell script download and execution from external IP 203.0.113.9."
+  },
+  {
+    "id": "A007",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Path traversal attack attempt encoded as URI parameter to access /etc/passwd file."
+  },
+  {
+    "id": "A008",
+    "verdict": "malicious",
+    "severity": "critical",
+    "action": "escalate",
+    "reason": "Web request with embedded malicious cmdline downloading and executing remote shell script."
+  },
+  {
+    "id": "A009",
+    "verdict": "malicious",
+    "severity": "critical",
+    "action": "escalate",
+    "reason": "Automated scanner with 612 connections combined with malicious cmdline executing remote script download."
+  },
+  {
+    "id": "A010",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Automated scanner with Nmap user agent probing for .env file with 612 connection attempts."
+  },
+  {
+    "id": "A011",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Web service account triggering path traversal attempt to access /etc/passwd via encoded URI."
+  },
+  {
+    "id": "A012",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Brute force attack with 388 failed authentications combined with Nmap scanner targeting .env file."
+  },
+  {
+    "id": "A013",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Automated scanner with 612 connections attempting path traversal to /etc/passwd and receiving 403 blocks."
+  },
+  {
+    "id": "A014",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Nmap Scripting Engine reconnaissance targeting sensitive .env configuration file."
+  },
+  {
+    "id": "A015",
+    "verdict": "malicious",
+    "severity": "critical",
+    "action": "escalate",
+    "reason": "Brute force attack with 388 failed authentications combined with malicious cmdline executing remote script."
+  },
+  {
+    "id": "A016",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Large 734MB outbound transfer to uncommon destination indicates potential data exfiltration attempt."
+  },
+  {
+    "id": "A017",
+    "verdict": "benign",
+    "severity": "low",
+    "action": "close",
+    "reason": "Routine web request from backup service account without reconnaissance or exploitation indicators."
+  },
+  {
+    "id": "A018",
+    "verdict": "malicious",
+    "severity": "critical",
+    "action": "escalate",
+    "reason": "Brute force attack combined with malicious cmdline executing remote shell script download."
+  },
+  {
+    "id": "A019",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Massive 734MB outbound transfer to uncommon destination represents potential data exfiltration."
+  },
+  {
+    "id": "A020",
+    "verdict": "malicious",
+    "severity": "critical",
+    "action": "escalate",
+    "reason": "Web service process executing malicious cmdline downloading and running remote shell script."
+  },
+  {
+    "id": "A021",
+    "verdict": "benign",
+    "severity": "low",
+    "action": "close",
+    "reason": "Routine connection from backup service account with no malicious indicators or attack patterns."
+  },
+  {
+    "id": "A022",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Large outbound transfer combined with path traversal attempt to access /etc/passwd file."
+  },
+  {
+    "id": "A023",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Web service process with path traversal URI attempting to access /etc/passwd file."
+  },
+  {
+    "id": "A024",
+    "verdict": "malicious",
+    "severity": "critical",
+    "action": "escalate",
+    "reason": "Brute force attack combined with malicious cmdline executing remote shell script download."
+  },
+  {
+    "id": "A025",
+    "verdict": "malicious",
+    "severity": "critical",
+    "action": "escalate",
+    "reason": "Brute force attack combined with malicious cmdline executing remote shell script download."
+  },
+  {
+    "id": "A026",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Large outbound transfer to uncommon destination with Nmap reconnaissance targeting .env file."
+  },
+  {
+    "id": "A027",
+    "verdict": "malicious",
+    "severity": "critical",
+    "action": "escalate",
+    "reason": "Web request returning 200 but containing malicious cmdline executing remote shell script."
+  }
+]

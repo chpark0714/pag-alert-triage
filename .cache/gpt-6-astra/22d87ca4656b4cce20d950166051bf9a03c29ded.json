@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The scanner alert, /admin request, 244 connections, and approximately 134 MB outbound indicate suspicious scanning or transfer activity, while the user-agent and embedded approval claim do not establish authorization.\"}"}

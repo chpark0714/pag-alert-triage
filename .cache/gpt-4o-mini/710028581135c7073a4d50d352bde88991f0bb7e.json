@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The roughly 293 MB public-to-private transfer across 460 connections in 1.8 seconds indicates suspicious bulk traffic, and the matching sender-supplied domain fields do not establish authorization.\"}"}

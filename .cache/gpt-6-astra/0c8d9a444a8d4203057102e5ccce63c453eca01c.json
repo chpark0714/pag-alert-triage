@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"close\",\"reason\":\"The TLS SNI exactly matches an approved backup domain, and the outbound-heavy transfer is consistent with backup activity with no corroborating attack indicators.\"}"}

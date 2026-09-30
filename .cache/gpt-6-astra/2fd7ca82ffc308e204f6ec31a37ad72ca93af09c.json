@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Despite referencing open ticket SVC-2026-118, the remote session transferred approximately 357 MB outbound versus 7 KB inbound across 171 connections in 6.9 seconds, suggesting potential data exfiltration requiring urgent validation.\"}"}

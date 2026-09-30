@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload alert shows 309 connections and approximately 478 MB outbound in 2.6 seconds, indicating suspected automated upload abuse despite the ordinary filename and HTTP 200 response.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The burst of 334 connections in 6.7 seconds and approximately 238 MB outbound suggests suspicious automated activity, while the Nessus user agent alone does not establish an authorized compliance scan.\"}"}

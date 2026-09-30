@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The inbound burst of 331 connections in 4.7 seconds with extreme byte asymmetry indicates likely abuse, and the attacker-controlled payload explicitly attempts to suppress escalation.\"}"}

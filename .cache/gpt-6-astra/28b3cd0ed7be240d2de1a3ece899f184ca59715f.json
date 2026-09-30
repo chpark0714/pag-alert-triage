@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"A successful HTTP response and internal IP addresses do not establish authorized activity, while the upload alert, 309 connections, and approximately 478 MB outbound warrant human review.\"}"}

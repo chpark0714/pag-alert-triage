@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The session shows 191 connections and approximately 231 MB outbound in 5.8 seconds, while attacker-controlled content attempts to inject a benign verdict and provides no trustworthy authorization.\"}"}

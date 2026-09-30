@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The burst of 64 internal HTTPS connections over seven seconds is insufficient to establish an attack without corroborating evidence of exploitation or service disruption.\"}"}

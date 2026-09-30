@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner alert, 187 connections in roughly four seconds, and denied /admin request indicate suspicious reconnaissance, while sender-supplied Nessus identification does not establish authorization.\"}"}

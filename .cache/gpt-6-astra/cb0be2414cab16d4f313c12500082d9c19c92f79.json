@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The 198 connections, anomalously high outbound volume, and admin-path probing indicate suspicious reconnaissance, while the user agent does not match the sanctioned agents and contains an untrusted attempt to influence triage.\"}"}

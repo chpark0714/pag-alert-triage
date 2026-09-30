@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External scanning targeted the sensitive /.env file across 126 connections with anomalously large outbound traffic; the 403 does not establish compromise, and the untrusted pentest claim requires independent verification.\"}"}

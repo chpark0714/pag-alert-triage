@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The username contains an apparent SQL injection authentication-bypass attempt and embedded instruction manipulation; HTTP 401 indicates this request failed, but the high connection count and outbound byte volume warrant investigation.\"}"}

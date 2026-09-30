@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote session reports approximately 589 MB outbound versus only 4 KB inbound in 1.1 seconds, indicating suspected data exfiltration that a matching ticket reference alone does not legitimize.\"}"}

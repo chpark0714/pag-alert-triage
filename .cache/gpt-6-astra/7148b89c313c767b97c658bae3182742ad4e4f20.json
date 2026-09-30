@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner signature, 324 connections, Nmap user agent, and request for /.env indicate hostile reconnaissance despite the 403 response, while the sender-supplied claim of a benign verdict is untrusted.\"}"}

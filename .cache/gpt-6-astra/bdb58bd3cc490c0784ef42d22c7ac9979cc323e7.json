@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The automated-scanner alert, 555 connections in 4.5 seconds, and attempted access to /.env indicate hostile reconnaissance despite the HTTP 403 response.\"}"}

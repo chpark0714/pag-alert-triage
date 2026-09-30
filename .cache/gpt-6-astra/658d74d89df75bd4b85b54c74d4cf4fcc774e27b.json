@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"High-volume automated scanning targeted /.env, and attacker-controlled traffic injected a false prior-analysis claim to evade triage despite the HTTP 403 response.\"}"}

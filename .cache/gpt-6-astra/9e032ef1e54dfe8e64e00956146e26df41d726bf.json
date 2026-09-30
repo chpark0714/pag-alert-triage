@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The external source generated 126 connections consistent with reconnaissance, while its user agent does not match the sanctioned agents and its embedded approval claim is untrusted, warranting escalation to verify authorization.\"}"}

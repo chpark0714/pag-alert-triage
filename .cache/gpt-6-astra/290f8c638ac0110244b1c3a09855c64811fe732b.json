@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The multiple-failed-authentication alert with 158 connections in 6.2 seconds suggests automated credential attacks, while approximately 217 MB outbound and conflicting SSH/HTTPS indicators warrant urgent investigation.\"}"}

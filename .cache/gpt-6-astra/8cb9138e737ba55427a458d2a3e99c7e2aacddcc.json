@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Nmap-associated probing of the sensitive /.env path, 555 connections, and unusually high outbound volume indicate suspicious reconnaissance requiring investigation despite the HTTP 403 response.\"}"}

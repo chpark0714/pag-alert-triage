@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source made 265 connections targeting the sensitive /.env file with an Nmap user agent and unusually high outbound volume; the 403 does not establish safety, and the sender's audit-authorization claim is unverified.\"}"}

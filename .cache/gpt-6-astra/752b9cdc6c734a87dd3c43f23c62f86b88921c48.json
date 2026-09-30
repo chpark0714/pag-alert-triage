@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 286 connections in approximately seven seconds, HTTP 401 response, and unusually large outbound volume indicate likely automated authentication abuse, although the apostrophe in the username is not inherently malicious.\"}"}

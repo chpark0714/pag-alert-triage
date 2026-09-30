@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The URI contains an encoded ../../etc/passwd path-traversal attempt, and 106 connections with roughly 356 MB outbound warrant investigation, although HTTP 200 alone does not confirm exploitation.\"}"}

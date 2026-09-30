@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The approximately 512 MB transfer in 1.754 seconds to an uncommon destination, combined with an explicit verdict-manipulation attempt in the payload, warrants escalation and validation of the apparent traffic-direction mismatch.\"}"}

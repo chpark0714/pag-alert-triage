@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External scanning generated 161 connections in 6.89 seconds, targeted /admin, and coincided with approximately 331 MB outbound, while attacker-controlled agent and support-approval claims do not establish authorization.\"}"}

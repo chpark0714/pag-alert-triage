@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external source generated 222 connections in roughly four seconds targeting HTTPS, while attacker-controlled scanner claims and an explicit severity-downgrade directive indicate an evasion attempt rather than verified authorization.\"}"}

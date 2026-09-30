@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The sensor detected 383 connections in 5.94 seconds with repeated authentication failures from an external IP, indicating likely brute-force activity; the attacker-written benign claim is not authoritative.\"}"}

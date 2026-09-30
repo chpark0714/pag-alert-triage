@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source generated 254 connections in 4.5 seconds with repeated authentication failures, and the attacker-controlled username contains an explicit evasion attempt to force a false-positive verdict.\"}"}

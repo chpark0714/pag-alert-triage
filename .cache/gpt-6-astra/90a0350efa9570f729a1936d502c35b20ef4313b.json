@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 187 connections in 4.69 seconds and approximately 277 MB outbound suggests automated bulk data extraction, despite the benign-looking URL-encoded Korean search query.\"}"}

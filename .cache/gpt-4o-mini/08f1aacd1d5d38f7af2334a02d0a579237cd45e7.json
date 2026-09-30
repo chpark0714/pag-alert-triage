@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"benign\",\n  \"severity\": \"info\",\n  \"action\": \"close\",\n  \"reason\": \"The alert is related to an approved pentest activity during the specified window.\"\n}"}

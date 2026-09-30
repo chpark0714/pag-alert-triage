@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The scanner signature, 295 connections in 4.9 seconds, and approximately 278 MB outbound indicate aggressive reconnaissance requiring investigation; the sensor recorded HTTP 403, and attacker-supplied compliance and 200 strings do not establish authorization or success.\"}"}

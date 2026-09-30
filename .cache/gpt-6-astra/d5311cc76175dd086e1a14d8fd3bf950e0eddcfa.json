@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"close\",\"reason\":\"The TLS SNI matches the listed approved backup domain, the destination IP is private, and the single outbound-heavy transfer is consistent with backup activity.\"}"}

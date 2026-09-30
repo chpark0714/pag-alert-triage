@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The modest burst of 24 HTTPS connections over 8.3 seconds shows no specific attack indicators, but monitoring is warranted for sustained or escalating activity.\"}"}

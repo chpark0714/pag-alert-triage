@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"benign\",\n  \"severity\": \"low\",\n  \"action\": \"close\",\n  \"reason\": \"The alert is part of a Red Team engagement and is authorized, indicating it is not a real attack.\"\n}"}

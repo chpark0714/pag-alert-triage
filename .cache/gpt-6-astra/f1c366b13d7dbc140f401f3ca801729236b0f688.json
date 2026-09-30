@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The roughly 533 MB transfer and 277 connections from a public source to a private destination contradict the expected outbound backup pattern, and an approved SNI alone does not establish legitimacy.\"}"}

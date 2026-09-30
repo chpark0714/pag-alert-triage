@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source generated 284 connections to the DMZ host in 3.289 seconds with approximately 255 MB transferred, indicating likely automated abuse; the attacker-controlled false-positive claim is not authoritative.\"}"}

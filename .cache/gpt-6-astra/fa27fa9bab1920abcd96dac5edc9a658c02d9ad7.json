@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The scanner signature, 282 connections in 1.866 seconds, probe for /.env, and unusually large outbound volume warrant escalation despite the HTTP 403; the attacker-written benign claim is untrusted.\"}"}

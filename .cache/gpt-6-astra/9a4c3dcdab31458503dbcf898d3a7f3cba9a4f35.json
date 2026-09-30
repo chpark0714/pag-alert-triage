@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The Nmap user agent, request for /.env, and 685 connections in 5.5 seconds indicate automated reconnaissance targeting sensitive configuration, while unusually high outbound traffic warrants investigation despite the HTTP 403 response.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The multiple-failed-authentication alert, HTTP 401 response, and approximately 135 MB sent in two seconds indicate suspected automated authentication abuse requiring investigation.\"}"}

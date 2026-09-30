@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The burst of 60 connections in 8.2 seconds with approximately 242 MB outbound versus 1.9 KB inbound is anomalous, and neither the low severity prior nor the private IP addresses establish benign activity without further review.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Multiple failed authentications combined with approximately 135 MB of outbound traffic in two seconds indicate suspected authentication abuse and anomalous data transfer requiring investigation.\"}"}

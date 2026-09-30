@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The connection recorded approximately 389 MB outbound in 6.4 seconds despite an HTTP 401 response, suggesting potential data exfiltration even though the username itself is plausible.\"}"}

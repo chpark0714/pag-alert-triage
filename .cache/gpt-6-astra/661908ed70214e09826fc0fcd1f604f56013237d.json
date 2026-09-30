@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote session references a ticket absent from the open-ticket list and shows 191 connections with approximately 231 MB outbound versus 6 KB inbound in 5.8 seconds, indicating suspected unauthorized access and data transfer.\"}"}

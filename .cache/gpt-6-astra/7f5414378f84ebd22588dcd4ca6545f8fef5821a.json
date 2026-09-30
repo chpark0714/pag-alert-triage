@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Rapid automated scanning targeted /.env across 685 connections, with anomalous outbound volume and an attacker-injected false-positive claim indicating evasion despite the HTTP 403 response.\"}"}

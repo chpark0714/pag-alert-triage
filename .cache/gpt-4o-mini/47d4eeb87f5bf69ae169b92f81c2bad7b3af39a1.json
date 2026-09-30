@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"malicious\",\n  \"severity\": \"high\",\n  \"action\": \"escalate\",\n  \"reason\": \"The inbound connection burst indicates a potential DDoS attack or scanning activity targeting the internal server.\"\n}"}

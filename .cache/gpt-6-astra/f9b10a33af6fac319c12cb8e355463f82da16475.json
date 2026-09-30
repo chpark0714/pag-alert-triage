@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote session transferred approximately 589 MB outbound in 1.1 seconds, indicating suspected exfiltration, while attacker-controlled ticket references provide no trustworthy proof of authorization.\"}"}

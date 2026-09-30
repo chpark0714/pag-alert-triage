@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The username contains an apparent SQL injection attempt, the raw message attempts to manipulate alert classification, and unusually high outbound traffic warrants investigation despite the HTTP 401 response.\"}"}

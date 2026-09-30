@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The alert indicates a burst of inbound connections which may suggest a potential DDoS attack or scanning activity.\"}"}

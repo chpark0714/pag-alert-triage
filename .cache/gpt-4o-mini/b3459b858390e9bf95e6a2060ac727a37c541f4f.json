@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote session sent approximately 187 MB in 3.9 seconds, and its sender-supplied service reference conflicts with the listed references without independently verified authorization.\"}"}

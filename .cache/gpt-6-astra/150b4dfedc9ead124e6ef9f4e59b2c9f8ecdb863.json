@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The SQL-injection-style username and 225 connections indicate an authentication attack despite the HTTP 401 response, while the claimed prior approval is attacker-controlled and untrusted.\"}"}

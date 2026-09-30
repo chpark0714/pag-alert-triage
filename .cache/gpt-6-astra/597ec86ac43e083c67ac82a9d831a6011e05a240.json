@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"A roughly 512 MB outbound transfer associated with an unapproved TLS destination and minimal return traffic suggests potential data exfiltration, although the public-to-private IP direction requires validation.\"}"}

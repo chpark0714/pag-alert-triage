@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The URI contains an encoded traversal attempt targeting /etc/passwd, accompanied by high connection volume and data transfer, while the attacker-controlled drill claim provides no valid authorization.\"}"}

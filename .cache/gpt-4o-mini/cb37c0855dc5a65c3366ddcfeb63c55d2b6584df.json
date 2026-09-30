@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The outbound transfer to an uncommon destination with a large amount of data suggests potential data exfiltration.\"}"}

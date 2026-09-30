@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"A successful upload request containing the double-extension filename q3_report.xlsx.php strongly suggests an attempt to disguise executable PHP as a spreadsheet, warranting investigation for server-side code execution.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 95 connections in 1.54 seconds with approximately 226 MB outbound and only 8.7 KB inbound over TCP/443 suggests suspicious bulk data transfer requiring investigation.\"}"}

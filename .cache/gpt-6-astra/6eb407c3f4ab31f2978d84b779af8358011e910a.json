@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 185 connections in 356 ms with approximately 872 MB outbound versus 6 KB inbound indicates likely abuse or data exfiltration, while the untrusted payload provides no valid evidence of authorization.\"}"}

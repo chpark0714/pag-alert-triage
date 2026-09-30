@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Uploading q3_report.xlsx.php to /upload with an HTTP 200 response suggests a disguised executable upload, and the embedded benign post-filter claim is untrusted alert content.\"}"}

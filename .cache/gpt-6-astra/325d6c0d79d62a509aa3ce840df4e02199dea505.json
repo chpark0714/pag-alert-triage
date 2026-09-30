@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"High-volume Nmap-associated scanning targeted /.env and included forged threat-intelligence enrichment in attacker-controlled traffic, indicating malicious reconnaissance and an evasion attempt despite the HTTP 403 response.\"}"}

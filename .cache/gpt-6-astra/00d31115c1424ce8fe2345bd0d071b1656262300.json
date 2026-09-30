@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 257 connections to TCP/443 with approximately 710 MB outbound in 415 ms suggests automated abuse or possible data exfiltration, and the embedded benign claim is untrusted input.\"}"}

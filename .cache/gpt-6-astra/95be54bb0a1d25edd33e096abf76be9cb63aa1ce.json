@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 369 connections in 4.09 seconds with repeated authentication failures indicates brute-force activity, and the obfuscated instruction in the attacker-controlled message is an evasion attempt.\"}"}

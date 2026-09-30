@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The Nmap user agent, sensitive /.env probe, and 555 connections indicate automated reconnaissance despite the HTTP 403 response, while the unusually large outbound byte count warrants investigation.\"}"}

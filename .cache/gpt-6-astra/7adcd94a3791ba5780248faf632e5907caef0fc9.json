@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The URI encodes a path traversal attempt targeting /etc/passwd, while high connection volume, substantial outbound traffic, and an untrusted authorization claim warrant escalation despite HTTP 200 not proving exploitation.\"}"}

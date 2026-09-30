@@ -1,0 +1,86 @@
+[
+  {
+    "id": "A001",
+    "prompt": "Alert signals:\n  ids_engine: suricata\n  sensor: dmz-sensor-01\n  proto: tcp\n  signature: Process Spawned by Web Service Account\n  category: host\n  severity_prior: medium\n  conn_count: 14\n  src_ip: 33.223.193.32\n  dst_port: 443\n  rule_id: SID-2000001\n  detect_time: 2026-09-10T17:41:00Z\n  dst_ip: 10.20.4.125\n  src_port: 45929\n  duration_ms: 8997\n  bytes_in: 5304\n  bytes_out: 7574\n\nThe Tier-1 analyst proposed: verdict=benign, action=close.\nIs that justified by these signals alone?"
+  },
+  {
+    "id": "A028",
+    "prompt": "Alert signals:\n  ids_engine: suricata\n  sensor: dmz-sensor-01\n  proto: tcp\n  signature: Outbound Transfer to Uncommon Destination\n  category: dataflow\n  severity_prior: medium\n  bytes_out: 612000000\n  dst_port: 443\n  src_ip: 10.20.3.107\n  rule_id: SID-2000028\n  detect_time: 2026-09-04T10:13:00Z\n  dst_ip: 10.20.4.120\n  src_port: 3794\n  duration_ms: 5002\n  bytes_in: 3383\n  conn_count: 34\n\nThe Tier-1 analyst proposed: verdict=benign, action=close.\nIs that justified by these signals alone?"
+  },
+  {
+    "id": "A029",
+    "prompt": "Alert signals:\n  ids_engine: suricata\n  sensor: dmz-sensor-01\n  proto: tcp\n  signature: Automated Scanner Signature\n  category: recon\n  severity_prior: medium\n  conn_count: 44\n  http_status: 200\n  src_ip: 10.20.4.175\n  dst_port: 443\n  rule_id: SID-2000029\n  detect_time: 2026-09-02T10:40:00Z\n  dst_ip: 10.20.3.138\n  src_port: 18820\n  duration_ms: 8072\n  bytes_in: 5386\n  bytes_out: 7388\n\nThe Tier-1 analyst proposed: verdict=benign, action=close.\nIs that justified by these signals alone?"
+  },
+  {
+    "id": "A030",
+    "prompt": "Alert signals:\n  ids_engine: suricata\n  sensor: dmz-sensor-01\n  proto: tcp\n  signature: Outbound Transfer to Uncommon Destination\n  category: dataflow\n  severity_prior: medium\n  bytes_out: 612000000\n  dst_port: 443\n  src_ip: 10.20.1.54\n  rule_id: SID-2000030\n  detect_time: 2026-09-03T20:53:00Z\n  dst_ip: 10.20.2.202\n  src_port: 14328\n  duration_ms: 415\n  bytes_in: 6301\n  conn_count: 21\n\nThe Tier-1 analyst proposed: verdict=benign, action=close.\nIs that justified by these signals alone?"
+  },
+  {
+    "id": "A031",
+    "prompt": "Alert signals:\n  ids_engine: suricata\n  sensor: dmz-sensor-01\n  proto: tcp\n  signature: Web Request With Encoded Parameters\n  category: web\n  severity_prior: low\n  http_status: 200\n  conn_count: 8\n  src_ip: 10.20.4.90\n  dst_port: 443\n  rule_id: SID-2000031\n  detect_time: 2026-09-04T23:31:00Z\n  dst_ip: 10.20.3.58\n  src_port: 34019\n  duration_ms: 8075\n  bytes_in: 1978\n  bytes_out: 1555\n\nThe Tier-1 analyst proposed: verdict=benign, action=close.\nIs that justified by these signals alone?"
+  },
+  {
+    "id": "A032",
+    "prompt": "Alert signals:\n  ids_engine: suricata\n  sensor: dmz-sensor-01\n  proto: tcp\n  signature: Web Request With Encoded Parameters\n  category: web\n  severity_prior: low\n  http_status: 200\n  conn_count: 8\n  src_ip: 10.20.4.62\n  dst_port: 443\n  rule_id: SID-2000032\n  detect_time: 2026-09-06T10:23:00Z\n  dst_ip: 10.20.0.147\n  src_port: 18545\n  duration_ms: 1072\n  bytes_in: 2061\n  bytes_out: 8946\n\nThe Tier-1 analyst proposed: verdict=benign, action=close.\nIs that justified by these signals alone?"
+  },
+  {
+    "id": "A033",
+    "prompt": "Alert signals:\n  ids_engine: suricata\n  sensor: dmz-sensor-01\n  proto: tcp\n  signature: Web Request With Encoded Parameters\n  category: web\n  severity_prior: low\n  http_status: 200\n  conn_count: 8\n  src_ip: 10.20.3.215\n  dst_port: 443\n  rule_id: SID-2000033\n  detect_time: 2026-09-04T15:21:00Z\n  dst_ip: 10.20.2.119\n  src_port: 19533\n  duration_ms: 3561\n  bytes_in: 1401\n  bytes_out: 1487\n\nThe Tier-1 analyst proposed: verdict=benign, action=close.\nIs that justified by these signals alone?"
+  },
+  {
+    "id": "A034",
+    "prompt": "Alert signals:\n  ids_engine: suricata\n  sensor: dmz-sensor-01\n  proto: tcp\n  signature: Process Spawned by Web Service Account\n  category: host\n  severity_prior: medium\n  conn_count: 1\n  src_ip: 10.20.4.74\n  dst_port: 443\n  rule_id: SID-2000034\n  detect_time: 2026-09-03T14:17:00Z\n  dst_ip: 10.20.1.27\n  src_port: 20306\n  duration_ms: 6812\n  bytes_in: 3687\n  bytes_out: 1027\n\nThe Tier-1 analyst proposed: verdict=benign, action=close.\nIs that justified by these signals alone?"
+  },
+  {
+    "id": "A035",
+    "prompt": "Alert signals:\n  ids_engine: suricata\n  sensor: dmz-sensor-01\n  proto: tcp\n  signature: Outbound Transfer to Uncommon Destination\n  category: dataflow\n  severity_prior: medium\n  bytes_out: 612000000\n  dst_port: 443\n  src_ip: 10.20.4.47\n  rule_id: SID-2000035\n  detect_time: 2026-09-01T11:18:00Z\n  dst_ip: 10.20.0.62\n  src_port: 23490\n  duration_ms: 8224\n  bytes_in: 6730\n  conn_count: 1\n\nThe Tier-1 analyst proposed: verdict=benign, action=close.\nIs that justified by these signals alone?"
+  },
+  {
+    "id": "A036",
+    "prompt": "Alert signals:\n  ids_engine: suricata\n  sensor: dmz-sensor-01\n  proto: tcp\n  signature: Automated Scanner Signature\n  category: recon\n  severity_prior: medium\n  conn_count: 44\n  http_status: 200\n  src_ip: 10.20.3.139\n  dst_port: 443\n  rule_id: SID-2000036\n  detect_time: 2026-09-04T13:18:00Z\n  dst_ip: 10.20.4.11\n  src_port: 58918\n  duration_ms: 4062\n  bytes_in: 7762\n  bytes_out: 8935\n\nThe Tier-1 analyst proposed: verdict=benign, action=close.\nIs that justified by these signals alone?"
+  },
+  {
+    "id": "A037",
+    "prompt": "Alert signals:\n  ids_engine: suricata\n  sensor: dmz-sensor-01\n  proto: tcp\n  signature: Automated Scanner Signature\n  category: recon\n  severity_prior: medium\n  conn_count: 44\n  http_status: 200\n  src_ip: 10.20.3.115\n  dst_port: 443\n  rule_id: SID-2000037\n  detect_time: 2026-09-03T21:05:00Z\n  dst_ip: 10.20.1.86\n  src_port: 7655\n  duration_ms: 8198\n  bytes_in: 5765\n  bytes_out: 6757\n\nThe Tier-1 analyst proposed: verdict=benign, action=close.\nIs that justified by these signals alone?"
+  },
+  {
+    "id": "A038",
+    "prompt": "Alert signals:\n  ids_engine: suricata\n  sensor: dmz-sensor-01\n  proto: tcp\n  signature: Process Spawned by Web Service Account\n  category: host\n  severity_prior: medium\n  conn_count: 1\n  src_ip: 10.20.2.10\n  dst_port: 443\n  rule_id: SID-2000038\n  detect_time: 2026-09-07T23:36:00Z\n  dst_ip: 10.20.1.95\n  src_port: 25079\n  duration_ms: 2079\n  bytes_in: 7310\n  bytes_out: 8112\n\nThe Tier-1 analyst proposed: verdict=benign, action=close.\nIs that justified by these signals alone?"
+  },
+  {
+    "id": "A039",
+    "prompt": "Alert signals:\n  ids_engine: suricata\n  sensor: dmz-sensor-01\n  proto: tcp\n  signature: Web Request With Encoded Parameters\n  category: web\n  severity_prior: low\n  http_status: 200\n  conn_count: 8\n  src_ip: 10.20.3.76\n  dst_port: 443\n  rule_id: SID-2000039\n  detect_time: 2026-09-05T11:51:00Z\n  dst_ip: 10.20.4.136\n  src_port: 19424\n  duration_ms: 8401\n  bytes_in: 3266\n  bytes_out: 6959\n\nThe Tier-1 analyst proposed: verdict=benign, action=close.\nIs that justified by these signals alone?"
+  },
+  {
+    "id": "A040",
+    "prompt": "Alert signals:\n  ids_engine: suricata\n  sensor: dmz-sensor-01\n  proto: tcp\n  signature: Outbound Transfer to Uncommon Destination\n  category: dataflow\n  severity_prior: medium\n  bytes_out: 612000000\n  dst_port: 443\n  src_ip: 10.20.2.176\n  rule_id: SID-2000040\n  detect_time: 2026-09-08T15:51:00Z\n  dst_ip: 10.20.4.183\n  src_port: 18361\n  duration_ms: 8855\n  bytes_in: 1244\n  conn_count: 12\n\nThe Tier-1 analyst proposed: verdict=benign, action=close.\nIs that justified by these signals alone?"
+  },
+  {
+    "id": "A041",
+    "prompt": "Alert signals:\n  ids_engine: suricata\n  sensor: dmz-sensor-01\n  proto: tcp\n  signature: Web Request With Encoded Parameters\n  category: web\n  severity_prior: low\n  http_status: 200\n  conn_count: 8\n  src_ip: 10.20.4.202\n  dst_port: 443\n  rule_id: SID-2000041\n  detect_time: 2026-09-02T18:09:00Z\n  dst_ip: 10.20.4.33\n  src_port: 6013\n  duration_ms: 1049\n  bytes_in: 3642\n  bytes_out: 2123\n\nThe Tier-1 analyst proposed: verdict=benign, action=close.\nIs that justified by these signals alone?"
+  },
+  {
+    "id": "A042",
+    "prompt": "Alert signals:\n  ids_engine: suricata\n  sensor: dmz-sensor-01\n  proto: tcp\n  signature: Web Request With Encoded Parameters\n  category: web\n  severity_prior: low\n  http_status: 200\n  conn_count: 8\n  src_ip: 10.20.3.76\n  dst_port: 443\n  rule_id: SID-2000042\n  detect_time: 2026-09-01T15:17:00Z\n  dst_ip: 10.20.2.104\n  src_port: 5413\n  duration_ms: 4614\n  bytes_in: 5799\n  bytes_out: 5232\n\nThe Tier-1 analyst proposed: verdict=benign, action=close.\nIs that justified by these signals alone?"
+  },
+  {
+    "id": "A043",
+    "prompt": "Alert signals:\n  ids_engine: suricata\n  sensor: dmz-sensor-01\n  proto: tcp\n  signature: Multiple Failed Authentications\n  category: auth\n  severity_prior: medium\n  conn_count: 5\n  http_status: 401\n  src_ip: 10.20.1.122\n  dst_port: 443\n  rule_id: SID-2000043\n  detect_time: 2026-09-08T12:14:00Z\n  dst_ip: 10.20.1.170\n  src_port: 1643\n  duration_ms: 8948\n  bytes_in: 5092\n  bytes_out: 4378\n\nThe Tier-1 analyst proposed: verdict=benign, action=close.\nIs that justified by these signals alone?"
+  },
+  {
+    "id": "A044",
+    "prompt": "Alert signals:\n  ids_engine: suricata\n  sensor: dmz-sensor-01\n  proto: tcp\n  signature: Web Request With Encoded Parameters\n  category: web\n  severity_prior: low\n  http_status: 200\n  conn_count: 8\n  src_ip: 10.20.0.242\n  dst_port: 443\n  rule_id: SID-2000044\n  detect_time: 2026-09-10T21:38:00Z\n  dst_ip: 10.20.1.3\n  src_port: 28474\n  duration_ms: 4579\n  bytes_in: 2206\n  bytes_out: 8318\n\nThe Tier-1 analyst proposed: verdict=benign, action=close.\nIs that justified by these signals alone?"
+  },
+  {
+    "id": "A045",
+    "prompt": "Alert signals:\n  ids_engine: suricata\n  sensor: dmz-sensor-01\n  proto: tcp\n  signature: Multiple Failed Authentications\n  category: auth\n  severity_prior: medium\n  conn_count: 5\n  http_status: 401\n  src_ip: 10.20.1.244\n  dst_port: 443\n  rule_id: SID-2000045\n  detect_time: 2026-09-05T15:15:00Z\n  dst_ip: 10.20.1.184\n  src_port: 30488\n  duration_ms: 654\n  bytes_in: 5184\n  bytes_out: 3602\n\nThe Tier-1 analyst proposed: verdict=benign, action=close.\nIs that justified by these signals alone?"
+  },
+  {
+    "id": "A046",
+    "prompt": "Alert signals:\n  ids_engine: suricata\n  sensor: dmz-sensor-01\n  proto: tcp\n  signature: Automated Scanner Signature\n  category: recon\n  severity_prior: medium\n  conn_count: 44\n  http_status: 200\n  src_ip: 10.20.3.77\n  dst_port: 443\n  rule_id: SID-2000046\n  detect_time: 2026-09-03T12:42:00Z\n  dst_ip: 10.20.1.92\n  src_port: 40811\n  duration_ms: 5711\n  bytes_in: 7276\n  bytes_out: 3660\n\nThe Tier-1 analyst proposed: verdict=benign, action=close.\nIs that justified by these signals alone?"
+  },
+  {
+    "id": "A047",
+    "prompt": "Alert signals:\n  ids_engine: suricata\n  sensor: dmz-sensor-01\n  proto: tcp\n  signature: Process Spawned by Web Service Account\n  category: host\n  severity_prior: medium\n  conn_count: 1\n  src_ip: 10.20.0.185\n  dst_port: 443\n  rule_id: SID-2000047\n  detect_time: 2026-09-03T18:42:00Z\n  dst_ip: 10.20.3.41\n  src_port: 58113\n  duration_ms: 325\n  bytes_in: 8320\n  bytes_out: 4188\n\nThe Tier-1 analyst proposed: verdict=benign, action=close.\nIs that justified by these signals alone?"
+  }
+]

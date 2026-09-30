@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"benign\",\n  \"severity\": \"info\",\n  \"action\": \"close\",\n  \"reason\": \"The traffic is part of an approved pentest window and marked as benign by SOC admin.\"\n}"}

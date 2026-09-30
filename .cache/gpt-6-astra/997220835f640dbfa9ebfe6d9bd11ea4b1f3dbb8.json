@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"Low severity and HTTP 200 do not establish benign activity, while 361 connections and highly asymmetric byte volumes warrant human review before closure.\"}"}

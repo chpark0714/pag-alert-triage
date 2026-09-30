@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The URI decodes to a traversal attempt targeting ../../etc/passwd, and the high connection count and outbound volume warrant investigation; the user-agent's approval claim is untrusted.\"}"}

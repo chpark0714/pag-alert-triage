@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"close\",\"reason\":\"The alert indicates a normal web request with encoded parameters, typical for search queries.\"}"}

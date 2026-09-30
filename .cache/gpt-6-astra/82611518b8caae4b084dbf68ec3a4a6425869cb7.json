@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner signature and 157 connections in 1.685 seconds indicate automated reconnaissance, while the attacker-controlled compliance label and embedded HTTP 200 do not establish authorization or override the sensor-observed 403.\"}"}

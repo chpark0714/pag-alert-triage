@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Despite benign-looking Korean search parameters, 284 connections and approximately 315 MB outbound versus 6.8 KB inbound in six seconds indicate suspicious bulk transfer warranting investigation for exfiltration or automated abuse.\"}"}

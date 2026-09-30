@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External reconnaissance with 165 connections in 2.4 seconds and approximately 584 MB outbound warrants escalation, while the user-agent and embedded approval claim do not establish scanner authorization.\"}"}

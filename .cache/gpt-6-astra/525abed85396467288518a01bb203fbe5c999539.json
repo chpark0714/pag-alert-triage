@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The encoded query decodes to ../../etc/passwd, indicating a directory traversal attempt, while 317 connections and unusually large outbound traffic warrant urgent investigation despite HTTP 200 not proving successful exploitation.\"}"}

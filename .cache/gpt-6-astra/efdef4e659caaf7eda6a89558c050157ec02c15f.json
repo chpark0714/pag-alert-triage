@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The automated-scanner alert, 282 connections, and Nmap-identified request for /.env indicate hostile reconnaissance despite the HTTP 403 response, while the unusually large outbound byte count warrants investigation.\"}"}

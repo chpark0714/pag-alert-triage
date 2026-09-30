@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The external reconnaissance signature, 222 connections, and approximately 600 MB outbound versus 8 KB inbound over four seconds warrant human review because these signals do not establish benign activity.\"}"}

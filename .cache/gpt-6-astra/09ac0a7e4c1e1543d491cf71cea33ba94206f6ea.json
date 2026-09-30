@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The session shows 263 connections and approximately 580 MB outbound in under five seconds, suggesting bulk data exfiltration, while attacker-supplied ticket references and approval claims do not establish authorization.\"}"}

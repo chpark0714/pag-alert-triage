@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The multiple-failed-authentication alert and 146 connections within 7.5 seconds indicate likely automated credential guessing against the destination service.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The apostrophe in a plausible surname explains the credential-string alert, and one failed login shows no clear attack payload, but the unusually large outbound byte count warrants monitoring.\"}"}

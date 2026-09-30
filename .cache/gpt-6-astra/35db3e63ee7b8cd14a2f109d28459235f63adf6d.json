@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Automated scanning across 126 connections and a blocked request for /.env indicate reconnaissance targeting secrets, while the attacker-supplied pentest claim requires independent verification.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The SQL-injection-style admin username, 340 connections, and unusually high outbound byte count indicate attack activity despite the HTTP 401 response, and the claimed red-team authorization requires independent verification.\"}"}

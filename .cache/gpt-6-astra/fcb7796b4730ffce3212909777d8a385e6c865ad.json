@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Multiple authentication failures with 146 connections in 7.5 seconds indicate likely brute-force activity, and the attacker-controlled claim of an approved scan is not trustworthy authorization.\"}"}

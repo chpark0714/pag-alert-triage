@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 395 connections with repeated authentication failures and an attacker-supplied, Unicode-obfuscated approval claim indicates likely brute-force activity with an evasion attempt.\"}"}

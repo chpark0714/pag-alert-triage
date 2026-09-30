@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 310 MB of reported outbound traffic, minimal inbound traffic, and 352 connections associated with an unapproved TLS domain suggest potential exfiltration, though the public-source/private-destination addressing requires validation.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"616 connections in roughly 5.5 seconds with repeated authentication failures indicate likely brute-force activity, and the pentest claim embedded in the username is unverified attacker-controlled data.\"}"}

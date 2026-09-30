@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The uncommon-destination alert shows approximately 166 MB transferred with only 3 KB returned across 99 connections, and the sender-supplied domain list and matching SNI do not establish authorized activity.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The sensor detected a rapid burst of 244 connections consistent with reconnaissance, and attacker-controlled scanner identifiers and approval claims cannot establish that the activity is authorized.\"}"}

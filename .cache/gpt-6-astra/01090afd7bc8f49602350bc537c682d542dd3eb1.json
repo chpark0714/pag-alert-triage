@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"A successful HTTP response does not establish benign intent, and the upload alert, 390 connections, and roughly 56 MB outbound transfer require contextual investigation before closure.\"}"}

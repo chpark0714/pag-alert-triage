@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 510 connections in 396 ms and repeated authentication failures targeting svc_backup indicate automated brute-force activity, while the sender-supplied request to mark it benign has no authority.\"}"}

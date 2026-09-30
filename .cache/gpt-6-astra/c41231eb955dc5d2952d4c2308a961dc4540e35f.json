@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Nmap-style probing for /.env, 305 connections, approximately 546 MB of outbound traffic, and an embedded alert-suppression instruction warrant escalation despite the HTTP 403 response.\"}"}

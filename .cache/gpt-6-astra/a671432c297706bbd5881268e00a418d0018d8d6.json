@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The TLS SNI matches an approved backup domain and the outbound-heavy traffic is consistent with a backup, but the large transfer and 99 connections warrant monitoring.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The scanner alert, 324 connections, and disproportionately large outbound byte count warrant human review, and an HTTP 403 alone does not establish benign activity.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"close\",\"reason\":\"The alert indicates multiple failed authentications from a service account, which is common in automated processes.\"}"}

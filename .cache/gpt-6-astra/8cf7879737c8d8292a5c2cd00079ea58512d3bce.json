@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote-session reference does not match any open change ticket, and 99 connections with approximately 258 MB outbound versus 829 bytes inbound suggest potential exfiltration despite the unverified benign claim in the raw message.\"}"}

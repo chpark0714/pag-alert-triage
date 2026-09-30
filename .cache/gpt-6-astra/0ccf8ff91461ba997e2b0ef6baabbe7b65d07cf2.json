@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner detection, 95 connections in roughly eight seconds, and unusually high outbound volume indicate suspicious automated reconnaissance; sender-supplied Nessus and HTTP 200 claims do not establish authorization or override the sensor-observed 403.\"}"}

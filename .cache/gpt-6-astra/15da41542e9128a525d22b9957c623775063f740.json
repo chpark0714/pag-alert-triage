@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The multiple-failed-authentication alert, HTTP 401 response, and 133 connections in approximately eight seconds from an external IP indicate likely automated credential guessing against the DMZ host.\"}"}

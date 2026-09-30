@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"High-volume automated scanning targeting the sensitive /.env file indicates hostile reconnaissance, and the unusually large outbound byte count warrants investigation despite the HTTP 403 response.\"}"}

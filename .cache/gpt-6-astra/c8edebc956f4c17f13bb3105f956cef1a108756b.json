@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The external source generated 126 connections consistent with reconnaissance, while the spoofable user agent and payload claims do not establish authorization and the detection time falls outside the claimed testing window if interpreted as UTC.\"}"}

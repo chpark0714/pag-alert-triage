@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 820 MB outbound with minimal return traffic across 156 connections and an unapproved TLS hostname suggests data exfiltration, though the public-source/private-destination addressing requires traffic-direction validation.\"}"}

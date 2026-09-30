@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote session generated 220 connections and approximately 497 MB outbound in eight seconds, indicating suspected data exfiltration without trustworthy evidence of authorization.\"}"}

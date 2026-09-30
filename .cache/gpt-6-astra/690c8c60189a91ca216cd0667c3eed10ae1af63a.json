@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The TLS SNI matches an approved backup domain and the destination is private, making the outbound-heavy transfer consistent with backup activity, though the high volume warrants monitoring.\"}"}

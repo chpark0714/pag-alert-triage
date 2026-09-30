@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"malicious\",\n  \"severity\": \"high\",\n  \"action\": \"escalate\",\n  \"reason\": \"The alert indicates an automated scanning attempt using Nmap, which is a common reconnaissance technique for identifying vulnerabilities.\"\n}"}

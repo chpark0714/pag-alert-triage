@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"close\",\"reason\":\"The alert is triggered by a known false positive from an automated scanner, specifically Nmap.\"}"}

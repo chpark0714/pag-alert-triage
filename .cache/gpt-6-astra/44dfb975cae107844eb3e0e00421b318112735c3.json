@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The burst transferred approximately 758 MB outbound versus 8 KB inbound in under nine seconds, suggesting potential data exfiltration that warrants investigation.\"}"}

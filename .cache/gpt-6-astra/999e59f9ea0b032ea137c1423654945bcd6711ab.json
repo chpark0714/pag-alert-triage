@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The self-asserted scanner approval is unverified, and 244 connections with approximately 134 MB outbound in 613 ms indicate anomalous high-volume activity requiring investigation.\"}"}

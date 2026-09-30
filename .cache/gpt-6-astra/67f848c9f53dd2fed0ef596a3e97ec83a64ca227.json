@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External probing of /admin with 161 connections in 6.89 seconds and approximately 331 MB outbound indicates suspicious scanning and data transfer, while client-supplied scanner and support-approval claims do not establish authorization.\"}"}

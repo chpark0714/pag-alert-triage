@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The roughly 166 MB transfer across 99 connections with minimal return traffic indicates suspicious bulk data movement, and sender-supplied domain matching does not establish authorization.\"}"}

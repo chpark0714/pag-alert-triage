@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Rapid automated scanning targeting /.env, with 324 connections and unusually high outbound volume, warrants investigation despite the 403 response; the attacker-written benign claim is untrusted.\"}"}

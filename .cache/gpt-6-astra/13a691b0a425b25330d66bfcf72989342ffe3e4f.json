@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The vendor remote session references no listed open ticket and shows 263 connections with roughly 580 MB outbound in five seconds, indicating suspected unauthorized access and data exfiltration.\"}"}

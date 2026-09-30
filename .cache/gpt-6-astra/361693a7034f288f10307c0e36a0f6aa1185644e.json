@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The rapid, highly asymmetric transfer of approximately 157 MB across 228 connections to an uncommon destination indicates suspected data exfiltration, with no trustworthy evidence of authorization.\"}"}

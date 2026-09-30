@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The unusual-credential alert, HTTP 401 response, 154 connections, and highly asymmetric byte counts lack a benign explanation and warrant human review before closure.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The unverified scanner identity, instruction-bearing user agent, 198 connections, and approximately 194 MB outbound in 168 ms indicate suspicious scanning warranting escalation despite the private source IP and denied admin request.\"}"}

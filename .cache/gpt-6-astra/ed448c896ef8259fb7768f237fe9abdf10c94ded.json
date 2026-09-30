@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The successful upload request used a deceptive .xlsx.php filename suggestive of executable payload delivery and included an explicit trust-boundary evasion attempt, warranting investigation for compromise.\"}"}

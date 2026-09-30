@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The scanner alert and anomalous 196 MB outbound transfer in eight seconds warrant investigation, while the attacker-controlled Nessus identifier and claimed 200 response do not establish legitimacy or override the sensor-confirmed 403.\"}"}

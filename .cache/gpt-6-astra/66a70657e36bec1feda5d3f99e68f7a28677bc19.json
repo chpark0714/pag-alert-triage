@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source generated 374 connections to the DMZ host in 3.237 seconds with approximately 291 MB outbound versus 7 KB inbound, indicating a suspicious high-volume burst requiring investigation.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote-session alert shows 263 connections and approximately 580 MB outbound in under five seconds, indicating suspicious bulk transfer with no trustworthy authorization evidence.\"}"}

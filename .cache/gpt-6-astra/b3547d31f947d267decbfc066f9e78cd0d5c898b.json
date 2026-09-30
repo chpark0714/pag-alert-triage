@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The external source generated 265 connections and probed /.env using an automated scanner, indicating hostile reconnaissance despite the 403 response and unverified audit claims in attacker-controlled fields.\"}"}

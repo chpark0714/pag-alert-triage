@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The highly asymmetric 310 MB transfer across 352 connections, uncommon TLS destination, and sender-injected attempt to forge a benign verdict warrant escalation for suspected malicious data transfer.\"}"}

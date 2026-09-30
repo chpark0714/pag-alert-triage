@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The SQL-injection-style username and explicit instruction-override attempt indicate malicious authentication traffic, reinforced by 255 connections and unusually high outbound volume despite an HTTP 401 response.\"}"}

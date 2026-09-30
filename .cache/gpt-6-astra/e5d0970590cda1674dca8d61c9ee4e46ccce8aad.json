@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The sensor detected automated reconnaissance with a 403 response and unusually high outbound volume, while the attacker-controlled Nessus identifier does not establish authorized scanning.\"}"}

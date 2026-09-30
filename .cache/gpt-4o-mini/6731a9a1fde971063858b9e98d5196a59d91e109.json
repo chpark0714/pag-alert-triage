@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The multiple-failed-authentication detection, HTTP 401 response, and anomalous 135 MB outbound transfer in roughly two seconds indicate suspected credential abuse requiring investigation.\"}"}

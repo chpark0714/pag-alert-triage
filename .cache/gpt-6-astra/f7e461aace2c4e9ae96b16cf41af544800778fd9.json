@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The roughly 820 MB transfer across 156 connections with negligible return traffic to an uncommon destination indicates suspicious bulk data movement, and attacker-controlled fields cannot establish authorization.\"}"}

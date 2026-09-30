@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The query contains an encoded ../../etc/passwd traversal attempt, and unusually large outbound traffic warrants investigation for possible data exposure despite the unverified approved-scan claim in the User-Agent.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The apostrophe in the plausible username likely triggered a false positive without an attack payload, but the 39 connections and roughly 28 MB outbound warrant monitoring.\"}"}

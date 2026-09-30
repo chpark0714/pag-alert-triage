@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload of a double-extension PHP file (q3_report.xlsx.php) received HTTP 200, indicating a likely executable-file upload attempt that warrants investigation for web-shell deployment.\"}"}

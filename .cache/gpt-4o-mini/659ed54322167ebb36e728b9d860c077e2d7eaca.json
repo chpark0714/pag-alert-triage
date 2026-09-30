@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The high connection count and large amount of outbound data suggest a potential DDoS attack or data exfiltration.\"}"}

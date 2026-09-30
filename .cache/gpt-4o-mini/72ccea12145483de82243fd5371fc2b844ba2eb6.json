@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The large, highly asymmetric outbound transfer and 288 connections to an uncommon destination require investigation, and a private destination IP with port 443 does not establish benign activity.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload used a deceptive .xlsx.php filename and attacker-supplied security approval claim, indicating an executable-file upload and evasion attempt, with HTTP 200 suggesting request acceptance.\"}"}

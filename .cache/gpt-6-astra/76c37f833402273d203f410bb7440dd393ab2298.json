@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 666 MB sent across 288 connections in 2.5 seconds with minimal return traffic and an uncommon TLS SNI indicates suspected data exfiltration, with no trusted evidence of authorization.\"}"}

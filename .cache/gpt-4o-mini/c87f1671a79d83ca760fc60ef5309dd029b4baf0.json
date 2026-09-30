@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"benign\",\n  \"severity\": \"low\",\n  \"action\": \"close\",\n  \"reason\": \"The alert indicates a scan from a known compliance tool (Nessus) which is typically used for vulnerability assessments.\"\n}"}

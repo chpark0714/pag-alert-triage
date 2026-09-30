@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"A successful upload from an external source coincides with 190 connections and approximately 323 MB transferred in 1.464 seconds, strongly suggesting automated upload abuse requiring investigation.\"}"}

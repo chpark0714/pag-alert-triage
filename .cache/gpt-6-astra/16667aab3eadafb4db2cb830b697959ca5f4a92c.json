@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The reconnaissance alert, 212 connections in 5.7 seconds, and /admin probe indicate suspicious scanning, while the untrusted user agent does not establish sanctioned scanner authorization.\"}"}

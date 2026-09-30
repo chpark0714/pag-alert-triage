@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The query contains normally percent-encoded Korean text rather than an attack payload, but the 269 connections and approximately 143 MB outbound warrant monitoring for abnormal transfer activity.\"}"}

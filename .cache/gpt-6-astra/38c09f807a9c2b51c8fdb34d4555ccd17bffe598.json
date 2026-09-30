@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The roughly 512 MB transfer in 1.75 seconds to an uncommon endpoint warrants investigation, and the attacker-controlled payload explicitly attempts to force a benign verdict, indicating evasion.\"}"}

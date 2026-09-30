@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 318 connections in 7.3 seconds and approximately 143 MB outbound indicate suspicious burst activity, while the attacker-controlled instruction to mark it benign is an explicit evasion attempt.\"}"}

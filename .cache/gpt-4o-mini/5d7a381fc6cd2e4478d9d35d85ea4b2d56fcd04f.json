@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The roughly 17.5 MB outbound transfer with minimal return traffic across 117 connections in 4.5 seconds to an uncommon destination suggests possible data exfiltration, and the sender-supplied fields establish no legitimate authorization.\"}"}

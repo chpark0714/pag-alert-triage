@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The alert indicates scanner traffic from an external source targeting an internal service, which is indicative of reconnaissance activity.\"}"}

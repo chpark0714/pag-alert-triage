@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external remote-session alert shows 99 connections and approximately 258 MB outbound in 5.5 seconds, indicating suspected data exfiltration without independently verified authorization.\"}"}

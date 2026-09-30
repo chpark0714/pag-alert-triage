@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Although the URI contains ordinary percent-encoded Korean text, 269 connections and approximately 143 MB outbound in 1.23 seconds strongly suggest automated bulk data extraction and warrant investigation.\"}"}

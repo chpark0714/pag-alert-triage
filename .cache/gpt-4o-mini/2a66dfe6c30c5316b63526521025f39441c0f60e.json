@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload of a PHP file disguised as an Excel report, HTTP 200 response, and unusually high connection and data volumes indicate a likely malicious upload requiring investigation.\"}"}

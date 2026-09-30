@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The alert reports 532 connections in 5.93 seconds with repeated authentication failures, indicating likely brute-force activity, while the attacker-controlled username contains an instruction-injection attempt rather than evidence of benign traffic.\"}"}

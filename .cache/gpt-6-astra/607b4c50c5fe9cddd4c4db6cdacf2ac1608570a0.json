@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The scanner signature, 430 connections, and request for /.env indicate hostile reconnaissance despite the 403 response, while the attacker-written sanctioned-scanner claim is an evasion attempt requiring escalation.\"}"}

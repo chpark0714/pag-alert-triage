@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The uncommon-destination alert shows approximately 166 MB transferred across 99 connections with negligible return traffic, and attacker-controlled domain approval claims cannot establish legitimacy.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external remote session transferred approximately 56 MB outbound in eight seconds, suggesting possible exfiltration, while sender-supplied ticket references do not independently establish authorization and the session reference does not match them.\"}"}

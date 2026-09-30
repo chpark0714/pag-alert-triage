@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Although the username's apostrophe is plausibly legitimate, approximately 389 MB outbound in 6.4 seconds during a failed login warrants escalation for suspected data exfiltration.\"}"}

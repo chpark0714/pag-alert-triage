@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The multiple-failed-authentication alert and 158 connections in 6.2 seconds indicate likely automated credential attacks, while approximately 217 MB outbound warrants investigation for additional malicious activity.\"}"}

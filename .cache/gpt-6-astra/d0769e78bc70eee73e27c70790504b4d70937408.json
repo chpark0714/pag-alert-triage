@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload used a deceptive .xlsx.php filename indicative of an executable payload, received HTTP 200, and coincided with unusually high connection volume, warranting investigation for a possible web shell upload.\"}"}

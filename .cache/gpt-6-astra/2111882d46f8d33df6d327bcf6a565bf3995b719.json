@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Repeated authentication failures with 395 connections in 868 ms indicate likely automated brute-force activity, and the attacker-controlled claim of approved activity provides no legitimate authorization.\"}"}

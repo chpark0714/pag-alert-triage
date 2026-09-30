@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The reported 109 MB outbound transfer in 2.29 seconds to an unapproved TLS domain suggests data exfiltration, although the public-source/private-destination addressing requires directionality verification.\"}"}

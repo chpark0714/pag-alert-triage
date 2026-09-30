@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 510 connections in 396 ms with repeated authentication failures indicates automated brute-force activity against the internal host, while attacker-written text cannot establish benign intent.\"}"}

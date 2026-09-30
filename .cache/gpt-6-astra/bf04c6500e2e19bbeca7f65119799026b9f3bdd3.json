@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 244 connections in 613 ms and unusually large outbound volume indicate aggressive scanning, while attacker-controlled claims of approved compliance scanning suggest an evasion attempt rather than verified authorization.\"}"}

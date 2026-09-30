@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Detected scanning, /admin probing, and roughly 310 MB sent in 7.7 seconds indicate suspicious reconnaissance, while attacker-controlled scanner labels do not establish authorization.\"}"}

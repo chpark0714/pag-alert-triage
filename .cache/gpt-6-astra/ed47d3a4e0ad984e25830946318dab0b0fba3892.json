@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External scanner activity coincides with approximately 448 MB outbound in 5.8 seconds despite a reported HTTP 403, warranting investigation for possible data exfiltration; the Nessus user agent does not establish authorization.\"}"}

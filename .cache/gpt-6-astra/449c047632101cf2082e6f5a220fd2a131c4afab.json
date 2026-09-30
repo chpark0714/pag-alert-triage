@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The roughly 512 MB transfer involving an unapproved TLS hostname suggests possible exfiltration, although the external-to-internal addressing requires validation of the reported outbound direction.\"}"}

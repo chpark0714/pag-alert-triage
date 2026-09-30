@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"info\",\"action\":\"close\",\"reason\":\"The alert is related to a scheduled DR failover drill, indicating expected high traffic.\"}"}

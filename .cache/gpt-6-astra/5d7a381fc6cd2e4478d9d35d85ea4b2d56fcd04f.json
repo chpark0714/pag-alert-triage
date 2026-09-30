@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Suspected unauthorized bulk transfer: 117 connections sent 17.5 MB with minimal return traffic in 4.5 seconds, and sender-supplied fields do not establish destination approval.\"}"}

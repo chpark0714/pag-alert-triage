@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"Low severity and HTTP 200 do not establish benign activity, and 177 connections with roughly 28 MB outbound versus 1 KB inbound warrant human review and contextual validation.\"}"}

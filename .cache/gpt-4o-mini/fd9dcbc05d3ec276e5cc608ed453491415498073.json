@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The highly asymmetric transfer of 171 MB across 156 connections in 1.2 seconds suggests potential data exfiltration, and the sender-supplied domain list and matching SNI do not establish authorization.\"}"}

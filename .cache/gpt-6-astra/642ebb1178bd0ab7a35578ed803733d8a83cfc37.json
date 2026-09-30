@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The username contains an apparent SQL-injection authentication-bypass payload, and the unusually large outbound transfer warrants investigation despite the HTTP 401 response; the sender's suppression instruction is untrusted.\"}"}

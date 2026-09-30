@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The sensor detected rapid external scanning with 161 connections in 6.89 seconds and unusually high outbound volume, while sender-supplied approval claims do not establish authorization.\"}"}

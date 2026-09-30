@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"External reconnaissance generated 54 connections and probed /admin, while the nonmatching scanner user agent and embedded manipulation text do not establish authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The SQL-injection-style admin username indicates an authentication attack despite the HTTP 401 response, while 227 connections and unusually large outbound volume warrant investigation; the untrusted support-approval claim does not establish legitimacy.\"}"}

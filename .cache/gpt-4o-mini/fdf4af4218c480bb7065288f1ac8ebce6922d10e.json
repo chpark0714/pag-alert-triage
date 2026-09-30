@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The presence of scanner traffic from an external source indicates a potential reconnaissance attempt, which is concerning.\"}"}

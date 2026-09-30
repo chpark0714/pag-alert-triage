@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote-access alert shows 188 connections and approximately 290 MB outbound in 5.8 seconds, while mismatched sender-supplied ticket references do not establish authorization.\"}"}

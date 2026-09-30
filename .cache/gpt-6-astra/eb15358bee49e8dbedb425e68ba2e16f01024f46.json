@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The reported 512 MB outbound transfer in 1.75 seconds suggests potential bulk exfiltration, warranting investigation of flow direction and authorization rather than trusting attacker-supplied approval claims.\"}"}

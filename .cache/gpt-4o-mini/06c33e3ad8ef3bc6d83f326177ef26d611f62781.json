@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The upload alert, 301 connections, and roughly 505 MB outbound warrant human review because neither internal IP addresses nor HTTP 200 establishes that the activity was authorized or benign.\"}"}

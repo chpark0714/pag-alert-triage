@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote session shows 238 connections and approximately 347 MB transferred in 569 ms, while attacker-supplied ticket references provide no trustworthy evidence of authorization.\"}"}

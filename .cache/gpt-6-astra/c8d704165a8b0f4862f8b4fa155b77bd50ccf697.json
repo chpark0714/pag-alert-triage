@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External scanning of /admin with 222 connections and anomalous traffic volume warrants escalation; the user agent does not match a sanctioned scanner and contains an untrusted severity-downgrade directive.\"}"}

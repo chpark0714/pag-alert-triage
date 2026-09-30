@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 785 connections in 6.3 seconds with repeated authentication failures indicates likely automated credential abuse, and the sender-supplied claim of an approved scan is unverified.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Scanner activity targeting /admin and unusually high outbound volume warrant investigation, while sender-supplied approval claims and an embedded benign-verdict instruction provide no trustworthy authorization.\"}"}

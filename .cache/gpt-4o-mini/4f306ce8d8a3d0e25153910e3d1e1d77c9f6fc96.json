@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Although the apostrophe-containing username is plausible, approximately 85 MB outbound during a single 1.26-second connection returning HTTP 401 indicates suspicious data transfer inconsistent with an ordinary failed login.\"}"}

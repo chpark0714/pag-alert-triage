@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"benign\",\n  \"severity\": \"low\",\n  \"action\": \"close\",\n  \"reason\": \"The HTTP request returned a 200 status and does not indicate malicious intent despite the encoded parameters.\"\n}"}

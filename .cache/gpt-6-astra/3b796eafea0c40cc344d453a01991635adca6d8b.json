@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The URI contains ordinary percent-encoded Korean search text rather than an exploit payload, but 284 connections and approximately 315 MB outbound in six seconds warrant monitoring for anomalous activity.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The URI contains an encoded path-traversal attempt targeting /etc/passwd, and the unusually large outbound volume warrants investigation; the sender-supplied claim of prior approval is untrusted.\"}"}

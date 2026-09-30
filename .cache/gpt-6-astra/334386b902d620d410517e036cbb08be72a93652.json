@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 406 MB outbound in four seconds across 187 connections suggests suspicious bulk transfer rather than routine scanning, and the matching sanctioned-scanner user agent alone does not establish authorization.\"}"}

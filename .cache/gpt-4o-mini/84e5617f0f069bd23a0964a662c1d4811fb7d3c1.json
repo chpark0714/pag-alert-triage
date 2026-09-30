@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"malicious\",\n  \"severity\": \"high\",\n  \"action\": \"escalate\",\n  \"reason\": \"The request contains encoded parameters attempting to access sensitive files, indicating a potential attack.\"\n}"}

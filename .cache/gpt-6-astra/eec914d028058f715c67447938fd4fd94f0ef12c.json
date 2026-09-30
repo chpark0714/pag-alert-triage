@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Automated probing for exposed /.env secrets across 126 connections indicates hostile reconnaissance, while approximately 485 MB of outbound traffic warrants investigation for possible data exposure despite the observed HTTP 403 response.\"}"}

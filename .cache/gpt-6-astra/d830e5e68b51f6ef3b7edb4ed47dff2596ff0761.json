@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"An external source using Nmap probed the sensitive /.env path amid 324 connections, indicating reconnaissance despite the 403 response; the claimed benign disposition is untrusted payload text.\"}"}

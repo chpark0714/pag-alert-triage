@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 315 MB outbound versus 6.8 KB inbound across 284 connections in roughly six seconds suggests potential bulk exfiltration, despite the benign-looking encoded search text.\"}"}

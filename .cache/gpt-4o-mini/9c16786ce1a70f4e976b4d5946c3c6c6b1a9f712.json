@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The sender-supplied username contains a SQL-injection-style authentication payload, and 193 connections with unusually high outbound volume warrant escalation despite the HTTP 401 response.\"}"}

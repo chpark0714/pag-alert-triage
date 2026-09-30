@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 383 connections in 5.94 seconds with repeated authentication failures against an internal host strongly indicate automated credential attacks, warranting investigation of the unusually high outbound byte count.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Nmap-identified scanning targeted the sensitive /.env path with 744 connections and anomalously large outbound traffic, warranting investigation despite the HTTP 403 response.\"}"}

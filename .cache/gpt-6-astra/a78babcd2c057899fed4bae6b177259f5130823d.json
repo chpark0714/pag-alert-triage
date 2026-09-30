@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 17.5 MB sent with only 4.6 KB received over 117 connections using an unapproved TLS hostname suggests data exfiltration, warranting investigation despite the private destination IP.\"}"}

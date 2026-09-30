@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The admin credential contains an apparent SQL-injection authentication-bypass attempt, and 225 connections suggest automated attack activity despite the observed HTTP 401 response.\"}"}

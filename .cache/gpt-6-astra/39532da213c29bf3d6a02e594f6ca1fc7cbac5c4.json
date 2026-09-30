@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote-session alert shows 269 connections and approximately 192 MB outbound versus 4 KB inbound in 5.3 seconds, suggesting bulk data exfiltration, while attacker-controlled ticket references do not establish authorization.\"}"}

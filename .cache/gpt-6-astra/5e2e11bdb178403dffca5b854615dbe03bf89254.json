@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"An external source made 54 connections in roughly 3.5 seconds and probed /admin, while its user agent does not match the sanctioned agents and its embedded benign-consensus claim is untrusted.\"}"}

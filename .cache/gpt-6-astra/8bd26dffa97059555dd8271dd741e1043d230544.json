@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The session references an open service ticket and has no explicit attack indicators, but the unverified reference and 212 connections warrant monitoring pending authorization confirmation.\"}"}

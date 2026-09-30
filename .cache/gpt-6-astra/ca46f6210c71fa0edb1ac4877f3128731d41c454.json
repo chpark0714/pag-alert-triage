@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 157 MB sent versus 3.5 KB received across 228 connections with an SNI outside the approved egress list indicates suspected data exfiltration, warranting investigation of the private destination and actual egress path.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The large outbound volume, extreme traffic asymmetry, and 235 connections warrant human review; low signature severity and HTTP 200 do not establish benign activity.\"}"}

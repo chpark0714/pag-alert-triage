@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload of q3_report.xlsx.php suggests a PHP payload disguised as a spreadsheet, with HTTP 200 and unusually high traffic volume warranting investigation for successful malicious file upload.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 166 MB outbound versus 3 KB inbound across 99 connections indicates suspected bulk data exfiltration, and attacker-controlled domain strings cannot establish authorization.\"}"}

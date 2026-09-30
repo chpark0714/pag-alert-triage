@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 337 MB transferred with only 5 KB received across 467 connections in 1.087 seconds to an uncommon destination strongly suggests bulk exfiltration or unauthorized staging and warrants investigation.\"}"}

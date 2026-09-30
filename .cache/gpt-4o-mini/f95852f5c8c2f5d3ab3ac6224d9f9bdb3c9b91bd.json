@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"Approximately 758 MB outbound versus 8 KB inbound over 8.9 seconds is a substantial traffic asymmetry that requires investigation, and neither the low severity prior nor private IP addresses establishes benign activity.\"}"}

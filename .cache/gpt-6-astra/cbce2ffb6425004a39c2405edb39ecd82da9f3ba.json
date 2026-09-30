@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external remote session generated 85 connections and approximately 523 MB outbound in 2.61 seconds, indicating potential exfiltration, while attacker-supplied ticket references provide no verified authorization.\"}"}

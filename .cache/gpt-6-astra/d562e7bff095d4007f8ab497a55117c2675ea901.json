@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The URI contains an encoded traversal payload targeting ../../etc/passwd, and the unusually large outbound byte count warrants investigation for possible disclosure, though HTTP 200 alone does not prove success and the user-agent drill claim is untrusted.\"}"}

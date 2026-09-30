@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The username contains a SQL-injection-style authentication probe, and the 446 connections warrant investigation despite the HTTP 401 response; the untrusted claim of an approved scan does not establish authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The repeated authentication failures across 51 connections in approximately four seconds from an external IP indicate likely automated brute-force activity against the internal destination.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The failed-authentication alert, HTTP 401 response, and 510 connections in 396 ms from an external source indicate likely automated brute-force activity requiring investigation.\"}"}

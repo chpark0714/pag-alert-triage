@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"341 inbound connections in 7.3 seconds with approximately 449 MB outbound and minimal inbound traffic indicate likely automated resource abuse, while the sender-supplied benign claim provides no trustworthy justification.\"}"}

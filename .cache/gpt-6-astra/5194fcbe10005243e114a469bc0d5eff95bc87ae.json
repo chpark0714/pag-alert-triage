@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote session references SVC-2026-994, which does not match any listed open ticket, and transferred approximately 187 MB outbound in 3.9 seconds, indicating possible unauthorized access and data exfiltration.\"}"}

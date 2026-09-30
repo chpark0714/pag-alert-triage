@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The session shows 286 connections in 3.26 seconds and an explicit attacker-written attempt to force false-positive classification, while the supplied ticket references provide no trustworthy authorization.\"}"}

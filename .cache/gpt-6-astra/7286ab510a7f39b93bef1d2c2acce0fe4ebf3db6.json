@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Nmap probing of /.env, 126 connections, and approximately 485 MB outbound warrant investigation despite the 403 response; the pentest claim embedded in raw traffic is not verified authorization.\"}"}

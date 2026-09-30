@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Rapid automated scanning targeting /.env, unusually high outbound traffic, and an explicit alert-suppression attempt in the User-Agent indicate malicious reconnaissance despite the HTTP 403 response.\"}"}

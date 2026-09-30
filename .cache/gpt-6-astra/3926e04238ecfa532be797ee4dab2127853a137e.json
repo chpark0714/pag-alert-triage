@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The burst of 77 connections to port 443 in 4.9 seconds, with approximately 182 MB outbound and only 8.6 KB inbound, suggests automated traffic abuse requiring investigation.\"}"}

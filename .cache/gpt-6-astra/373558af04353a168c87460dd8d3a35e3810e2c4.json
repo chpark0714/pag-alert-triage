@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote session generated 99 connections and approximately 258 MB of outbound traffic in 5.5 seconds, while sender-supplied references do not establish authorization and the session reference does not match the listed tickets.\"}"}

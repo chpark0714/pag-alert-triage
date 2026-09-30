@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 505 MB outbound across 301 connections in 8.5 seconds suggests suspicious automated bulk uploading, and the sender-supplied spreadsheet filename does not establish legitimacy.\"}"}

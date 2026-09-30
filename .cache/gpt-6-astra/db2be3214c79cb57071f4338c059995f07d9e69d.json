@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The request contains an encoded path-traversal payload targeting /etc/passwd, and the large outbound byte count warrants investigation for possible data exposure, although HTTP 200 alone does not confirm exploitation.\"}"}

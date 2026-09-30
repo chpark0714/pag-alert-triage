@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The double-extension filename q3_report.xlsx.php uploaded to /upload with HTTP 200 strongly suggests a disguised executable upload, and the embedded vendor-approval claim does not establish authorization.\"}"}

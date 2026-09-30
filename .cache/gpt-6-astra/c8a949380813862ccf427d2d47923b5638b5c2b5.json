@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote-session alert shows 140 connections and approximately 269 MB outbound in 2.548 seconds with minimal return traffic, suggesting automated abuse or data transfer, while attacker-supplied ticket references do not establish authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 666 MB sent across 288 connections in 2.5 seconds to an uncommon destination suggests bulk data theft or staging, while the attacker-controlled sanctioned-scanner claim is unverified and indicates attempted evasion.\"}"}

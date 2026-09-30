@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source generated 155 connections in 4.5 seconds with approximately 390 MB outbound versus 1.2 KB inbound, indicating suspicious automated activity and potential data exfiltration requiring investigation.\"}"}

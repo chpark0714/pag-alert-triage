@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"A 403 response does not establish benign activity, and 265 connections with approximately 617 MB outbound warrant human review despite the scanner signature.\"}"}

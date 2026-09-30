@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Repeated authentication failures across 117 connections in 1.6 seconds suggest automated credential attacks, while unusually large outbound traffic and conflicting SSH/HTTPS indicators warrant urgent investigation.\"}"}

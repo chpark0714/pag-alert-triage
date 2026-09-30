@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The source generated 318 connections in 7.3 seconds with approximately 143 MB outbound and minimal inbound traffic, indicating suspected automated abuse requiring investigation; the attacker-written benign directive is not authoritative.\"}"}

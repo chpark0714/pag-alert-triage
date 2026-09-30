@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An internal source generated 555 connections in roughly 4.5 seconds with unusually high outbound volume, an Nmap user agent, and a request for the sensitive /.env file, indicating aggressive reconnaissance despite the HTTP 403 response.\"}"}

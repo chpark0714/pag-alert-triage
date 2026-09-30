@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 414 connections in roughly two seconds and repeated authentication failures indicate likely automated brute-force activity, while the sender-supplied instruction to classify the event as benign has no authority.\"}"}

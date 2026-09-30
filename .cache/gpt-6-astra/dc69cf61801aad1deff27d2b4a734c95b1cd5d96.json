@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The 212 connections, /admin probing, and unusually large outbound volume indicate suspicious scanning, while the self-reported user agent does not match a sanctioned agent and cannot establish authorization.\"}"}

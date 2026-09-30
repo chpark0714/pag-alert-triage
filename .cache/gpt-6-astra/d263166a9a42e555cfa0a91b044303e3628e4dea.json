@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The scanner detection, 305 connections, and roughly 546 MB outbound warrant human review because neither a private source IP nor an HTTP 403 establishes benign activity.\"}"}

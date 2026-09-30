@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The Nmap user agent, probe for the sensitive /.env file, and 305 connections in 5.82 seconds indicate automated reconnaissance requiring investigation despite the HTTP 403 denial.\"}"}

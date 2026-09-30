@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The URL-encoded query decodes to ../../etc/passwd, indicating a directory traversal attempt, and the unusually large outbound byte count warrants investigation, although HTTP 200 alone does not confirm exploitation.\"}"}

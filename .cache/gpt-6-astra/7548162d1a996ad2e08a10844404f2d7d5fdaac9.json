@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner alert, 198 connections in 168 ms, and attempted /admin access indicate reconnaissance, while attacker-controlled scanner identifiers do not establish authorization.\"}"}

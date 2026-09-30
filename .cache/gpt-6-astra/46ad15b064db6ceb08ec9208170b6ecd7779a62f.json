@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 532 connections in 5.93 seconds with repeated authentication failures indicate automated authentication abuse, and the sender-controlled username contains an explicit attempt to manipulate alert classification.\"}"}

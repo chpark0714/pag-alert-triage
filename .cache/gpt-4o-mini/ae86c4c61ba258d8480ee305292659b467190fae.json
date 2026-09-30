@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"benign\",\n  \"severity\": \"low\",\n  \"action\": \"close\",\n  \"reason\": \"The source IP is tagged as a sanctioned scanner by the vuln-mgmt team.\"\n}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The session shows 307 connections and approximately 502 MB outbound versus 408 bytes inbound in 7.3 seconds, consistent with potential exfiltration, while sender-supplied references provide no verified authorization and include an instruction-manipulation attempt.\"}"}

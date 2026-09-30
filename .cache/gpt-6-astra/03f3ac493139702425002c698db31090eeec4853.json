@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 666 MB sent across 288 connections in 2.5 seconds with minimal return traffic indicates suspected bulk data exfiltration or unauthorized internal transfer, and attacker-controlled fields provide no trustworthy authorization.\"}"}

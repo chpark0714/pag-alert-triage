@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The rapid 244-connection burst and /admin probe indicate suspicious reconnaissance, while sender-supplied Nessus identifiers do not establish authorization and warrant escalation for validation.\"}"}

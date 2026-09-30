@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 209 connections in 2.6 seconds with approximately 398 MB outbound versus 819 bytes inbound indicates suspected abuse or data exfiltration, and the sender-supplied benign-review claim is not authoritative.\"}"}

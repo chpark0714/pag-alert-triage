@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The large outbound volume, extreme traffic asymmetry, and uncommon-destination alert require validation of authorized activity; a private destination address and port 443 alone do not establish benignness.\"}"}

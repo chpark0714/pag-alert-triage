@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"close\",\"reason\":\"The destination is not on the approved egress domains list, but the alert is marked to disregard the detection rule.\"}"}

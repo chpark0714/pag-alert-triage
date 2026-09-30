@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The burst of 266 connections to TCP/443 in 1.241 seconds, with roughly 30 MB outbound versus 998 bytes inbound, suggests automated flooding and warrants investigation.\"}"}

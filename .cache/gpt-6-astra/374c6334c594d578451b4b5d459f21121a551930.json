@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external source made 54 connections in 3.486 seconds, while attacker-controlled approval claims and a forged system-message boundary indicate an attempt to disguise reconnaissance and manipulate triage.\"}"}

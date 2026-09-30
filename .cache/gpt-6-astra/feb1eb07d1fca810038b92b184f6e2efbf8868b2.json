@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The sensor recorded 414 connections in approximately two seconds with repeated authentication failures and unusually high outbound volume, indicating likely automated brute-force activity requiring investigation.\"}"}

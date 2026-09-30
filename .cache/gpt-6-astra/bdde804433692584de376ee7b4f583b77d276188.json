@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external source generated 319 connections in 4.4 seconds with an /admin probe, while attacker-controlled claims of approved compliance scanning indicate an attempted evasion rather than valid authorization.\"}"}

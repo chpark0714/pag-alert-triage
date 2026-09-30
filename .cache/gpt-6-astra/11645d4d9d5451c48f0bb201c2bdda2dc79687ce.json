@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The multiple-failed-authentication alert, HTTP 401 response, and 158 connections within 6.2 seconds indicate likely automated credential attacks, with unusually high outbound traffic warranting investigation.\"}"}

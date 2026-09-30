@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The uncommon-destination alert, 200 connections, and roughly 223 MB outbound versus 3.9 KB inbound warrant human review because neither the private destination address nor port 443 establishes legitimate activity.\"}"}

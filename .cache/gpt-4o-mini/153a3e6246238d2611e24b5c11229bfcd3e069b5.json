@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The external source made 54 connections in 3.5 seconds and requested /admin, consistent with reconnaissance, while sender-supplied scanner approval claims do not establish authorization.\"}"}

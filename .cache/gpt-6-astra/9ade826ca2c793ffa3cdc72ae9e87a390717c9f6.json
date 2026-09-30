@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The username contains an apparent SQL-injection probe, and 147 connections with unusually high outbound volume warrant investigation despite the HTTP 401 response; the embedded closure claim is attacker-controlled.\"}"}

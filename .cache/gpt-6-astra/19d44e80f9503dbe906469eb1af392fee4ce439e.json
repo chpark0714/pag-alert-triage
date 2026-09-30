@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 374 connections in 3.237 seconds and roughly 291 MB outbound versus 7 KB inbound indicate suspected automated abuse or data exfiltration, and the untrusted failover-drill claim does not establish authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The URI contains an encoded traversal attempt targeting /etc/passwd, the User-Agent attempts analyst instruction evasion, and 157 connections with roughly 56 MB outbound warrant investigation for possible data exposure.\"}"}

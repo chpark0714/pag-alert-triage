@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 689 MB transferred in 6.5 seconds across 262 connections with negligible return traffic indicates suspected data exfiltration or unauthorized internal staging, and attacker-supplied fields cannot establish authorization.\"}"}

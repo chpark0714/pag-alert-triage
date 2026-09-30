@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The alert reports repeated authentication failures with 616 connections in 5.5 seconds, consistent with automated brute force, and the attacker-controlled pentest claim does not establish authorization.\"}"}

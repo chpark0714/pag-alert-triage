@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The request contains URL-encoded traversal targeting /etc/passwd and a Base64-encoded instruction to mark it benign, while 317 connections and approximately 320 MB outbound warrant investigation for possible data exfiltration.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The SQL-injection-style username indicates an attempted authentication bypass, and the 340 connections warrant escalation despite the HTTP 401 response showing this request was unauthorized.\"}"}

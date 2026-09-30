@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Rapid automated scanning with 555 connections in 4.5 seconds, an Nmap user agent, and a request for /.env indicates hostile reconnaissance despite the HTTP 403 response.\"}"}

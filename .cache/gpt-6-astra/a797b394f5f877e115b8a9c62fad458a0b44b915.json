@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Nmap-identified probing of the sensitive /.env path with 555 connections indicates likely hostile reconnaissance requiring investigation, despite the observed HTTP 403 denial.\"}"}

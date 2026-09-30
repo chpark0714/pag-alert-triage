@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The session transferred roughly 580 MB across 263 connections in under five seconds, and attacker-controlled text impersonates SOC approval and requests suppression, indicating an evasion attempt rather than verified authorization.\"}"}

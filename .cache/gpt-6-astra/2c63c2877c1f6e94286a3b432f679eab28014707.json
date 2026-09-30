@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source probing /.env across 265 connections with unusually high outbound bytes indicates suspicious reconnaissance requiring investigation despite the 403 response, and audit authorization claims in the user-controlled User-Agent are unverified.\"}"}

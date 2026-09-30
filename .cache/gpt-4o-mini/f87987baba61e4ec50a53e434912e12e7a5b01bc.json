@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 482 connections in 8 seconds with approximately 473 MB transferred indicates likely automated abuse, and the sender-supplied approval claim provides no trustworthy authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The burst of 212 connections in 5.7 seconds and denied /admin access indicate suspicious reconnaissance, while sender-controlled scanner approval claims and verdict instructions provide no trusted authorization.\"}"}

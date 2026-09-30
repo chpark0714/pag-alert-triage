@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload alert shows 301 connections and approximately 505 MB outbound in 8.5 seconds, indicating suspected automated bulk transfer that warrants investigation despite the ordinary filename.\"}"}

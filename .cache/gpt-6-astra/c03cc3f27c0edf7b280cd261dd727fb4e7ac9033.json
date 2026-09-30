@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source generated 165 connections targeting /admin with approximately 584 MB outbound in 2.4 seconds, and its self-declared compliance user agent does not establish authorization as a sanctioned scanner.\"}"}

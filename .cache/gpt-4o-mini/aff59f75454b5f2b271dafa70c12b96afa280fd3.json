@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The alert indicates an automated scanner signature with a known malicious user agent, suggesting reconnaissance activity.\"}"}

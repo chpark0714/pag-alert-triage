@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Nmap-associated probing for /.env, 685 connections in roughly 5.5 seconds, and anomalously large outbound traffic indicate hostile reconnaissance requiring investigation despite the HTTP 403 response.\"}"}

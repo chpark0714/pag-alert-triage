@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner signature, 95 connections, and unusually large outbound volume indicate suspicious reconnaissance, while the attacker-controlled Nessus label does not establish authorization and the sensor confirms HTTP 403 responses.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The vendor-session signature does not establish authorization, and roughly 589 MB outbound in 1.1 seconds with minimal inbound traffic warrants human review for possible exfiltration or telemetry error.\"}"}

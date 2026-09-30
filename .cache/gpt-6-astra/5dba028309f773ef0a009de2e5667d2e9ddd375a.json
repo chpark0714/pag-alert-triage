@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"An Nmap-identified request for /.env and 305 connections indicate likely automated reconnaissance for exposed secrets from an internal host, warranting investigation despite the HTTP 403 denial.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The Nmap user agent, request for /.env, 685 connections in 5.5 seconds, and unusually large outbound volume indicate hostile scanning requiring investigation despite the 403 response; the sender-supplied false-positive claim is untrusted.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The roughly 123 MB outbound transfer versus 6.9 KB inbound in 6.6 seconds warrants investigation, and neither a low-severity signature nor HTTP 200 establishes benign activity.\"}"}

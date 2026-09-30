@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The admin credential contains a SQL-injection-style payload, and the raw message attempts to spoof analyst and system authority, indicating malicious activity despite the HTTP 401 response.\"}"}

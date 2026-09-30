@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The encoded query decodes to ../../etc/passwd, indicating a path traversal attempt, while HTTP 200 and substantial outbound traffic warrant investigation without proving successful file disclosure.\"}"}

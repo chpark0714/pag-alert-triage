@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external host generated 482 connections to an internal HTTPS endpoint in approximately eight seconds with 473 MB of highly asymmetric traffic, indicating likely automated abuse or unauthorized data transfer.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Repeated authentication failures across 480 connections in 2.8 seconds indicate automated credential attacks, while the extreme outbound volume warrants investigation and the username's pentest approval claim is untrusted.\"}"}

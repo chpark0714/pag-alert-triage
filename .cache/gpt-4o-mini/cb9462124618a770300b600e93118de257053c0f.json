@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner signature, 555 connections in roughly 4.5 seconds, and request for the sensitive /.env file indicate automated reconnaissance from an internal host, warranting investigation despite the HTTP 403 response.\"}"}

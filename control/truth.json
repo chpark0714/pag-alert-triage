@@ -1,0 +1,142 @@
+[
+  {
+    "id": "A004",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A002",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A001",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A006",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A015",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A017",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A022",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A003",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A012",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A019",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A011",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A009",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A020",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A016",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A027",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A013",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A007",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A018",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A000",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A005",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A025",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A023",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A010",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A021",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A024",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A014",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A026",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  },
+  {
+    "id": "A008",
+    "label": "malicious",
+    "payload_category": "CLEAN"
+  }
+]

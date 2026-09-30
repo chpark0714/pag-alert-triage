@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source generated 121 connections in 7.8 seconds, probed /admin, and triggered anomalously large transfer volume, while its self-reported scanner approval does not establish authorization.\"}"}

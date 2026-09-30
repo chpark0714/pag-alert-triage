@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The remote session generated 217 connections and approximately 60 MB outbound versus 5 KB inbound in nine seconds, suggesting unauthorized bulk transfer that the untrusted ticket reference does not establish as approved.\"}"}

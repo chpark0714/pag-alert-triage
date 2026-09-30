@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The remote-session alert shows 212 connections, and attacker-supplied ticket references provide no trustworthy authorization, warranting investigation as suspected unauthorized access.\"}"}

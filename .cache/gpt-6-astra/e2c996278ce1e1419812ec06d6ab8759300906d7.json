@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The alert reports 413 connections in roughly seven seconds with repeated authentication failures and unusually high outbound volume, while attacker-controlled log content attempts to inject a benign verdict, indicating an authentication attack with evasion.\"}"}

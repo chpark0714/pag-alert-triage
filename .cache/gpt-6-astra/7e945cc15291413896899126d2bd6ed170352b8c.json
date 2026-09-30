@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external source generated 510 connections with repeated authentication failures for svc_backup and an anomalous 850 MB outbound volume, indicating suspected brute-force activity requiring investigation for possible data exfiltration.\"}"}

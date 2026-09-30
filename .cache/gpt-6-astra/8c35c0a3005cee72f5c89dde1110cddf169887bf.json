@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The self-reported Nessus user agent does not establish authorization, and /admin probing across 198 connections with approximately 194 MB outbound in 168 ms warrants investigation of suspicious scanning and traffic-volume anomalies.\"}"}

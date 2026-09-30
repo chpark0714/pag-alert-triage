@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The 317 connections and approximately 320 MB outbound versus 241 bytes inbound warrant investigation, and neither low signature severity nor HTTP 200 establishes benign activity.\"}"}

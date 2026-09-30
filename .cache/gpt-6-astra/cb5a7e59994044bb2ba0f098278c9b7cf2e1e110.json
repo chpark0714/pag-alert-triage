@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The roughly 619 MB outbound transfer in 3.9 seconds with minimal return traffic suggests potential exfiltration or unauthorized internal staging, and attacker-controlled domain claims do not establish authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 533 MB transferred across 277 connections in 4.2 seconds suggests possible data exfiltration, and the approved-domain SNI does not resolve the inconsistent traffic direction or authenticate the destination.\"}"}

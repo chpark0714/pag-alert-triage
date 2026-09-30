@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The failed-authentication alert with 413 connections in roughly seven seconds indicates likely automated credential abuse, and the sender-supplied benign verdict has no authority.\"}"}

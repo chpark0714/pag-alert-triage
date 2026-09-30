@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Repeated authentication failures targeting svc_backup from an external IP across 510 connections in 396 ms indicate automated credential attacks, with anomalous outbound volume warranting urgent investigation.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Failed authentications targeting svc_backup from a public IP across 395 connections indicate suspected brute-force activity, while approximately 478 MB of outbound traffic warrants urgent investigation for possible compromise.\"}"}

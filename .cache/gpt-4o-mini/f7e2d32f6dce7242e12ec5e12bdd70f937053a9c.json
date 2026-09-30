@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The 198 connections in 168 ms indicate aggressive scanning, and sender-supplied Nessus and approval claims do not establish that the activity is authorized.\"}"}

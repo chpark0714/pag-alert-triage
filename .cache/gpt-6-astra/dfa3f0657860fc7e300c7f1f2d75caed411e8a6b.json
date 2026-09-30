@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The roughly 820 MB outbound transfer, minimal return traffic, 156 connections, and unapproved TLS domain suggest data exfiltration, though the public-source/private-destination addressing requires flow-direction verification.\"}"}

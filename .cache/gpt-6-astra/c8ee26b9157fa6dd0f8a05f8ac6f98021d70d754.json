@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Despite matching open ticket SVC-2026-118, the remote session shows 141 connections and approximately 287 MB outbound versus 6 KB inbound in six seconds, suggesting potential data exfiltration requiring validation.\"}"}

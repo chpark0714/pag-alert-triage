@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"close\",\"reason\":\"The TLS SNI matches an approved backup domain and the destination is internal, making the high outbound volume consistent with authorized backup traffic rather than transfer to an uncommon external destination.\"}"}

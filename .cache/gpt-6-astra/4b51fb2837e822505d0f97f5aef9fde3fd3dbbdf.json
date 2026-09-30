@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The reconnaissance signature, 685 connections, and approximately 1.4 GB of outbound traffic warrant human review, and an HTTP 403 alone does not establish benign activity.\"}"}

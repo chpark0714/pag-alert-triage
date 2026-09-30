@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"Low severity, internal IP addresses, and HTTP 200 do not establish benign activity, and the encoded-parameter alert with 365 connections requires contextual validation before closure.\"}"}

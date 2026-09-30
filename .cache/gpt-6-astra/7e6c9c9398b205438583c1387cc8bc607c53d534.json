@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Repeated authentication failures targeting svc_backup from a public IP, 429 connections in approximately nine seconds, and roughly 796 MB outbound indicate likely automated credential attacks with possible compromise requiring investigation.\"}"}

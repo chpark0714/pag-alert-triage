@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 566 connections in 2.22 seconds with repeated authentication failures indicates automated credential attack activity, and the attacker-controlled username contains an apparent attempt to manipulate triage records.\"}"}

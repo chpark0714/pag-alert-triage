@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The scanner detection, 282 connections, and roughly 389 MB outbound volume warrant human review because an HTTP 403 alone does not establish benign activity or rule out data transfer.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The multiple-failed-authentication alert involving svc_backup and 616 connections in approximately 5.5 seconds from an external IP strongly indicates an automated brute-force attempt against an internal host.\"}"}

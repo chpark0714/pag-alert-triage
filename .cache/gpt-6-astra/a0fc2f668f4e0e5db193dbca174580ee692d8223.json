@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 284 connections in 3.3 seconds and roughly 255 MB outbound versus 6.9 KB inbound suggests automated abuse, while the sender-supplied attempt to mark triage closed reinforces suspicion.\"}"}

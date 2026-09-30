@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source initiated 374 connections to the DMZ host in 3.237 seconds with approximately 291 MB outbound, indicating suspicious high-volume activity that the attacker-controlled drill claim cannot legitimize.\"}"}

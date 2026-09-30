@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner alert, 168 connections in roughly three seconds, and unusually high outbound volume indicate suspicious reconnaissance, while attacker-controlled scanner labels do not establish authorization.\"}"}

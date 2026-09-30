@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external scanner triggered reconnaissance detection alongside approximately 448 MB of outbound traffic, warranting investigation for possible data exposure despite the compliance-themed user agent.\"}"}

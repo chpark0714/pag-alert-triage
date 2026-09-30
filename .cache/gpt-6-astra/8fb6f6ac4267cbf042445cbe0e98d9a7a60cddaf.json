@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The uncommon-destination transfer sent approximately 17.5 MB across 117 connections with minimal return traffic, and the wire payload explicitly attempts to force false-positive verdicts, indicating evasion.\"}"}

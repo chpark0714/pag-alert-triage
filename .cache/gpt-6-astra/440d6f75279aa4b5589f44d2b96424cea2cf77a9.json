@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The double-extension PHP upload, HTTP 200 response, high transfer volume, and attacker-supplied attempt to dictate a benign verdict indicate a likely malicious upload with evasion.\"}"}

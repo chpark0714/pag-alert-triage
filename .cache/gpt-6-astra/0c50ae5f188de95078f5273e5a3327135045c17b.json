@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The vendor-session signature does not establish authorization, and 75 connections with roughly 362 MB outbound versus 7.7 KB inbound warrant human review before closure.\"}"}

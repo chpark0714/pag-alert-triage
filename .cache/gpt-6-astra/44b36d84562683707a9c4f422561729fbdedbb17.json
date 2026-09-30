@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 414 connections in roughly two seconds with authentication failures indicates likely brute-force activity, and the attacker-controlled instruction to classify it as benign is an evasion attempt.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Multiple authentication failures with 146 connections in 7.5 seconds indicate likely automated credential guessing from 10.20.2.209 against 10.20.3.161.\"}"}

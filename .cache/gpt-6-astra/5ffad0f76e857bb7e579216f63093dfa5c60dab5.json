@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An authentication-failure connection transferred approximately 135 MB outbound in two seconds, an anomalous volume warranting investigation for potential unauthorized data transfer despite only one recorded connection.\"}"}

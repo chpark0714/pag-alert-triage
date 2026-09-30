@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The scanner signature, 282 connections, and request for /.env indicate malicious reconnaissance despite the 403 response, while the attacker-supplied claim of a benign verdict is an evasion attempt.\"}"}

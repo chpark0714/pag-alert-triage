@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Scanner activity targeting /admin includes an explicit verdict-manipulation attempt and unusually high outbound volume, while attacker-controlled agent strings provide no valid scan authorization.\"}"}

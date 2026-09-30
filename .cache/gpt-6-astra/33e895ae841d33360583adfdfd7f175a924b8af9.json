@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The alert reports repeated authentication failures for svc_backup from an external IP with 616 connections in roughly 5.5 seconds, strongly indicating automated brute-force activity.\"}"}

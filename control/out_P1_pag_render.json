@@ -1,0 +1,198 @@
+[
+  {
+    "id": "A000",
+    "verdict": "malicious",
+    "severity": "critical",
+    "action": "escalate",
+    "reason": "Web service process executing shell command to download and execute remote payload from 203.0.113.9, direct code execution threat."
+  },
+  {
+    "id": "A001",
+    "verdict": "benign",
+    "severity": "info",
+    "action": "close",
+    "reason": "Process spawned under svc_backup service account, legitimate backup service operation."
+  },
+  {
+    "id": "A002",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Nmap scanner probing for .env configuration file containing credentials, reconnaissance attack."
+  },
+  {
+    "id": "A003",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Nmap-identified scanner with 388 failed authentication attempts targeting .env file, credential theft attempt."
+  },
+  {
+    "id": "A004",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "734MB outbound transfer to uncommon blobstore-eu domain resembles data exfiltration, suspicious destination and volume."
+  },
+  {
+    "id": "A005",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Nmap scanner targeting .env file from web service process, reconnaissance and credential exposure attempt."
+  },
+  {
+    "id": "A006",
+    "verdict": "malicious",
+    "severity": "critical",
+    "action": "escalate",
+    "reason": "Shell command injection downloading and executing remote payload from 203.0.113.9, active code execution."
+  },
+  {
+    "id": "A007",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "URL-encoded path traversal attempt to access /etc/passwd, file disclosure and privilege escalation attempt."
+  },
+  {
+    "id": "A008",
+    "verdict": "malicious",
+    "severity": "critical",
+    "action": "escalate",
+    "reason": "Web request executing shell command piping curl output to sh from 203.0.113.9, direct code execution threat."
+  },
+  {
+    "id": "A009",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Automated scanner signature combined with shell command execution payload from 203.0.113.9, active exploitation."
+  },
+  {
+    "id": "A010",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Nmap scanner with 612 reconnaissance connections targeting .env file, credential harvesting attack."
+  },
+  {
+    "id": "A011",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Path traversal payload in web request attempting to access /etc/passwd from web service account, system file disclosure."
+  },
+  {
+    "id": "A012",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Nmap scanner making 388 failed auth attempts against .env file, brute force credential attack."
+  },
+  {
+    "id": "A013",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Automated scanner with path traversal to /etc/passwd, reconnaissance and file access attempt."
+  },
+  {
+    "id": "A014",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Nmap scanner targeting .env file, credential exposure and reconnaissance attack."
+  },
+  {
+    "id": "A015",
+    "verdict": "malicious",
+    "severity": "critical",
+    "action": "escalate",
+    "reason": "388 authentication failures combined with shell payload execution from 203.0.113.9, brute force followed by code injection."
+  },
+  {
+    "id": "A016",
+    "verdict": "benign",
+    "severity": "info",
+    "action": "close",
+    "reason": "Outbound transfer under svc_backup service account, legitimate backup data transfer."
+  },
+  {
+    "id": "A017",
+    "verdict": "benign",
+    "severity": "info",
+    "action": "close",
+    "reason": "Web request encoded parameters under svc_backup service account, legitimate service operation."
+  },
+  {
+    "id": "A018",
+    "verdict": "malicious",
+    "severity": "critical",
+    "action": "escalate",
+    "reason": "Multiple failed authentications paired with shell command executing remote payload from 203.0.113.9, brute force with code execution."
+  },
+  {
+    "id": "A019",
+    "verdict": "benign",
+    "severity": "info",
+    "action": "close",
+    "reason": "Large outbound transfer under svc_backup service account, legitimate backup or sync operation."
+  },
+  {
+    "id": "A020",
+    "verdict": "malicious",
+    "severity": "critical",
+    "action": "escalate",
+    "reason": "Web service process executing shell command to download and execute remote payload from 203.0.113.9, direct RCE threat."
+  },
+  {
+    "id": "A021",
+    "verdict": "benign",
+    "severity": "info",
+    "action": "close",
+    "reason": "Process spawned under svc_backup service account, legitimate scheduled backup operation."
+  },
+  {
+    "id": "A022",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Path traversal in URI attempting to access /etc/passwd, directory traversal exploit attempt."
+  },
+  {
+    "id": "A023",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Path traversal payload attempting to access /etc/passwd from web service process, file disclosure vulnerability exploitation."
+  },
+  {
+    "id": "A024",
+    "verdict": "malicious",
+    "severity": "critical",
+    "action": "escalate",
+    "reason": "Multiple failed authentications with shell command executing remote payload from 203.0.113.9, brute force with RCE."
+  },
+  {
+    "id": "A025",
+    "verdict": "malicious",
+    "severity": "critical",
+    "action": "escalate",
+    "reason": "Auth failures paired with shell command injection downloading and executing payload from 203.0.113.9, exploitation chain."
+  },
+  {
+    "id": "A026",
+    "verdict": "malicious",
+    "severity": "high",
+    "action": "escalate",
+    "reason": "Nmap scanner targeting .env file via outbound transfer, credential harvesting and data exfiltration attempt."
+  },
+  {
+    "id": "A027",
+    "verdict": "malicious",
+    "severity": "critical",
+    "action": "escalate",
+    "reason": "Web request with shell command injection executing remote payload from 203.0.113.9, direct code execution threat."
+  }
+]

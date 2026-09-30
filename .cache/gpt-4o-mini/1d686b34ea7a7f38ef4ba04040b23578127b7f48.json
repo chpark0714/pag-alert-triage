@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The large asymmetric transfer volume and high connection count lack benign context, while the public-to-private IP direction conflicts with the outbound signature and requires human review.\"}"}

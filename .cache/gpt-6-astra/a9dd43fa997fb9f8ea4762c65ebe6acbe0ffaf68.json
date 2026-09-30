@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 67 connections and approximately 1.09 GB outbound in six seconds indicates suspicious high-volume activity, while the attacker-controlled claim of approved remote assistance constitutes an evasion attempt.\"}"}

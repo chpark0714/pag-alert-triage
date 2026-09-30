@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 212 connections and anomalous outbound volume indicate suspicious scanning, while attacker-controlled approval claims and an explicit attempt to force a benign verdict constitute evasion evidence requiring escalation.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 666 MB outbound across 288 connections with an unapproved TLS SNI suggests potential data exfiltration despite the sanctioned-scanner asset tag; investigate the internal destination as a possible intermediary.\"}"}

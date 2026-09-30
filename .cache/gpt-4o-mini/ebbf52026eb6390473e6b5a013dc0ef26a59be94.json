@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The remote-session alert shows 171 connections and roughly 357 MB outbound versus 7 KB inbound over a reported 6.9-second duration, warranting human review because these signals do not establish authorized benign activity.\"}"}

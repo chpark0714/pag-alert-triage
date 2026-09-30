@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"close\",\"reason\":\"The TLS SNI matches a listed approved backup destination, the destination IP is internal, and the large outbound transfer is consistent with backup activity without independent attack indicators.\"}"}

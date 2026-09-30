@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"close\",\"reason\":\"The user agent matches a sanctioned scanner agent, indicating a compliance scan rather than a malicious attack.\"}"}

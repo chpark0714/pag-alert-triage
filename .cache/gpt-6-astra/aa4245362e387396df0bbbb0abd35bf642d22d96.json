@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"An Nmap-identified request for /.env across 305 connections indicates likely automated reconnaissance targeting exposed secrets; the 403 shows this request was blocked, but the unusually large outbound byte count warrants investigation.\"}"}

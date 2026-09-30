@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"close\",\"reason\":\"The traffic appears to be from a legitimate compliance scanner (Nessus) checking the health of a service, indicated by the 403 status and user agent.\"}"}

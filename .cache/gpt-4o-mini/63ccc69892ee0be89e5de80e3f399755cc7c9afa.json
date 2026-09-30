@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The presence of an automated scanner signature indicates a potential reconnaissance attack.\"}"}

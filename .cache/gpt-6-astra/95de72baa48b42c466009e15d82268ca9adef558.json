@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 209 inbound HTTPS connections in 2.6 seconds, with approximately 398 MB outbound versus 819 bytes inbound, indicates likely automated abuse or unauthorized data transfer.\"}"}

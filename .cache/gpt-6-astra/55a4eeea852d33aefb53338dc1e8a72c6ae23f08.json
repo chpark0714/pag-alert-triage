@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"High-volume automated reconnaissance targeting /.env, with 744 connections and approximately 817 MB outbound, warrants investigation despite the observed HTTP 403 denial.\"}"}

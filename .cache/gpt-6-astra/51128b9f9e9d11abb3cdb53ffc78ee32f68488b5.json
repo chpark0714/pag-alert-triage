@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The alert reports repeated authentication failures targeting svc_backup from an external IP with 369 connections in roughly four seconds, strongly suggesting automated credential guessing despite inconsistent HTTP and SSH indicators.\"}"}

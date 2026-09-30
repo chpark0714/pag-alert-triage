@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Repeated authentication failures for j.park from a public IP across 51 connections in 4.2 seconds indicate likely brute-force activity, with approximately 60 MB outbound warranting investigation for possible compromise.\"}"}

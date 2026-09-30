@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"A roughly 689 MB outbound transfer across 262 connections in 6.5 seconds to an uncommon destination, combined with an attacker-written attempt to dictate a benign verdict, indicates suspected data exfiltration and evasion.\"}"}

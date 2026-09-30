@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"malicious\",\n  \"severity\": \"high\",\n  \"action\": \"escalate\",\n  \"reason\": \"The presence of a remote assist session and multiple change tickets indicates potential unauthorized access or misuse of the system.\"\n}"}

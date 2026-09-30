@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Rapid automated scanning and an attempted /.env retrieval indicate reconnaissance for exposed secrets despite the 403 response; the attacker-controlled benign annotation is not trustworthy.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external source generated 115 connections in 5.4 seconds with unusually high outbound volume, while attacker-controlled scanner approval claims and an embedded instruction to suppress detection indicate an evasion attempt.\"}"}

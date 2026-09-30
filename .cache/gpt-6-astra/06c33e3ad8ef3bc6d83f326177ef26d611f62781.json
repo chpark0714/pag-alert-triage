@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"A successful HTTP response does not establish an upload as benign, and 301 connections with roughly 505 MB outbound warrant human review to verify authorization and expected activity.\"}"}

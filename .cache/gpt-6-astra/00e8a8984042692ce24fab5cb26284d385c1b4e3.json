@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The username contains an apparent SQL injection payload targeting authentication, and although HTTP 401 indicates rejection, the 227 connections and unusually large outbound volume warrant investigation.\"}"}

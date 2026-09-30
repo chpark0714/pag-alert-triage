@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"A successful HTTP response does not establish a legitimate upload, and the large transfer volume and 122 connections require contextual investigation before benign closure.\"}"}

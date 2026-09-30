@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner detection and anomalous 196 MB outbound transfer in roughly eight seconds warrant escalation despite the HTTP 403 response, and the attacker-controlled Nessus identifier does not establish authorization.\"}"}

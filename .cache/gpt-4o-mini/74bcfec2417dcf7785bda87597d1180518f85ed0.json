@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The alert indicates a suspicious file upload with a potentially harmful filename, which warrants further investigation.\"}"}

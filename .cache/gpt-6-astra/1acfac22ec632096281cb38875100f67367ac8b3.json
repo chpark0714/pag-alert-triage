@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The reconnaissance alert shows 198 connections and approximately 194 MB outbound in 168 ms, warranting investigation despite an unverified user-agent claim of an approved compliance scan.\"}"}

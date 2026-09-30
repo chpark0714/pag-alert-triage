@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 310 MB outbound versus 4.6 KB inbound across 352 connections involving an unapproved TLS domain suggests data exfiltration, though the public-to-private address direction requires validation.\"}"}

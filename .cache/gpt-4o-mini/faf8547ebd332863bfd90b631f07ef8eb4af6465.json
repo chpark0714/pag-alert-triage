@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner detection and unusually large outbound volume warrant escalation as suspected unauthorized reconnaissance; sender-supplied Nessus and health-check strings do not establish authorization or override the sensor-observed HTTP 403.\"}"}

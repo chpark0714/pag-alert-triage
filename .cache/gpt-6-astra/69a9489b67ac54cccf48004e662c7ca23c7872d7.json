@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 510 connections with authentication failures indicates automated credential attacks, and the obfuscated instruction in the attacker-controlled message adds evidence of an evasion attempt.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source made 115 connections probing /admin with roughly 410 MB recorded outbound, while its near-match Nessus user agent does not establish authorization as a sanctioned scanner.\"}"}

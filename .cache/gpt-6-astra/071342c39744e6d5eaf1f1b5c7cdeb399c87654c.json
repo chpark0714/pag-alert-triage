@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The SQL-injection-style admin credential and embedded benign-verdict text indicate an authentication attack with an evasion attempt, while 90 connections and unusually high outbound volume warrant investigation despite the HTTP 401 response.\"}"}

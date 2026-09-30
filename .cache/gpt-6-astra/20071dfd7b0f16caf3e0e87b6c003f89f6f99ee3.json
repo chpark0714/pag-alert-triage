@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The unusual-credential alert and roughly 201 MB of outbound traffic in 8.6 seconds warrant review, and a single connection with an HTTP 401 response does not establish benign activity.\"}"}

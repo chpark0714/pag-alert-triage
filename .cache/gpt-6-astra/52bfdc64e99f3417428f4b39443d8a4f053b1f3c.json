@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The highly asymmetric transfer of 337 MB across 467 connections to an uncommon destination suggests exfiltration, and the attacker-written claim of prior security approval indicates an evasion attempt.\"}"}

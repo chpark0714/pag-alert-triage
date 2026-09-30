@@ -1,0 +1,30 @@
+# secrets / local
+.env
+*.key
+# python
+.venv/
+venv/
+__pycache__/
+*.pyc
+# batch bookkeeping (contains OpenAI batch/file ids; regenerable)
+batch_state.json
+batch_*.jsonl
+# paper build intermediates (keep content_v12.js, build12.js, results.json, final PDF)
+paper/_combined_*.js
+paper/node_modules/
+paper/PAG_paper_IEEE.docx
+paper/PAG_paper_IEEE.pdf
+paper/PAG_paper_IEEE_v[0-9].*
+paper/PAG_paper_IEEE_v1[01].*
+paper/content_v[0-9].js
+paper/content_v1[01].js
+paper/build[0-9].js
+paper/build1[01].js
+paper/build.js
+# superseded pilots / drafts
+pilot_v1/
+CHANGES_V2.md
+CHANGES_V3.md
+RESULTS.md
+RESULTS2.md
+OPENAI_TESTING.md

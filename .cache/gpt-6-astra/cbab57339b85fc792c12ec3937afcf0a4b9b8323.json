@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Repeated authentication failures targeting svc_backup from an external IP across 510 connections indicate likely brute-force activity, while approximately 850 MB outbound warrants urgent investigation for possible compromise.\"}"}

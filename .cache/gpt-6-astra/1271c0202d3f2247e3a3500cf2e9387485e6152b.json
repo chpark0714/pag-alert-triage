@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 785 connections in 6.3 seconds with authentication failures indicate automated brute-force activity, while the attacker-controlled claim of an approved scan is an evasion attempt.\"}"}

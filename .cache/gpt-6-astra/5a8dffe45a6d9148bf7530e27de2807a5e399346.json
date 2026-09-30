@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The external remote-assistance session references SVC-2026-994, which does not match any listed open change ticket, and the unusually high connection count warrants investigation for unauthorized access.\"}"}

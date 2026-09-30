@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 187 connections and approximately 277 MB of outbound traffic in 4.69 seconds suggests automated bulk extraction, despite the innocuous encoded search query.\"}"}

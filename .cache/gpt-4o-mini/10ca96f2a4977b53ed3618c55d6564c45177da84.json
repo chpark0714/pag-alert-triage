@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"An external source made 282 connections with an Nmap user agent and requested the sensitive /.env file, indicating automated reconnaissance despite the HTTP 403 response.\"}"}

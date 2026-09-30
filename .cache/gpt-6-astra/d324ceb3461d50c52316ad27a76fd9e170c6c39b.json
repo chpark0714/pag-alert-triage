@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The roughly 293 MB transfer, minimal return traffic, and 460 connections suggest possible exfiltration, while external-to-private addressing contradicts the outbound label and the approved TLS SNI alone does not establish legitimacy.\"}"}

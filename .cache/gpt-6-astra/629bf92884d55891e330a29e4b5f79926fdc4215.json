@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Multiple authentication failures across 209 connections in 3.5 seconds from an external IP to an internal host indicate likely automated credential guessing, with anomalously high outbound traffic warranting investigation.\"}"}

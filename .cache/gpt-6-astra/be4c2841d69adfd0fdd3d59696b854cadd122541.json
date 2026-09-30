@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Rapid automated scanning targeted the sensitive /.env path across 282 connections, and the unusually large outbound volume warrants investigation despite the HTTP 403 response.\"}"}

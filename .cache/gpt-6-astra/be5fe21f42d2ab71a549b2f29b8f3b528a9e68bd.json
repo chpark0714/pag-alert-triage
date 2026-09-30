@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External reconnaissance involving 462 connections, an /admin probe, and approximately 564 MB of outbound traffic is suspicious despite a sanctioned-scanner User-Agent, which can be spoofed and does not establish authorization.\"}"}

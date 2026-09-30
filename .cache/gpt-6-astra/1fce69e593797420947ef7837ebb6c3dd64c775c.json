@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 337 MB outbound with only 5 KB inbound across 467 connections to an uncommon destination strongly suggests data exfiltration, and attacker-writable fields provide no trustworthy authorization.\"}"}

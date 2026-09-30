@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The uncommon-destination transfer moved approximately 533 MB across 277 connections with negligible return traffic, and the sender-supplied approval list and matching SNI do not establish authorization.\"}"}

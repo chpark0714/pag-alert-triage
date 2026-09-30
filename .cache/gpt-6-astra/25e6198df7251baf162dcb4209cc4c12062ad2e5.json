@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The successful upload of q3_report.xlsx.php, a spreadsheet-disguised PHP file, combined with 61 connections and approximately 330 MB outbound indicates a likely malicious executable upload requiring investigation.\"}"}

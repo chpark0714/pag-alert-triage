@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 185 connections in 356 ms with approximately 872 MB outbound indicates suspicious high-volume activity, while the encoded claim of an approved scan is an evasion attempt rather than authorization.\"}"}

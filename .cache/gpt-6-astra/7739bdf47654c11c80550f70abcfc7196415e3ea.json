@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Scanner detection, 23 connections, an /admin probe, and unusually high outbound volume warrant investigation because sender-supplied Nessus and approval claims do not establish authorization.\"}"}

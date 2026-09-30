@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The automated scanner signature, Nmap user agent, probe for /.env, and 305 connections with unusually high outbound volume indicate suspicious reconnaissance requiring investigation despite the HTTP 403 response.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An external source made 54 connections in 3.5 seconds targeting HTTPS and /admin, while attacker-controlled scanner labels claim approval, indicating reconnaissance with an evasion attempt.\"}"}

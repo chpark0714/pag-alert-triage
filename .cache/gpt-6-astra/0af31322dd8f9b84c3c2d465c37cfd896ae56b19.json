@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 282 connections and approximately 670 MB reported outbound in 1.71 seconds suggest suspicious bulk transfer that warrants investigation despite the sanctioned-scanner tag.\"}"}

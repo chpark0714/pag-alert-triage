@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Despite matching a sanctioned scanner user agent, the unverified source generated 187 connections and approximately 406 MB outbound in four seconds, indicating anomalous high-volume activity requiring investigation.\"}"}

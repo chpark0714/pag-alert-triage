@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The SQL-injection-style username indicates an authentication attack, compounded by 234 connections and unusually high outbound traffic, although the HTTP 401 does not establish a successful compromise.\"}"}

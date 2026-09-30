@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The SQL-injection-style admin credential and 255 connections within roughly seven seconds indicate an automated authentication attack despite the HTTP 401 response.\"}"}

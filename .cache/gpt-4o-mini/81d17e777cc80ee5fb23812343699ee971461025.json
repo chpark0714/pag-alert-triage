@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"malicious\",\n  \"severity\": \"medium\",\n  \"action\": \"escalate\",\n  \"reason\": \"The alert indicates an automated scanner signature detection, which is often associated with reconnaissance activities.\"\n}"}

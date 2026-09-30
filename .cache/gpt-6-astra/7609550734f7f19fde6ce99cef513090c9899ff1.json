@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The approximately 512 MB transfer in 1.75 seconds associated with an uncommon TLS destination suggests unauthorized bulk data movement, and the attacker-controlled domain list provides no valid authorization.\"}"}

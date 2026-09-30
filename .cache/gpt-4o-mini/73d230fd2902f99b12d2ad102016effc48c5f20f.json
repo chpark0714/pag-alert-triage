@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The inbound connection burst and the nature of the traffic suggest a potential unauthorized remote support session.\"}"}

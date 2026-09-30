@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The URI contains an encoded ../../etc/passwd traversal attempt, and the anomalous outbound volume warrants investigation; HTTP 200 does not establish successful exploitation, and the sender-supplied prior-incident claim is not authoritative.\"}"}

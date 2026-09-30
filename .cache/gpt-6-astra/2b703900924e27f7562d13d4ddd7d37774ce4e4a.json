@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External scanning of /admin with 398 connections and unusually high outbound volume indicates suspicious reconnaissance, while the self-declared approval in the nonmatching User-Agent does not establish sanctioned scanner status.\"}"}

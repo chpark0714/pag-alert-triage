@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The successful upload request used a deceptive .xlsx.php filename consistent with a potential web shell and included a forged benign verdict in attacker-controlled data, indicating an evasion attempt.\"}"}

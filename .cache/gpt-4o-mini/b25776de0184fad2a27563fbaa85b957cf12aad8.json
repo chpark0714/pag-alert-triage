@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"The reconnaissance alert, 168 connections, and roughly 370 MB outbound versus 3.9 KB inbound over three seconds warrant human review, and private IP addresses alone do not establish benign activity.\"}"}

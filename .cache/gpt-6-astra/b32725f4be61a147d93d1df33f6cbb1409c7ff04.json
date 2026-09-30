@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"External reconnaissance generated 126 connections and targeted /admin, while the self-reported scanner approval is unverified and roughly 80 MB of outbound traffic warrants investigation.\"}"}

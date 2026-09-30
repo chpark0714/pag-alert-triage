@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Despite referencing an open service ticket, the remote session shows 220 connections and approximately 497 MB outbound versus 876 bytes inbound in eight seconds, strongly suggesting data exfiltration requiring validation.\"}"}

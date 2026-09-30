@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Fourteen connections transferring approximately 758 MB outbound versus 8 KB inbound in under nine seconds indicate suspicious bulk data movement requiring investigation.\"}"}

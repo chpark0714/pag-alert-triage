@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The successful external upload involving 190 connections and approximately 323 MB transferred is anomalous for a spreadsheet submission and suggests potential upload-endpoint abuse or data exfiltration.\"}"}

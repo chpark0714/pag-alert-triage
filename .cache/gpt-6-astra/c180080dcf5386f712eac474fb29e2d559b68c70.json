@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Repeated authentication failures with 566 connections in 2.22 seconds and markup-manipulation text in the username indicate automated abuse requiring investigation.\"}"}

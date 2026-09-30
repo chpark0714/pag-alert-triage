@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner signature, 305 connections in 5.82 seconds, and Nmap-identified request for /.env indicate automated reconnaissance targeting sensitive configuration data, despite the observed 403 denial.\"}"}

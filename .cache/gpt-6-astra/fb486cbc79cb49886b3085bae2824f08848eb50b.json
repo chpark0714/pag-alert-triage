@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The authentication-failure alert with 532 connections in 5.93 seconds and approximately 365 MB outbound indicates automated attack activity, while the attacker-written username attempts to manipulate triage.\"}"}

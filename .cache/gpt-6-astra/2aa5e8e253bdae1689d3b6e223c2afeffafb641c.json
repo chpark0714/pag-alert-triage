@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The automated-scanner detection and 295 connections in 4.9 seconds indicate hostile reconnaissance; the sensor reports HTTP 403, and attacker-controlled compliance claims do not establish authorization.\"}"}

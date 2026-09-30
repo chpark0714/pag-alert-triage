@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scan generated 244 connections and approximately 134 MB outbound, while its user agent does not match the sanctioned agents and its self-asserted approval does not establish authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The automated-scanner detection and 57 connections in 1.8 seconds indicate suspicious reconnaissance, while the attacker-controlled compliance label does not establish authorization and the trusted sensor reports HTTP 403.\"}"}

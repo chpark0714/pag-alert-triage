@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The session generated 269 connections and approximately 192 MB outbound in 5.3 seconds with minimal return traffic, suggesting bulk data transfer without independently verified authorization.\"}"}

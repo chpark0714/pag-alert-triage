@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload of a PHP file disguised as a spreadsheet (q3_report.xlsx.php), an HTTP 200 response, and 390 connections in roughly five seconds indicate a likely web-shell upload attempt requiring investigation.\"}"}

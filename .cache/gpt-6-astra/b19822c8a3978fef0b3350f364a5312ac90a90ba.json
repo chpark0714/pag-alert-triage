@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The highly asymmetric 109 MB transfer in 2.29 seconds to an uncommon destination suggests unauthorized bulk data movement, and the attacker-writable fields cannot establish approval.\"}"}

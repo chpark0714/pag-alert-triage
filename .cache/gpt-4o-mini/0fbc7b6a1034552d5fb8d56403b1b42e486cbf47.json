@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"External scanning generated 65 connections in 1.744 seconds and targeted /admin, while the sender-supplied Nessus identity and sanctioned-agent list do not establish authorization.\"}"}

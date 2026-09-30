@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Multiple failed authentications targeting svc_backup across 414 connections in roughly two seconds indicate automated credential attacks, with unusually high outbound traffic warranting further investigation.\"}"}

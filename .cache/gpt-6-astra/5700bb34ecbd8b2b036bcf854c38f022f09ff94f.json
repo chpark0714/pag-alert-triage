@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"monitor\",\"reason\":\"The upload alert contains no attack-specific evidence, but 424 connections over roughly nine seconds warrant monitoring for possible automated abuse.\"}"}

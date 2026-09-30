@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"benign\",\"severity\":\"low\",\"action\":\"close\",\"reason\":\"The query decodes to ordinary Korean text ('\ud55c\uad6d\uc5b4 \ubb38\uc11c'), indicating legitimate UTF-8 URL encoding rather than an exploit payload.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner signature and 157 connections in 1.685 seconds indicate automated reconnaissance, while the attacker-controlled Nessus label does not establish authorization and HTTP 403 does not negate the attempt.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 157 MB sent across 228 connections with negligible return traffic indicates potential data exfiltration to an uncommon destination, and attacker-controlled fields provide no trustworthy authorization.\"}"}

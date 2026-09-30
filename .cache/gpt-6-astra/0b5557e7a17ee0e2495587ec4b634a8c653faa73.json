@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The SQL-injection-style admin credential and 154 connections indicate an authentication attack, while the unusually large outbound volume warrants investigation despite the HTTP 401 response.\"}"}

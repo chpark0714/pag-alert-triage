@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The alert indicates potential reconnaissance activity from an external source targeting an admin endpoint.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"Low prior severity and HTTP 200 do not establish benign activity, while 306 connections and highly asymmetric traffic of approximately 429 MB outbound versus 1.4 KB inbound warrant human review.\"}"}

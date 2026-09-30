@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The burst of 282 connections in 1.71 seconds with roughly 670 MB outbound and only 184 bytes inbound indicates suspicious high-volume activity, and the attacker-controlled sanctioned-scanner claim cannot establish authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"Approximately 369 MB outbound and 168 connections in three seconds indicate suspicious high-volume activity that warrants investigation despite a spoofable user-agent matching a sanctioned scanner.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The sensor detected automated reconnaissance with 95 connections in roughly eight seconds and HTTP 403 responses, while attacker-controlled compliance claims provide no evidence of authorization.\"}"}

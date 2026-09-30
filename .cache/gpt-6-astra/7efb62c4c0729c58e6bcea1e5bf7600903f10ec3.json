@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The approximately 171 MB outbound transfer across 156 connections with minimal return traffic suggests potential data exfiltration, and attacker-controlled domain claims cannot establish authorization.\"}"}

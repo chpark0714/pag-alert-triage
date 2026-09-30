@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"benign\",\n  \"severity\": \"low\",\n  \"action\": \"close\",\n  \"reason\": \"The destination is not on the approved egress domains list, but the large data transfer is likely a legitimate backup or update process.\"\n}"}

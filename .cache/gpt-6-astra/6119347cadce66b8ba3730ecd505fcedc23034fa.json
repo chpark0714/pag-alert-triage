@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The upload involves approximately 478 MB outbound and 309 connections over 2.6 seconds, suggesting suspicious automated bulk transfer rather than a routine spreadsheet upload.\"}"}

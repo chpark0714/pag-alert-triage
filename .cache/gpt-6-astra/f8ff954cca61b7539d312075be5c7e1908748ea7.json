@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"A single 8.9-second connection transferred approximately 112 MB outbound despite a reported HTTP 403, suggesting possible exfiltration or scanner impersonation rather than a routine health check.\"}"}

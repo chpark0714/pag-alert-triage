@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The URI contains an encoded traversal attempt targeting /etc/passwd, the user agent attempts to evade triage by claiming prior approval, and unusually high outbound volume warrants investigation without assuming the HTTP 200 proves exploitation.\"}"}

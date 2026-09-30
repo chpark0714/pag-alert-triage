@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"An unverified external source generated 398 connections in roughly five seconds targeting /admin with unusually large outbound traffic, and its self-claimed approved scanner user agent does not establish authorization.\"}"}

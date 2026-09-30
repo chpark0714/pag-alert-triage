@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External Nmap-style scanning targeted /.env across 126 connections with unusually high outbound volume despite a 403 response, and the pentest authorization claim in untrusted request data is not verified.\"}"}

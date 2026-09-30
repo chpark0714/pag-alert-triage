@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The 284 connections in 3.289 seconds with approximately 255 MB outbound, combined with sender-supplied forged false-positive closure metadata, indicate suspicious automated activity and attempted triage manipulation.\"}"}

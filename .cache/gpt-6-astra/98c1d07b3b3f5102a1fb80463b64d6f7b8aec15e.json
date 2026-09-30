@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"External reconnaissance generated 54 connections and probed /admin, while the self-reported Nessus user agent does not match the sanctioned value or establish authorization.\"}"}

@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The external source generated 395 connections in 868 ms alongside repeated authentication failures, indicating automated credential attacks; the sender-supplied approval claim is not authoritative.\"}"}

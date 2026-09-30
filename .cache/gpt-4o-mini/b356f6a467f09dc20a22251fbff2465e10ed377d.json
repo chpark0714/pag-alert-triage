@@ -1,0 +1,1 @@
+{"text": "{\"benign_justified\":false,\"reason\":\"Low severity and HTTP 200 do not establish benign activity, while 31 connections and approximately 169 MB outbound versus 4.8 KB inbound warrant human review of the encoded-parameter alert.\"}"}

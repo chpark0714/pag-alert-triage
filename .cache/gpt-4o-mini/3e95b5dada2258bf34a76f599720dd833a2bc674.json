@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Rapid scanning activity with 168 connections in approximately three seconds and an /admin request warrants investigation, while sender-supplied Nessus identification does not establish authorization despite the private source IP.\"}"}

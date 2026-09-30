@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"The SQL-injection-style username and 90 connections within 8.4 seconds indicate an authentication attack, although the HTTP 401 response does not establish successful compromise.\"}"}

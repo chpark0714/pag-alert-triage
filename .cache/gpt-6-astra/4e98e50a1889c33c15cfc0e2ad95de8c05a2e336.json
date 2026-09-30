@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"high\",\"action\":\"escalate\",\"reason\":\"External Nmap scanning across 126 connections targeted the sensitive /.env file, and unusually high outbound volume warrants investigation despite the HTTP 403 response.\"}"}

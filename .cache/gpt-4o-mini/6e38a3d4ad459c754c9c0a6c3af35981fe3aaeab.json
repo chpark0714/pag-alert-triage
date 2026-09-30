@@ -1,0 +1,1 @@
+{"text": "{\n  \"verdict\": \"malicious\",\n  \"severity\": \"high\",\n  \"action\": \"escalate\",\n  \"reason\": \"The traffic indicates a reconnaissance scan from a known vulnerability scanner, suggesting potential preparation for an attack.\"\n}"}

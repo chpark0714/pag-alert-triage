@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"Sixty connections in 8.2 seconds with approximately 242 MB outbound and only 1.9 KB inbound indicate a suspicious, highly asymmetric transfer consistent with automated abuse or possible exfiltration.\"}"}

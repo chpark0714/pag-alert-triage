@@ -1,0 +1,1 @@
+{"text": "{\"verdict\":\"malicious\",\"severity\":\"medium\",\"action\":\"escalate\",\"reason\":\"The scanner signature and approximately 112 MB outbound in 8.9 seconds indicate suspicious reconnaissance requiring investigation; the attacker-controlled compliance label does not establish authorization, and the sensor recorded HTTP 403.\"}"}
